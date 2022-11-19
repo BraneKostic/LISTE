@@ -1470,85 +1470,13 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S13/1080p.x264
 #EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E01.Pilling.Them.Softly.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
-#EXTINF:-1, Family Guy S14E02
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E02.Papa.Has.a.Rollin.Son.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E03
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E03.Guy.Robot.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E04
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E04.Peternormal.Activity.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E05
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E05.Peter.Chris.and.Brian.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E06
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E06.Peters.Sister.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E07
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E07.Hot.Pocket-Dial.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E08
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E08.Brokeback.Swanson.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E09
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E09.A.Shot.in.the.Dark.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E10
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E10.Candy.Quahog.Marshmallow.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E11
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E11.The.Peanut.Butter.Kid.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E12
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E12.Scammed.Yankees.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E13
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E13.An.App.a.Day.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E14
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E14.Underage.Peter.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E15
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E15.A.Lot.Going.On.Upstairs.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E16
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E16.The.Heartbreak.Dog.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E17
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E17.Take.a.Letter.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E18
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E18.The.New.Adventures.of.Old.Tom.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E19
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E19.Run.Chris.Run.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S14E20
-#EXTGRP: SEASON 14
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E20.Road.to.India.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
 #EXTINF:-1, Family Guy S14E01
 #EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264/Family.Guy.S14E01.Pilling.Them.Softly.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E02
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E02.Papa.Has.a.Rollin.Son.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S14E02
 #EXTGRP: SEASON 14
@@ -1556,7 +1484,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264
 
 #EXTINF:-1, Family Guy S14E03
 #EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E03.Guy.Robot.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E03
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264/Family.Guy.S14E03.Guy.Robot.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E04
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E04.Peternormal.Activity.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S14E04
 #EXTGRP: SEASON 14
@@ -1564,7 +1500,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264
 
 #EXTINF:-1, Family Guy S14E05
 #EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E05.Peter.Chris.and.Brian.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E05
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264/Family.Guy.S14E05.Peter.Chris.and.Brian.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E06
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E06.Peters.Sister.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S14E06
 #EXTGRP: SEASON 14
@@ -1572,7 +1516,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264
 
 #EXTINF:-1, Family Guy S14E07
 #EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E07.Hot.Pocket-Dial.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E07
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264/Family.Guy.S14E07.Hot.Pocket-Dial.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E08
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E08.Brokeback.Swanson.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S14E08
 #EXTGRP: SEASON 14
@@ -1588,7 +1540,15 @@ http://dl5.downloadha.com/hosein/Animation/December%202015/Family.Guy.S14E08.Web
 
 #EXTINF:-1, Family Guy S14E09
 #EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E09.A.Shot.in.the.Dark.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E09
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264/Family.Guy.S14E09.A.Shot.in.the.Dark.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E10
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E10.Candy.Quahog.Marshmallow.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S14E09
 #EXTGRP: SEASON 14
@@ -1604,7 +1564,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264
 
 #EXTINF:-1, Family Guy S14E11
 #EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E11.The.Peanut.Butter.Kid.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E11
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264/Family.Guy.S14E11.The.Peanut.Butter.Kid.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E12
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E12.Scammed.Yankees.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S14E12
 #EXTGRP: SEASON 14
@@ -1612,7 +1580,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264
 
 #EXTINF:-1, Family Guy S14E13
 #EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E13.An.App.a.Day.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E13
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264/Family.Guy.S14E13.An.App.a.Day.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E14
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E14.Underage.Peter.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S14E14
 #EXTGRP: SEASON 14
@@ -1620,11 +1596,23 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264
 
 #EXTINF:-1, Family Guy S14E15
 #EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E15.A.Lot.Going.On.Upstairs.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E15
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264/Family.Guy.S14E15.A.Lot.Going.On.Upstairs.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S14E16
 #EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E16.The.Heartbreak.Dog.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E16
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264/Family.Guy.S14E16.The.Heartbreak.Dog.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E17
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E17.Take.a.Letter.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S14E17
 #EXTGRP: SEASON 14
@@ -1640,11 +1628,23 @@ http://dl5.downloadha.com/hosein/Animation/April%202016/Family.Guy.S14E17.Web-DL
 
 #EXTINF:-1, Family Guy S14E18
 #EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E18.The.New.Adventures.of.Old.Tom.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E18
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264/Family.Guy.S14E18.The.New.Adventures.of.Old.Tom.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S14E19
 #EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E19.Run.Chris.Run.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E19
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264/Family.Guy.S14E19.Run.Chris.Run.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S14E20
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/720p.x264/Family.Guy.S14E20.Road.to.India.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S14E20
 #EXTGRP: SEASON 14
@@ -1654,29 +1654,47 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S14/1080p.x264
 #EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E01.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
 
+#EXTINF:-1, Family Guy S15E01
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E01.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
 #EXTINF:-1, Family Guy S15E02
 #EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E02.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E02
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E02.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S15E03
 #EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E03.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
 
+#EXTINF:-1, Family Guy S15E03
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E03.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
 #EXTINF:-1, Family Guy S15E04
 #EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E04.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E04
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E04.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S15E05
 #EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E05.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S15E05
-#EXTGRP: Animation S
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E05.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E05
 #EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/December%202016/Family.Guy.S15E05.720p.WEB-DL-ls2k12%20%28www.Downloadha.com%29.mp4
 
 #EXTINF:-1, Family Guy S15E05
-#EXTGRP: Animation S
 #EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/December%202016/Family.Guy.S15E05.720p.WEB-DL.x265-PSA%20%28www.Downloadha.com%29.mkv
 
@@ -1685,100 +1703,12 @@ http://dl5.downloadha.com/hosein/Animation/December%202016/Family.Guy.S15E05.720
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E06.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S15E06
-#EXTGRP: Animation S
 #EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/December%202016/Family.Guy.S15E06.720p.WEB-DL-ls2k12%20%28www.Downloadha.com%29.mp4
 
 #EXTINF:-1, Family Guy S15E06
-#EXTGRP: Animation S
 #EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/December%202016/Family.Guy.S15E06.720p.WEB-DL.x265-PSA%20%28www.Downloadha.com%29.mkv
-
-#EXTINF:-1, Family Guy S15E07
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E07.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E07
-#EXTGRP: Animation S
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/December%202016/Family.Guy.S15E07.720p.WEB-DL-ls2k12%20%28www.Downloadha.com%29.mp4
-
-#EXTINF:-1, Family Guy S15E07
-#EXTGRP: Animation S
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/December%202016/Family.Guy.S15E07.720p.WEB-DL.x265-PSA%20%28www.Downloadha.com%29.mkv
-
-#EXTINF:-1, Family Guy S15E08
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E08.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E09
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E09.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E10
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E10.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E11
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E11.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E12
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E12.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E13
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E13.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E14
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E14.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E15
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E15.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E16
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E16.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E17
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E17.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E18
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E18.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E19
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E19.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E20
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E20.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E01
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E01.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E02
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E02.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E03
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E03.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E04
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E04.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S15E05
-#EXTGRP: SEASON 15
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E05.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S15E06
 #EXTGRP: SEASON 15
@@ -1786,7 +1716,23 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264
 
 #EXTINF:-1, Family Guy S15E07
 #EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E07.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E07
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/December%202016/Family.Guy.S15E07.720p.WEB-DL-ls2k12%20%28www.Downloadha.com%29.mp4
+
+#EXTINF:-1, Family Guy S15E07
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/December%202016/Family.Guy.S15E07.720p.WEB-DL.x265-PSA%20%28www.Downloadha.com%29.mkv
+
+#EXTINF:-1, Family Guy S15E07
+#EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E07.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E08
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E08.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S15E08
 #EXTGRP: SEASON 15
@@ -1794,7 +1740,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264
 
 #EXTINF:-1, Family Guy S15E09
 #EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E09.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E09
+#EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E09.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E10
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E10.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S15E10
 #EXTGRP: SEASON 15
@@ -1802,7 +1756,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264
 
 #EXTINF:-1, Family Guy S15E11
 #EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E11.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E11
+#EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E11.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E12
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E12.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S15E12
 #EXTGRP: SEASON 15
@@ -1810,7 +1772,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264
 
 #EXTINF:-1, Family Guy S15E13
 #EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E13.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E13
+#EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E13.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E14
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E14.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S15E14
 #EXTGRP: SEASON 15
@@ -1818,7 +1788,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264
 
 #EXTINF:-1, Family Guy S15E15
 #EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E15.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E15
+#EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E15.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E16
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E16.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S15E16
 #EXTGRP: SEASON 15
@@ -1826,7 +1804,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264
 
 #EXTINF:-1, Family Guy S15E17
 #EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E17.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E17
+#EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E17.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E18
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E18.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S15E18
 #EXTGRP: SEASON 15
@@ -1834,7 +1820,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264
 
 #EXTINF:-1, Family Guy S15E19
 #EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E19.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E19
+#EXTGRP: SEASON 15
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264/Family.Guy.S15E19.1080p.NF.WEBRip.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S15E20
+#EXTGRP: SEASON 15
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/720p.x264/Family.Guy.S15E20.720p.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S15E20
 #EXTGRP: SEASON 15
@@ -1842,7 +1836,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S15/1080p.x264
 
 #EXTINF:-1, Family Guy S16E01
 #EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E01.Emmy-Winning.Episode.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E01
+#EXTGRP: SEASON 16
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/Family.Guy.S16E01.Emmy-Winning.Episode.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E02
+#EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E02.Foxx.In.The.Men.House.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S16E02
 #EXTGRP: SEASON 16
@@ -1850,7 +1852,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/
 
 #EXTINF:-1, Family Guy S16E03
 #EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E03.Nanny.Goats.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E03
+#EXTGRP: SEASON 16
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/Family.Guy.S16E03.Nanny.Goats.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E04
+#EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E04.Follow.the.Money.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S16E04
 #EXTGRP: SEASON 16
@@ -1858,7 +1868,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/
 
 #EXTINF:-1, Family Guy S16E05
 #EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E05.Three.Directors.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E05
+#EXTGRP: SEASON 16
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/Family.Guy.S16E05.Three.Directors.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E06
+#EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E06.The.D.in.Apartment.23.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S16E06
 #EXTGRP: SEASON 16
@@ -1866,7 +1884,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/
 
 #EXTINF:-1, Family Guy S16E07
 #EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E07.Petey.IV.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E07
+#EXTGRP: SEASON 16
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/Family.Guy.S16E07.Petey.IV.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E08
+#EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E08.Crimes.and.Megs.Demeanor.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S16E08
 #EXTGRP: SEASON 16
@@ -1874,7 +1900,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/
 
 #EXTINF:-1, Family Guy S16E09
 #EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E09.Dont.Be.a.Dickens.At.Christmas.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E09
+#EXTGRP: SEASON 16
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/Family.Guy.S16E09.Dont.Be.a.Dickens.At.Christmas.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E10
+#EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E10.Boy.Dog.Meets.Girl.Dog.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S16E10
 #EXTGRP: SEASON 16
@@ -1882,7 +1916,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/
 
 #EXTINF:-1, Family Guy S16E11
 #EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E11.Dog.Bites.Bear.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E11
+#EXTGRP: SEASON 16
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/Family.Guy.S16E11.Dog.Bites.Bear.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E12
+#EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E12.Send.in.Stewie.Please.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S16E12
 #EXTGRP: SEASON 16
@@ -1890,7 +1932,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/
 
 #EXTINF:-1, Family Guy S16E13
 #EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E13.V.is.For.Mystery.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E13
+#EXTGRP: SEASON 16
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/Family.Guy.S16E13.V.is.For.Mystery.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E14
+#EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E14.Veteran.Guy.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S16E14
 #EXTGRP: SEASON 16
@@ -1898,7 +1948,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/
 
 #EXTINF:-1, Family Guy S16E15
 #EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E15.The.Woof.of.Wall.Street.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E15
+#EXTGRP: SEASON 16
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/Family.Guy.S16E15.The.Woof.of.Wall.Street.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E16
+#EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E16.Family.Guy.Through.the.Years.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S16E16
 #EXTGRP: SEASON 16
@@ -1906,12 +1964,23 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/
 
 #EXTINF:-1, Family Guy S16E17
 #EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E17.Switch.the.Flip.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E17
+#EXTGRP: SEASON 16
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/Family.Guy.S16E17.Switch.the.Flip.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S16E18
 #EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/Family.Guy.S16E18.#EXTGRP: SEASON 16
-httpete.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E18.HTTPete.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E18
+#EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/Family.Guy.S16E18.HTTPete.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S16E19
+#EXTGRP: SEASON 16
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E19.The.Unkindest.Cut.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S16E19
 #EXTGRP: SEASON 16
@@ -1919,168 +1988,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/
 
 #EXTINF:-1, Family Guy S16E20
 #EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/Family.Guy.S16E20.Are.You.There.God.Its.Me.Peter.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E01
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E01.Emmy-Winning.Episode.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E02
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E02.Foxx.In.The.Men.House.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E03
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E03.Nanny.Goats.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E04
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E04.Follow.the.Money.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E05
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E05.Three.Directors.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E06
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E06.The.D.in.Apartment.23.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E07
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E07.Petey.IV.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E08
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E08.Crimes.and.Megs.Demeanor.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E09
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E09.Dont.Be.a.Dickens.At.Christmas.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E10
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E10.Boy.Dog.Meets.Girl.Dog.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E11
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E11.Dog.Bites.Bear.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E12
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E12.Send.in.Stewie.Please.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E13
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E13.V.is.For.Mystery.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E14
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E14.Veteran.Guy.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E15
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E15.The.Woof.of.Wall.Street.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E16
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E16.Family.Guy.Through.the.Years.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E17
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E17.Switch.the.Flip.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E18
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E18.#EXTGRP: SEASON 16
-httpete.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S16E19
-#EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E19.The.Unkindest.Cut.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E20.Are.You.There.God.Its.Me.Peter.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S16E20
 #EXTGRP: SEASON 16
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/1080p.x264/Family.Guy.S16E20.Are.You.There.God.Its.Me.Peter.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S16/720p.x264/Family.Guy.S16E20.Are.You.There.God.Its.Me.Peter.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S17E01
 #EXTGRP: SEASON 17
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E01.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E02
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E02.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E03
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E03.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E04
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E04.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E05
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E05.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E06
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E06.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E07
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E07.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E08
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E08.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E09
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E09.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E10
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E10.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E11
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E11.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E12
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E12.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E13
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E13.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E14
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E14.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E15
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E15.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E16
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E16.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E17
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E17.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E18
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E18.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E19
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E19.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, Family Guy S17E20
-#EXTGRP: SEASON 17
-http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E20.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S17E01
 #EXTGRP: SEASON 17
@@ -2088,7 +2004,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264
 
 #EXTINF:-1, Family Guy S17E02
 #EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E02.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E02
+#EXTGRP: SEASON 17
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264/Family.Guy.S17E02.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E03
+#EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E03.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S17E03
 #EXTGRP: SEASON 17
@@ -2096,7 +2020,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264
 
 #EXTINF:-1, Family Guy S17E04
 #EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E04.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E04
+#EXTGRP: SEASON 17
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264/Family.Guy.S17E04.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E05
+#EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E05.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S17E05
 #EXTGRP: SEASON 17
@@ -2104,7 +2036,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264
 
 #EXTINF:-1, Family Guy S17E06
 #EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E06.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E06
+#EXTGRP: SEASON 17
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264/Family.Guy.S17E06.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E07
+#EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E07.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S17E07
 #EXTGRP: SEASON 17
@@ -2112,7 +2052,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264
 
 #EXTINF:-1, Family Guy S17E08
 #EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E08.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E08
+#EXTGRP: SEASON 17
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264/Family.Guy.S17E08.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E09
+#EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E09.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S17E09
 #EXTGRP: SEASON 17
@@ -2120,7 +2068,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264
 
 #EXTINF:-1, Family Guy S17E10
 #EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E10.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E10
+#EXTGRP: SEASON 17
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264/Family.Guy.S17E10.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E11
+#EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E11.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S17E11
 #EXTGRP: SEASON 17
@@ -2128,7 +2084,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264
 
 #EXTINF:-1, Family Guy S17E12
 #EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E12.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E12
+#EXTGRP: SEASON 17
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264/Family.Guy.S17E12.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E13
+#EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E13.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S17E13
 #EXTGRP: SEASON 17
@@ -2136,7 +2100,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264
 
 #EXTINF:-1, Family Guy S17E14
 #EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E14.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E14
+#EXTGRP: SEASON 17
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264/Family.Guy.S17E14.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E15
+#EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E15.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S17E15
 #EXTGRP: SEASON 17
@@ -2144,7 +2116,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264
 
 #EXTINF:-1, Family Guy S17E16
 #EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E16.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E16
+#EXTGRP: SEASON 17
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264/Family.Guy.S17E16.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E17
+#EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E17.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S17E17
 #EXTGRP: SEASON 17
@@ -2152,7 +2132,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264
 
 #EXTINF:-1, Family Guy S17E18
 #EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E18.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E18
+#EXTGRP: SEASON 17
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264/Family.Guy.S17E18.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E19
+#EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E19.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S17E19
 #EXTGRP: SEASON 17
@@ -2160,51 +2148,70 @@ http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264
 
 #EXTINF:-1, Family Guy S17E20
 #EXTGRP: SEASON 17
+http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/720p.x264/Family.Guy.S17E20.720p.AMZN.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Family Guy S17E20
+#EXTGRP: SEASON 17
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S17/1080p.x264/Family.Guy.S17E20.1080p.AMZN.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E01
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E01.Yacht.Rocky.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E02
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E02.Bri-Da.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E03
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E03.Absolutely.Babulous.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E04
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E04.Disneys.the.Reboot.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E05
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E05.Cat.Fight.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E06
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E06.Peter.and.Lois.Wedding.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E07
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E07.Heart.Burn.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E08
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E08.Shanksgiving.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E09
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E09.Christmas.is.Coming.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E10
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E10.Connies.Celica.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E11
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E11.Short.Cuts.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E12
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E12.Undergrounded.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E13
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E13.Rich.Old.Stewie.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E14
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E14.The.Movement.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S18E15
+#EXTGRP: SEASON 18
 http://dl5.downloadha.com/hosein/Animation/October2019/Family.Guy/S18/720p.x264/Family.Guy.S18E15.Baby.Stewie.720p.HULU.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S19E01
