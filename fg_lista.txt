@@ -2335,13 +2335,16 @@ https://dl6.downloadha.com/hosein/animation/September2020/Family.Guy.S19/720p.x2
 https://dl6.downloadha.com/hosein/animation/September2020/Family.Guy.S19/1080p.x265/Family.Guy.S19E10.1080p.WEB.HEVC.x265-RMTeam_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S19E11
-httpdl6.downloadha.com/hosein/animation/September2020/Family.Guy.S19/720p.x264/Family.Guy.S19E11.Boys.Best.Friend.720p.WEB.x264-DLHA_www.Downloadha.com_.mkv
+#EXTGRP: SEASON 19
+https://dl6.downloadha.com/hosein/animation/September2020/Family.Guy.S19/720p.x264/Family.Guy.S19E11.Boys.Best.Friend.720p.WEB.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S19E11
-httpdl6.downloadha.com/hosein/animation/September2020/Family.Guy.S19/720p.x265/Family.Guy.S19E11.720p.WEB.HEVC.x265-RMTeam_www.Downloadha.com_.mkv
+#EXTGRP: SEASON 19
+https://dl6.downloadha.com/hosein/animation/September2020/Family.Guy.S19/720p.x265/Family.Guy.S19E11.720p.WEB.HEVC.x265-RMTeam_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S19E11
-httpdl6.downloadha.com/hosein/animation/September2020/Family.Guy.S19/1080p.x265/Family.Guy.S19E11.1080p.WEB.HEVC.x265-RMTeam_www.Downloadha.com_.mkv
+#EXTGRP: SEASON 19
+https://dl6.downloadha.com/hosein/animation/September2020/Family.Guy.S19/1080p.x265/Family.Guy.S19E11.1080p.WEB.HEVC.x265-RMTeam_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Family Guy S19E12
 #EXTGRP: SEASON 19
