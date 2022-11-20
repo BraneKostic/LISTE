@@ -6,7 +6,7 @@ http://91.148.117.242:44787/udp/232.233.237.95:4000
 	#EXTINF:-1, A TV
 http://91.148.117.242:44787/udp/232.233.234.134:12000
 
-#EXTINF:-1, tvg-logo="https://mts.rs/oec/images/tv_channels/904ddd8cd6720a4a1c23eae513b5b957.jpg", RTS 1
+#EXTINF:-1 tvg-logo="https://mts.rs/oec/images/tv_channels/904ddd8cd6720a4a1c23eae513b5b957.jpg", RTS 1
 http://91.148.117.242:44787/udp/232.233.234.74:12000
 
 #EXTINF:-1, RTS 1
