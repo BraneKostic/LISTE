@@ -1,6 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, BBC Bibles Buried Secrets E01: Did King Davids Empire Exist
+#EXTINF:-1, subtitles="https://raw.githubusercontent.com/BraneKostic/TITLOVI/main/BBC%20Bibles%20Buried%20Secrets%20E01%20Did%20King%20Davids%20Empire%20Exist.srt",BBC Bibles Buried Secrets E01: Did King Davids Empire Exist
 #EXTGRP: B
-#EXTVLCOPT:sub-file=https://raw.githubusercontent.com/BraneKostic/TITLOVI/main/BBC%20Bibles%20Buried%20Secrets%20E01%20Did%20King%20Davids%20Empire%20Exist.srt
 http://doc.downloadha.com/Behnam/Documentaries/February2018/BBC.Bibles.Buried.Secrets.1of3.Did.King.Davids.Empire.Exist.HDTV.x264.AC3-MVGroup_www.Downloadha.com_.mkv
