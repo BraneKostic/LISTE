@@ -1,10 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1, tvg-logo="https://mts.rs/oec/images/tv_channels/904ddd8cd6720a4a1c23eae513b5b957.jpg", RTS 1
-http://91.148.117.242:44787/udp/232.233.234.74:12000
-
-#EXTINF:-1 tvg-shift=0 tvg-name= "ACS-NETWORK" tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" ,ACS-NETWORK
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1860613415/RTS_Twitter_avatar_400x400.png", RTS 1
 http://91.148.117.242:44787/udp/232.233.234.74:12000
 
 #EXTINF:-1, 8 TV
