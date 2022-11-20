@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, The Simpsons S01E01
+#EXTGRP: SEASON 1
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S01/The.Simpsons.S01E01.Simpsons.Roasting.on.an.Open.Fire.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S01E02
@@ -40,1035 +41,1379 @@ http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S01/The.Simp
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S01/The.Simpsons.S01E13.Some.Enchanted.Evening.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E01
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E01.Bart.Gets.an.F.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E02
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E02.Simpson.and.Delilah.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E03
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E03.Treehouse.of.Horror.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E04
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E04.Two.Cars.in.Every.Garage.and.Three.Eyes.on.Every.Fish.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E05
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E05.Dancin.Homer.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E06
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E06.Dead.Putting.Society.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E07
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E07.Bart.vs.Thanksgiving.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E08
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E08.Bart.the.Daredevil.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E09
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E09.Itchy.and.Scratchy.and.Marge.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E10
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E10.Bart.Gets.Hit.by.a.Car.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E11
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E11.One.Fish.Two.Fish.Blowfish.Blue.Fish.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E12
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E12.The.Way.We.Was.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E13
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E13.Homer.vs.Lisa.and.the.Eighth.Commandment.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E14
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E14.Principal.Charming.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E15
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E15.Oh.Brother.Where.Art.Thou.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E16
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E16.Barts.Dog.Gets.an.F.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E17
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E17.Old.Money.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E18
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E18.Brush.With.Greatness.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E19
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E19.Lisas.Substitute.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E20
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E20.The.War.of.the.Simpsons.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E21
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E21.Three.Men.and.a.Comic.Book.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S02E22
+#EXTGRP: SEASON 2
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S02/The.Simpsons.S02E22.Blood.Feud.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E01
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E01.Stark.Raving.Dad.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E02
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E02.Mr.Lisa.Goes.to.Washington.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E03
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E03.When.Flanders.Failed.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E04
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E04.Bart.the.Murderer.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E05
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E05.Homer.Defined.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E06
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E06.Like.Father.Like.Clown.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E07
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E07.Treehouse.of.Horror.II.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E08
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E08.Lisas.Pony.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E09
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E09.Saturdays.of.Thunder.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E10
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E10.Flaming.Moes.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E11
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E11.Burns.Verkaufen.der.Kraftwerk.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E12
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E12.I%20Married.Marge.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E13
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E13.Radio.Bart.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E14
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E14.Lisa.the.Greek.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E15
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E15.Homer.Alone.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E16
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E16.Bart.the.Lover.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E17
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E17.Homer.at.the.Bat.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E18
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E18.Separate.Vocations.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E19
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E19.Dog.of.Death.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E20
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E20.Colonel.Homer.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E21
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E21.Black.Widower.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E22
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E22.The.Otto.Show.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E23
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E23.Barts.Friend.Falls.in.Love.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S03E24
+#EXTGRP: SEASON 3
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S03/The.Simpsons.S03E24.Brother.Can.You.Spare.Two.Dimes.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E01
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E01.Kamp.Krusty.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E02
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E02.A.Streetcar.Named.Marge.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E03
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E03.Homer.the.Heretic.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E04
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E04.Lisa.the.Beauty.Queen.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E05
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E05.Treehouse.of.Horror.III.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E06
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E06.Itchy.and.Scratchy.The.Movie.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E07
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E07.Marge.Gets.a.Job.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E08
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E08.The.New.Kid.on.the.Block.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E09
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E09.Mr.Plow.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E10
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E10.Lisas.First.Word.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E11
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E11.Homers.Triple.Bypass.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E12
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E12.Marge.vs.the.Monorail.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E13
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E13.Selmas.Choice.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E14
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E14.Brother.From.the.Same.Planet.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E15
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E15.I.Love.Lisa.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E16
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E16.Duffless.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E17
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E17.Last.Exit.to.Springfield.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E18
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E18.So.Its.Come.to.This.A.Simpsons.Clip.Show.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E19
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E19.The.Front.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E20
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E20.Whacking.Day.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E21
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E21.Marge.in.Chains.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S04E22
+#EXTGRP: SEASON 4
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S04/The.Simpsons.S04E22.Krusty.Gets.Kancelled.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E01
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E01.Homers.Barbershop.Quartet.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E02
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E02.Cape.Feare.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E03
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E03.Homer.Goes.to.College.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E04
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E04.Rosebud.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E05
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E05.Treehouse.of.Horror.IV.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E06
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E06.Marge.on.the.Lam.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E07
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E07.Barts.Inner.Child.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E08
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E08.Boy-Scoutz.N.the.Hood.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E09
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E09.The.Last.Temptation.of.Homer.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E10
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E10.Springfield.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E11
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E11.Homer.the.Vigilante.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E12
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E12.Bart.Gets.Famous.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E13
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E13.Homer.and.Apu.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E14
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E14.Lisa.vs.Malibu.Stacy.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E15
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E15.Deep.Space.Homer.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E16
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E16.Homer.Loves.Flanders.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E17
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E17.Bart.Gets.an.Elephant.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E18
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E18.Burns.Heir.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E19
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E19.Sweet.Seymour.Skinners.Baadasssss.Song.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E20
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E20.The.Boy.Who.Knew.Too.Much.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E21
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E21.Lady.Bouviers.Lover.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S05E22
+#EXTGRP: SEASON 5
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S05/The.Simpsons.S05E22.Secrets.of.a.Successful.Marriage.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E01
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E01.Bart.of.Darkness.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E02
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E02.Lisas.Rival.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E03
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E03.Another.Simpsons.Clip.Show.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E04
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E04.Itchy.and.Scratchy.Land.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E05
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E05.Sideshow.Bob.Roberts.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E06
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E06.Treehouse.of.Horror.V.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E07
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E07.Barts.Girlfriend.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E08
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E08.Lisa.on.Ice.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E09
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E09.Homer.Badman.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E10
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E10.Grampa.Inadequacy.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E11
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E11.Fear.of.Flying.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E12
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E12.Homer.the.Great.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E13
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E13.And.Maggie.Makes.Three.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E14
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E14.Barts.Comet.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E15
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E15.Homie.the.Clown.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E16
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E16.Bart.vs.Australia.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E17
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E17.Homer.vs.Patty.and.Selma.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E18
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E18.A.Star.Is.Burns.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E19
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E19.Lisas.Wedding.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E20
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E20.Two.Dozen.and.One.Greyhounds.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E21
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E21.The.PTA.Disbands.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E22
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E22.Round.Springfield.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E23
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E23.The.Springfield.Connection.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E24
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E24.Lemon.of.Troy.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S06E25
+#EXTGRP: SEASON 6
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S06/The.Simpsons.S06E25.Who.Shot.Mr.Burns.Part.1.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E01
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E01.Who.Shot.Mr.Burns.Part.2.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E02
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E02.Radioactive.Man.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E03
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E03.Home.Sweet.Homediddily-Dum-Doodily.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E04
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E04.Bart.Sells.His.Soul.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E05
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E05.Lisa.the.Vegetarian.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E06
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E06.Treehouse.of.Horror.VI.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E07
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E07.King-Size.Homer.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E08
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E08.Mother.Simpson.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E09
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E09.Sideshow.Bobs.Last.Gleaming.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E10
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E10.The.Simpsons.138th.Episode.Spectacular.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E11
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E11.Marge.Be.Not.Proud.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E12
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E12.Team.Homer.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E13
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E13.Two.Bad.Neighbors.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E14
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E14.Scenes.from.the.Class.Struggle.in.Springfield.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E15
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E15.Bart.the.Fink.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E16
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E16.Lisa.the.Iconoclast.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E17
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E17.Homer.the.Smithers.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E18
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E18.The.Day.the.Violence.Died.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E19
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E19.A.Fish.Called.Selma.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E20
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E20.Bart.on.the.Road.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E21
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E21.22.Short.Films.About.Springfield.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E22
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E22.Raging.Abe.Simpson.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E23
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E23.Much.Apu.About.Nothing.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E24
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E24.Homerpalooza.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S07E25
+#EXTGRP: SEASON 7
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S07/The.Simpsons.S07E25.Summer.of.4.Ft.2.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E01
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E01.Treehouse.of.Horror.VII.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E02
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E02.You.Only.Move.Twice.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E03
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E03.The.Homer.They.Fall.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E04
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E04.Burns.Baby.Burns.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E05
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E05.Bart.After.Dark.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E06
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E06.A.Milhouse.Divided.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E07
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E07.Lisas.Date.With.Density.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E08
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E08.Hurricane.Neddy.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E09
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E09.El.Viaje.Misterioso.de.Nuestro.Jomer.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E10
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E10.The.Springfield.Files.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E11
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E11.The.Twisted.World.of.Marge.Simpson.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E12
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E12.Mountain.of.Madness.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E13
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E13.Simpsoncalifragilisticexpiala.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E14
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E14.The.Itchy.and.Scratchy.and.Poochie.Show.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E15
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E15.Homers.Phobia.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E16
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E16.Brother.From.Another.Series.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E17
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E17.My.Sister.My.Sitter.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E18
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E18.Homer.vs.the.18th.Amendment.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E19
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E19.Grade.School.Confidential.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E20
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E20.The.Canine.Mutiny.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E21
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E21.The.Old.Man.and.the.Lisa.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E22
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E22.In.Marge.We.Trust.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E23
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E23.Homers.Enemy.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E24
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E24.The.Simpsons.Spin-Off.Showcase.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S08E25
+#EXTGRP: SEASON 8
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S08/The.Simpsons.S08E25.The.Secret.War.of.Lisa.Simpson.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E01
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E01.The.City.of.New.York.vs.Homer.Simpson.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E02
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E02.The.Principal.and.the.Pauper.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E03
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E03.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E04
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E04.Treehouse.of.Horror.VIII.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E05
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E05.The.Cartridge.Family.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E06
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E06.Bart.Star.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E07
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E07.The.Two.Mrs.Nahasapeemapetilons.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E08
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E08.Lisa.the.Skeptic.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E09
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E09.Realty.Bites.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E10
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E10.Miracle.on.Evergreen.Terrace.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E11
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E11.All.Singing.All.Dancing.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E12
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E12.Bart.Carny.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E13
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E13.The.Joy.of.Sect.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E14
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E14.Das.Bus.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E15
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E15.The.Last.Temptation.of.Krust.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E16
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E16.Dumbbell.Indemnity.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E17
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E17.Lisa.the.Simpson.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E18
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E18.This.Little.Wiggy.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E19
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E19.Simpson%20Tide.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E20
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E20.The.Trouble.With.Trillions.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E21
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E21.Girly.Edition.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E22
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E22.Trash.of.the.Titans.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E23
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E23.King.of.the.Hill.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E24
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E24.Lost.Our.Lisa.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S09E25
+#EXTGRP: SEASON 9
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S09/The.Simpsons.S09E25.Natural.Born.Kissers.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E01
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E01.Lard.of.the.Dance.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E02
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E02.The.Wizard.of.Evergreen.Terrace.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E03
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E03.Bart.the.Mother.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E04
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E04.Treehouse.of.Horror.IX.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E05
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E05.When.You.Dish.Upon.a.Star.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E06
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E06.Doh-in.in.the.Wind.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E07
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E07.Lisa.Gets.an.A.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E08
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E08.Homer.Simpson.in.Kidney.Trouble.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E09
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E09.Mayored.to.the.Mob.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E10
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E10.Viva.Ned.Flanders.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E11
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E11.Wild.Barts.Cant.Be.Broken.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E12
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E12.Sunday.Cruddy.Sunday.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E13
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E13.Homer.to.the.Max.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E14
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E14.Im.with.Cupid.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E15
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E15.Marge.Simpson.in.Screaming.Yellow.Honkers.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E16
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E16.Make.Room.for.Lisa.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E17
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E17.Maximum.Homerdrive.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E18
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E18.Simpsons.Bible.Stories.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E19
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E19.Mom.and.Pop.Art.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E20
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E20.The.Old.Man.and.the.C.Student.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E21
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E21.Monty.Cant.Buy.Me.Love.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E22
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E22.They.Saved.Lisas.Brain.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S10E23
+#EXTGRP: SEASON 10
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S10/The.Simpsons.S10E23.Thirty.Minutes.Over.Tokyo.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E01
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E01.Beyond.Blunderdome.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E02
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E02.Brothers.Little.Helper.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E03
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E03.Guess.Whos.Coming.to.Criticize.Dinner.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E04
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E04.Treehouse.of.Horror.X.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E05
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E05.E-I-E-I.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E06
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E06.Hello.Gutter.Hello.Fadder.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E07
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E07.Eight.Misbehavin.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E08
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E08.Take.My.Wife.Sleaze.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E09
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E09.Grift.of.the.Magi.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E10
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E10.Little.Big.Mom.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E11
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E11.Faith.Off.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E12
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E12.The.Mansion.Family.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E13
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E13.Saddlesore.Galactica.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E14
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E14.Alone.Again.Natura-Diddily.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E15
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E15.Missionary.Impossible.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E16
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E16.Pygmoelian.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E17
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E17.Bart.to.the.Future.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E18
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E18.Days.of.Wine.and.Dohses.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E19
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E19.Kill.the.Alligator.and.Run.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E20
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E20.Last.Tap.Dance.in.Springfield.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E21
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E21.Its.a.Mad.Mad.Mad.Mad.Marge.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S11E22
+#EXTGRP: SEASON 11
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S11/The.Simpsons.S11E22.Behind.the.Laughter.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E01
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E01.Treehouse.of.Horror.XI.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E02
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E02.A.Tale.of.Two.Springfields.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E03
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E03.Insane.Clown.Poppy.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E04
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E04.Lisa.the.Tree.Hugger.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E05
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E05.Homer.vs.Dignity.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E06
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E06.The.Computer.Wore.Menace.Shoes.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E07
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E07.The.Great.Money.Caper.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E08
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E08.Skinners.Sense.of.Snow.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E09
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E09.HOMER.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E10
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E10.Pokey.Mom.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E11
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E11.Worst.Episode.Ever.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E12
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E12.Tennis.the.Menace.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E13
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E13.Day.of.the.Jackanapes.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E14
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E14.New.Kids.on.the.Blecch.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E15
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E15.Hungry.Hungry.Homer.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E16
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E16.Bye.Bye.Nerdy.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E17
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E17.Simpson.Safari.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E18
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E18.Trilogy.of.Error.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E19
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E19.Im.Goin.to.Praiseland.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E20
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E20.Children.of.a.Lesser.Clod.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S12E21
+#EXTGRP: SEASON 12
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S12/The.Simpsons.S12E21.Simpsons.Tall.Tales.DVDRip-jlw_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E01
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E01.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
 
-#EXTINF:-1, The Simpsons S13E02
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E02.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E03
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E03.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E04
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E04.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E05
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E05.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E06
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E06.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E07
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E07.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E08
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E08.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E09
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E09.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E10
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E10.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E11
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E11.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E12
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E12.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E13
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E13.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E14
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E14.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E15
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E15.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E16
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E16.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E17
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E17.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E18
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E18.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E19
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E19.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E20
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E20.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E21
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E21.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S13E22
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E22.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
 #EXTINF:-1, The Simpsons S13E01
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E01.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E02
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E02.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E02
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E02.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E03
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E03.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E03
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E03.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E04
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E04.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E04
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E04.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E05
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E05.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E05
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E05.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E06
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E06.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E06
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E06.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E07
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E07.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E07
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E07.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E08
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E08.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E08
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E08.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E09
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E09.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E09
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E09.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E10
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E10.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E10
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E10.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E11
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E11.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E11
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E11.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E12
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E12.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E12
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E12.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E13
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E13.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E13
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E13.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E14
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E14.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E14
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E14.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E15
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E15.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E15
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E15.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E16
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E16.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E16
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E16.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E17
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E17.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E17
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E17.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E18
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E18.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E18
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E18.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E19
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E19.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E19
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E19.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E20
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E20.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E20
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E20.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E21
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E21.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E22
+#EXTGRP: SEASON 13
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/720p.x264/The.Simpsons.S13E22.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S13E21
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E21.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S13E22
+#EXTGRP: SEASON 13
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S13/1080p.x264/The.Simpsons.S13E22.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E01
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E01.Treehouse.of.Horror.XIII.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
 
-#EXTINF:-1, The Simpsons S14E02
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E02.How.I.Spent.My.Strummer.Vacation.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E03
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E03.Bart.vs..Lisa.vs.the.Third.Grade.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E04
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E04.Large.Marge.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E05
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E05.Helter.Shelter.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E06
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E06.The.Great.Louse.Detective.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E07
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E07.Special.Edna.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E08
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E08.The.Dad.Who.Knew.Too.Little.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E09
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E09.Strong.Arms.of.the.Ma.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E10
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E10.Pray.Anything.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E11
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E11.Barting.Over.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E12
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E12.Im.Spelling.as.Fast.as.I.Can.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E13
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E13.A.Star.Is.Born.Again.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E14
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E14.Mr.Spritz.Goes.to.Washington.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E15
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E15.C.E.Doh.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E16
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E16.Scuse.Me.While.I.Miss.the.Sky.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E17
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E17.Three.Gays.of.the.Condo.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E18
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E18.Dude.Wheres.My.Ranch.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E19
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E19.Old.Yeller.Belly.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E20
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E20.Brake.My.Wife.Please.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E21
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E21.The.Bart.of.War.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S14E22
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E22.Mo.Baby.Blues.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
-
 #EXTINF:-1, The Simpsons S14E01
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E01.Treehouse.of.Horror.XIII.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E02
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E02.How.I.Spent.My.Strummer.Vacation.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E02
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E02.How.I.Spent.My.Strummer.Vacation.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E03
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E03.Bart.vs..Lisa.vs.the.Third.Grade.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E03
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E03.Bart.vs..Lisa.vs.the.Third.Grade.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E04
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E04.Large.Marge.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E04
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E04.Large.Marge.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E05
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E05.Helter.Shelter.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E05
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E05.Helter.Shelter.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E06
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E06.The.Great.Louse.Detective.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E06
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E06.The.Great.Louse.Detective.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E07
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E07.Special.Edna.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E07
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E07.Special.Edna.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E08
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E08.The.Dad.Who.Knew.Too.Little.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E08
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E08.The.Dad.Who.Knew.Too.Little.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E09
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E09.Strong.Arms.of.the.Ma.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E09
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E09.Strong.Arms.of.the.Ma.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E10
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E10.Pray.Anything.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E10
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E10.Pray.Anything.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E11
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E11.Barting.Over.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E11
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E11.Barting.Over.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E12
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E12.Im.Spelling.as.Fast.as.I.Can.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E12
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E12.Im.Spelling.as.Fast.as.I.Can.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E13
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E13.A.Star.Is.Born.Again.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E13
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E13.A.Star.Is.Born.Again.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E14
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E14.Mr.Spritz.Goes.to.Washington.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E14
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E14.Mr.Spritz.Goes.to.Washington.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E15
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E15.C.E.Doh.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E15
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E15.C.E.Doh.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E16
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E16.Scuse.Me.While.I.Miss.the.Sky.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E16
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E16.Scuse.Me.While.I.Miss.the.Sky.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E17
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E17.Three.Gays.of.the.Condo.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E17
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E17.Three.Gays.of.the.Condo.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E18
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E18.Dude.Wheres.My.Ranch.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E18
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E18.Dude.Wheres.My.Ranch.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E19
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E19.Old.Yeller.Belly.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E19
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E19.Old.Yeller.Belly.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E20
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E20.Brake.My.Wife.Please.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E20
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E20.Brake.My.Wife.Please.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E21
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E21.The.Bart.of.War.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E21
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E21.The.Bart.of.War.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S14E22
+#EXTGRP: SEASON 14
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/720p.x264/The.Simpsons.S14E22.Mo.Baby.Blues.720p.BluRay.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S14E22
+#EXTGRP: SEASON 14
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S14/1080p.x264/The.Simpsons.S14E22.Mo.Baby.Blues.1080p.BluRay.6CH.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S15E01
