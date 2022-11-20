@@ -220,6 +220,10 @@ http://doc.downloadha.com/h/Documentaries/February2021/A.Wild.Year.on.Earth/S01/
 #EXTGRP: A
 http://doc.downloadha.com/h/Documentaries/February2021/A.Wild.Year.on.Earth/S01/A.Wild.Year.On.Earth.S01E05.480p.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
 
+#EXTINF:-1, Above Majestic (2018)
+#EXTGRP: A
+https://www.beyondminds.org/archives/files/Documentaries/Above Majestic HDRip.mp4
+
 #EXTINF:-1, Adolf Hitler The Itinerary S01E01: Assent Of A Criminal
 #EXTGRP: A
 http://doc.downloadha.com/Behnam/Documentaries/May2018/Adolf.Hitler.the.Itinerary.Series.1.1of2.Assent.of.a.Criminal.720p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
@@ -387,6 +391,10 @@ http://doc.downloadha.com/Behnam/Documentaries/July2018/Alexanders.Lost.World.Se
 #EXTINF:-1, Alien Planets Revealed
 #EXTGRP: A
 http://s5.bitdl.ir/Clips/Documentary/Alien.Planets.Revealed.720p.HDTV.2014.bitdownload.ir.mp4
+
+#EXTINF:-1, All Is Self
+#EXTGRP: A
+https://www.beyondminds.org/archives/files/Documentaries/All Is Self (Documentary).mp4
 
 #EXTINF:-1, All Things Must Pass The Rise And Fall Of Tower Records
 #EXTGRP: A
@@ -5448,6 +5456,10 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Black.Market.D
 #EXTGRP: B
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Black.Market.Dispatches.2016.S01E10.HDTV.720P.x264-W4F%20%28www.Downloadha.com%29.mkv
 
+#EXTINF:-1, Bob Lazar: Area 51 And Flying Saucers (2018)
+#EXTGRP: B
+https://www.beyondminds.org/archives/files/Documentaries/Bob Lazar Area 51 & Flying Saucers HDRip.mp4
+
 #EXTINF:-1, Bobby
 #EXTGRP: B
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Bobby.2016.BRrip.720P.x264-ETRG%20%28www.Downloadha.com%29.mkv
@@ -6596,6 +6608,42 @@ http://doc.downloadha.com/h/Documentaries/June2019/Combat.Ships.Series.1/Combat.
 #EXTGRP: C
 http://doc.downloadha.com/h/Documentaries/June2019/Combat.Ships.Series.1/Combat.Ships.Series.1.10of10.Wooden.Warships.1080p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
 
+#EXTINF:-1, Conspiracy Theory Of Everything 1: The Holographic Demiurge
+#EXTGRP: C
+https://www.beyondminds.org/archives/files/Documentaries/Conspiracy Theory of Everything 1 ~ The Holographic Demiurge.mp4
+
+#EXTINF:-1, Conspiracy Theory Of Everything 2: The Disconnection Of Our Soul
+#EXTGRP: C
+https://www.beyondminds.org/archives/files/Documentaries/Conspiracy Theory of Everything 2 ~ The Disconnection of Our Soul.mp4
+
+#EXTINF:-1, Conspiracy Theory Of Everything 3: Aliens
+#EXTGRP: C
+https://www.beyondminds.org/archives/files/Documentaries/Conspiracy Theory of Everything 3 ~ Aliens.mp4
+
+#EXTINF:-1, Conspiracy Theory Of Everything 4: Integration With Technology
+#EXTGRP: C
+https://www.beyondminds.org/archives/files/Documentaries/Conspiracy Theory of Everything 4 ~ Integration With Technology.mp4
+
+#EXTINF:-1, Conspiracy Theory Of Everything 5: The Secret Government
+#EXTGRP: C
+https://www.beyondminds.org/archives/files/Documentaries/Conspiracy Theory of Everything 5 ~ The Secret Government.mp4
+
+#EXTINF:-1, Conspiracy Theory Of Everything 6: The Keys to Ultimate Power
+#EXTGRP: C
+https://www.beyondminds.org/archives/files/Documentaries/Conspiracy Theory of Everything 6 ~ The Keys to Ultimate Power.mp4
+
+#EXTINF:-1, Conspiracy Theory Of Everything 7: The Great Reset (Special Extended)
+#EXTGRP: C
+https://www.beyondminds.org/archives/files/Documentaries/Conspiracy Theory of Everything 7 ~ The Great Reset (Special Extended).mp4
+
+#EXTINF:-1, Conspiracy Theory Of Everything 8: The Paradigms of Being
+#EXTGRP: C
+https://www.beyondminds.org/archives/files/Documentaries/Conspiracy Theory of Everything 8 ~ The Paradigms of Being.mp4
+
+#EXTINF:-1, Conspiracy Theory Of Everything 9: Ascension (The Grand Finale!)
+#EXTGRP: C
+https://www.beyondminds.org/archives/files/Documentaries/Conspiracy Theory of Everything 9 ~ Ascension (The Grand Finale!).mp4
+
 #EXTINF:-1, Cooking Up Dreams Peruvian Cuisine
 #EXTGRP: C
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Cooking.Up.Dreams.Peruvian.Cuisine.2009.Webdl.x264%20%28www.Downloadha.com%29.mkv
@@ -7052,6 +7100,10 @@ http://doc.downloadha.com/h/Documentaries/April2020/David.Blaine.The.Magic.Way.2
 #EXTGRP: D
 http://doc.downloadha.com/h/Documentaries/April2020/David.Blaine.The.Magic.Way.2020.720p.HULU.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
 
+#EXTINF:-1, David Icke - Agenda 21, The Plan To Kill You
+#EXTGRP: D
+https://www.beyondminds.org/archives/files/Documentaries/Agenda 21, The Plan To Kill You - by David Icke.mp4
+
 #EXTINF:-1, David Icke - The Secret Rulers Of The World
 #EXTGRP: D
 http://s5.bitdl.ir/Clips/Documentary/David%20Icke-TheSecretRulersOfTheWorld.wmv
@@ -7067,7 +7119,6 @@ http://s5.bitdl.ir/Clips/Documentary/David.Icke.-.Secrets.Of.The.Matrix.[Part.2]
 #EXTINF:-1, David Icke - Secrets Of The Matrix (Part 3)
 #EXTGRP: D
 http://s5.bitdl.ir/Clips/Documentary/David.Icke.-.Secrets.Of.The.Matrix.[Part.3].avi
-
 
 #EXTINF:-1, David Lynch MasterClass E01
 #EXTGRP: D
@@ -7213,6 +7264,10 @@ http://54.39.100.236/EngTvSeri/Death.R.C/1X5.mp4
 #EXTGRP: D
 http://54.39.100.236/EngTvSeri/Death.R.C/1X6.mp4
 
+#EXTINF:-1, Declassified Experiment Which Contacted Aliens
+#EXTGRP: D
+https://www.beyondminds.org/archives/files/Documentaries/DECLASSIFIED Experiment Which CONTACTED ALIENS!.mp4
+
 #EXTINF:-1, Delish Destinations S01E01
 #EXTGRP: D
 http://54.39.100.236/EngTvSeri/Delish.D/1X1.mp4
@@ -7228,6 +7283,10 @@ http://54.39.100.236/EngTvSeri/Delish.D/1X3.mp4
 #EXTINF:-1, Delish Destinations S01E04
 #EXTGRP: D
 http://54.39.100.236/EngTvSeri/Delish.D/1X4.mp4
+
+#EXTINF:-1, Democrats vs. Republicans [Part 1] - The Party Of Racism
+#EXTGRP: D
+https://www.beyondminds.org/archives/files/Documentaries/Democrats vs. Republicans [Part 1] - The Party of Racism.mp4
 
 #EXTINF:-1, Desert Lands Of The Middle East S01E01
 #EXTGRP: D
@@ -7428,6 +7487,10 @@ http://doc.downloadha.com/Behnam/Documentaries/March2018/Do.You.Dream.in.Color.H
 #EXTINF:-1, Doc Of The Dead
 #EXTGRP: D
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Doc.Of.The.Dead.2014.BRrip.720P.x264-Yify%20%28www.Downloadha.com%29.mkv
+
+#EXTINF:-1, D.O.D Search For Underwater UFO Observables
+#EXTGRP: D
+https://www.beyondminds.org/archives/files/Documentaries/D.O.D SEARCH For Underwater UFO Observables.mp4
 
 #EXTINF:-1, Doing Drugs For Fun S01E01
 #EXTGRP: D
@@ -7897,6 +7960,10 @@ http://54.39.100.236/EngTvSeri/E.R.H/1x6.mp4
 #EXTGRP: E
 http://54.39.100.236/EngTvSeri/E.R.H/1x7.mp4
 
+#EXTINF:-1, Emerald Tablets Of Thoth
+#EXTGRP: E
+https://www.beyondminds.org/archives/files/Documentaries/Emerald Tablets of Thoth Complete.mp4
+
 #EXTINF:-1, Empire Games S01E01
 #EXTGRP: E
 http://54.39.100.236/EngTvSeri/Empire.G/1X1.mp4
@@ -8348,6 +8415,10 @@ http://doc.downloadha.com/Behnam/Documentaries/April2018/Extreme.Africa.5of6.Eto
 #EXTINF:-1, Extreme Africa 6/6: The Linear Oasis
 #EXTGRP: E
 http://doc.downloadha.com/Behnam/Documentaries/April2018/Extreme.Africa.6of6.The.Linear.Oasis.1080p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
+
+#EXTINF:-1, Fall Of The Cabal (Parts 1-10)
+#EXTGRP: F
+https://www.beyondminds.org/archives/files/Documentaries/Fall of the Cabal, Parts 1-10.mp4
 
 #EXTINF:-1, Family Instinct
 #EXTGRP: F
@@ -9917,6 +9988,10 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Ingenious.Anim
 #EXTGRP: I
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Ingenious.Animals.2016.S01E04.HDTV.x264-mSD%20%28www.Downloadha.com%29.mkv
 
+#EXTINF:-1, Inner Earth Civilizations Exist
+#EXTGRP: I
+https://www.beyondminds.org/archives/files/Documentaries/Inner Earth Civilizations Exist .mp4
+
 #EXTINF:-1, Insane Pools Of The Deep End Special S01E01: Rockin Pools
 #EXTGRP: I
 http://doc.downloadha.com/h/Documentaries/August2020/Insane.Pools/Insane.Pools.off.the.Deep.End.Special.01of10.Rockin.Pools.1080p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
@@ -10392,6 +10467,10 @@ http://doc.downloadha.com/h/Documentaries/August2021/James.May.Oh.Cook.S01/720p.
 #EXTINF:-1, James May Oh Cook S01E07: Roast
 #EXTGRP: J
 http://doc.downloadha.com/h/Documentaries/August2021/James.May.Oh.Cook.S01/1080p.x265/James.May.Oh.Cook.S01E07.1080p.AMZN.WEBRip.10bit.x265-Joy_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Jeffrey Epstein The Game Of The Global Elite
+#EXTGRP: J
+https://www.beyondminds.org/archives/files/Documentaries/Jeffrey Epstein The Game of the Global Elite.mp4
 
 #EXTINF:-1, Jerusalem
 #EXTGRP: J
@@ -10888,6 +10967,18 @@ http://doc.downloadha.com/h/Documentaries/October2019/Little.Giants.2019/Little.
 #EXTINF:-1, Little Giants S01E06: Alien Amphibian
 #EXTGRP: L
 http://doc.downloadha.com/h/Documentaries/October2019/Little.Giants.2019/Little.Giants.2019.S01E06.Alien.Amphibian.WEBRip.x264-CAFFEiNE_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Live Life Free Presented By The You Are My Light Foundation S01E02: Pedogate 2020 (Part 1):
+#EXTGRP: L
+https://www.beyondminds.org/archives/files/Documentaries/PEDOGATE 2020 PART 1.mp4
+
+#EXTINF:-1, Live Life Free Presented By The You Are My Light Foundation S01E02: Pedogate 2020 (Part 2)
+#EXTGRP: L
+https://www.beyondminds.org/archives/files/Documentaries/PEDOGATE 2020 PART 2 - Tom Hanx (NEW INFO).mp4
+
+#EXTINF:-1, Live Life Free Presented By The You Are My Light Foundation S01E07: Pedogate 2020 (Part 3)
+#EXTGRP: L
+https://www.beyondminds.org/archives/files/Documentaries/PEDOGATE 2020 PART 3 - Symbolism & Pizzagate.mp4
 
 #EXTINF:-1, Living With Lincoln
 #EXTGRP: L
@@ -12874,6 +12965,10 @@ http://doc.downloadha.com/h/Documentaries/May2018/One.Strange.Rock.S01E10.WEBRip
 #EXTGRP: O
 http://s5.bitdl.ir/Clips/Documentary/One.World.Trade.Center.HD.720p.bitdonwnload.ir.mp4
 
+#EXTINF:-1, Operation InfeKtion
+#EXTGRP: O
+https://www.beyondminds.org/archives/files/Documentaries/Operation InfeKtion.mp4
+
 #EXTINF:-1, Operation Snow Tiger S01E01
 #EXTGRP: O
 http//s5.bitdl.ir/Clips/Documentary/BBC.Operation.Snow.Tiger/Operation.Snow.Tiger.2013.S01E01.bitdownload.ir.avi
@@ -13057,6 +13152,14 @@ http://doc.downloadha.com/h/Documentaries/April2019/Our.Planet.2019.S01/720p.x26
 #EXTINF:-1, Our Planet S01E08: Forests
 #EXTGRP: O
 http://doc.downloadha.com/h/Documentaries/April2019/Our.Planet.2019.S01/720p.x265/Our.Planet.2019.S01E08.Forests.720p.WEBRip.2CH.x265.HEVC-PSA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, Out of Shadows (2020)
+#EXTGRP: O
+https://www.beyondminds.org/archives/files/Documentaries/Out of Shadows 2.mp4
+
+#EXTINF:-1, Out of Shadows (2020)
+#EXTGRP: O
+https://www.beyondminds.org/archives/files/Documentaries/Out of Shadows.mp4
 
 #EXTINF:-1, Pagans And Pilgrims Britains Holiest Places S01E01: Ruins
 #EXTGRP: P
@@ -13246,6 +13349,10 @@ http://doc.downloadha.com/h/Documentaries/January2020/PBS.Sights.and.Sounds.An.H
 #EXTGRP: P
 http://doc.downloadha.com/Behnam/Documentaries/December2017/PBS.The.Farthest.Voyager.In.Space.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
 
+#EXTINF:-1, Pedogate 2020 Massive Pedophile Network Exposed - What Does Netflix's 'Cuties' Have To Do With It
+#EXTGRP: P
+https://www.beyondminds.org/archives/files/Documentaries/PEDOGATE 2020 MASSIVE Pedophile Network EXPOSED - What does Netflix's 'Cuties' have to do with it.mp4
+
 #EXTINF:-1, Penguins
 #EXTGRP: P
 http://doc.downloadha.com/h/Documentaries/September2019/Penguins.2019.1080p.WEBRip.x264-RARBG_www.Downloadha.com_.mp4
@@ -13269,6 +13376,10 @@ http://s5.bitdl.ir/Clips/Documentary/Phenomenon,%20The%20Lost%20Archives%20-%20S
 #EXTINF:-1, Phenomenon - The Lost Archives: Up For Sale
 #EXTGRP: P
 http://s5.bitdl.ir/Clips/Documentary/Phenomenon,%20The%20Lost%20Archives%20-%20Up%20For%20Sale%20(1999).mp4
+
+#EXTINF:-1, Plandemic Documentary The Hidden Agenda Behind Covid-19
+#EXTGRP: P
+https://www.beyondminds.org/archives/files/Documentaries/Plandemic Documentary The Hidden Agenda Behind Covid-19.mp4
 
 #EXTINF:-1, Point And Shoot
 #EXTGRP: P
@@ -14038,6 +14149,10 @@ http://doc.downloadha.com/h/Documentaries/September2021/Schumacher.2021.DOCU.720
 #EXTGRP: S
 http://doc.downloadha.com/Behnam/Documentaries/December2017/Science.Breakthroughs.Homo.Naledi.1080p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
 
+#EXTINF:-1, Science Of The Soul
+#EXTGRP: S
+https://www.beyondminds.org/archives/files/Documentaries/Science Of The Soul.mp4
+
 #EXTINF:-1, Scotland The Promised Land S01E01
 #EXTGRP: S
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Scotland.The.Promised.Land.2016.S01E01.Webdl.720P.x264%20%28www.Downloadha.com%29.mkv
@@ -14049,6 +14164,10 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Scotland.The.P
 #EXTINF:-1, Scotland The Promised Land S01E03
 #EXTGRP: S
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Scotland.The.Promised.Land.2016.S01E03.Webdl.720P.x264%20%28www.Downloadha.com%29.mkv
+
+#EXTINF:-1, Secret Ancient Knowledge Exposed
+#EXTGRP: S
+https://www.beyondminds.org/archives/files/Documentaries/Secret Ancient knowledge exposed.mp4
 
 #EXTINF:-1, Secret Life Of Babies
 #EXTGRP: S
@@ -14501,6 +14620,10 @@ http://doc.downloadha.com/parsa/April2019/Spaces.Deepest.Secrets.Dark.Secrets.of
 #EXTINF:-1, Space's Deepest Secrets: Mars Alien Secrets
 #EXTGRP: S
 http://doc.downloadha.com/h/Documentaries/June2019/Spaces.Deepest.Secrets.Mars.Alien.Secrets.720p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
+
+#EXTINF:-1, Space Force What Technology Do They Really Have
+#EXTGRP: S
+https://www.beyondminds.org/archives/files/Documentaries/Space Force What Technology Do They Really Have .mp4
 
 #EXTINF:-1, Speed S01E01: Across Oceans
 #EXTGRP: S
@@ -15234,6 +15357,10 @@ http://doc.downloadha.com/h/Documentaries/March%202017/Parsa/The.American.Revolu
 #EXTGRP: T
 http://doc.downloadha.com/h/Documentaries/March%202017/Parsa/The.American.Revolution.S01E03.720p.HDTV.x264.AAC%20%28www.Downloadha.com%29.mp4
 
+#EXTINF:-1, The Anunnaki Movie ~ The Mysterious Origins Of Humanity
+#EXTGRP: T
+https://www.beyondminds.org/archives/files/Documentaries/The Anunnaki Movie ~ The Mysterious Origins of Humanity.mp4
+
 #EXTINF:-1, The Art Of Architecture S01E01
 #EXTGRP: T
 http://doc.downloadha.com/h/Documentaries/October2019/The.Art.Of.Architecture/The.Art.Of.Architecture.S01E01.1080p.HDTV.H264-LiNKLE_www.Downloadha.com_.mkv
@@ -15378,6 +15505,10 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/The.Big.Life.F
 #EXTGRP: T
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/The.Black.Panthers.Vanguard.Of.The.Revolution.2015.BRrip.720P.x264%20%28www.Downloadha.com%29.mkv
 
+#EXTINF:-1, The Book of Enoch
+#EXTGRP: T
+https://www.beyondminds.org/archives/files/Documentaries/The Book of Enoch Complete.mp4
+
 #EXTINF:-1, The Business Of Drugs S01E01
 #EXTGRP: T
 http:/doc.downloadha.com/h/Documentaries/July2020/The.Business.Of.Drugs/The.Business.Of.Drugs.S01E01.NF.WEBRip.x264-DLHA_www.Downloadha.com_.mkv
@@ -15405,6 +15536,10 @@ http:/doc.downloadha.com/h/Documentaries/July2020/The.Business.Of.Drugs/The.Busi
 #EXTINF:-1, The Capitalist Conspiracy
 #EXTGRP: T
 http://s5.bitdl.ir/Clips/Documentary/TheCapitalistConspiracy.mpg
+
+#EXTINF:-1, The Cosmic Hoax - An Exposé
+#EXTGRP: T
+https://www.beyondminds.org/archives/files/Documentaries/The Cosmic Hoax - An Exposé.mp4
 
 #EXTINF:-1, The Curse Of Oak Island S01E01
 #EXTGRP: T
@@ -17266,6 +17401,10 @@ http://doc.downloadha.com/h/Documentaries/July2018/The.Planets.US.S02E15.Alien.O
 #EXTGRP: T
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/The.Rabbits.Of.Skomer.2006.HDTV.720P.x264-MVGroup%20%28www.Downloadha.com%29.mkv
 
+#EXTINF:-1, The Real Secrets Hidden In Antarctica... Revealed
+#EXTGRP: T
+https://www.beyondminds.org/archives/files/Documentaries/The Real Secrets Hidden in Antarctica... Revealed.mp4
+
 #EXTINF:-1, The Real War Of Thrones The True History Of Europe 1/4: War Is Declared 1328-1364
 #EXTGRP: T
 http://doc.downloadha.com/Behnam/Documentaries/March2018/The.Real.War.Of.Thrones.The.True.History.of.Europe.1of4.War.Is.Declared.1328.1364.720p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
@@ -17754,6 +17893,10 @@ http://s5.bitdl.ir/Clips/Documentary/The.Universe/Season.7/The%20Universe%20-%20
 #EXTGRP: T
 http://s5.bitdl.ir/Clips/Documentary/The.Universe/Season.7/The%20Universe%20-%20S07E07%20-%20When%20Space%20Changed%20History.avi
 
+#EXTINF:-1, The Unknowns Mystifying UFO Cases
+#EXTGRP: T
+https://www.beyondminds.org/archives/files/Documentaries/The Unknowns Mystifying UFO Cases.mp4
+
 #EXTINF:-1, The Untold History Of The United States S01E01
 #EXTGRP: T
 http://doc.downloadha.com/parsa/January2019/The.Untold.History.of.the.United.States.S01/The.Untold.History.of.the.United.States.S01E01.720p.BRRip.x264.MkvCage_www.Downloadha.com_.mkv
@@ -17861,6 +18004,10 @@ http://doc.downloadha.com/parsa/January2019/The.Weapon.Hunter.Series.2/The.Weapo
 #EXTINF:-1, The Weapon Hunter S02E06: Iwo Jima Franken Gun
 #EXTGRP: T
 http://doc.downloadha.com/parsa/January2019/The.Weapon.Hunter.Series.2/The.Weapon.Hunter.Series.2.6of6.Iwo.Jima.Franken.gun.1080p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
+
+#EXTINF:-1, The Wisest Book Ever Written! (Law Of Attraction)
+#EXTGRP: T
+https://www.beyondminds.org/archives/files/Documentaries/The Wisest Book Ever Written! (Law Of Attraction).mp4
 
 #EXTINF:-1, The Wizard Of H2O
 #EXTGRP: T
@@ -19222,6 +19369,10 @@ http://s5.bitdl.ir/Clips/Documentary/UFO/Ufo%20Files%20-%20New%20Ufo%20Revelatio
 #EXTGRP: U
 http://s5.bitdl.ir/Clips/Documentary/UFO/THC%20-%20Ufo%20Files%203%20-%20Ufos%20And%20The%20White%20House%20-%20Dublado%20PtPt%20-%20by%20CHERINHO.avi
 
+#EXTINF:-1, UFO Files S02E08: UFOs And The White House
+#EXTGRP: U
+https://www.beyondminds.org/archives/files/Documentaries/UFO Files UFOs and the White House.mp4
+
 #EXTINF:-1, UFO Files S02E09: Russian Roswell
 #EXTGRP: U
 http://s5.bitdl.ir/Clips/Documentary/UFO/Ufo%20Files%20-%20Russian%20Roswell%20-%20by%20CHERINHO.mpg
@@ -19521,6 +19672,10 @@ http://doc.downloadha.com/Behnam/Documentaries/April2018/Walking.With.Dinosaurs.
 #EXTINF:-1, Walking With Dinosaurs S01E06: Death Of A Dynasty
 #EXTGRP: W
 http://doc.downloadha.com/Behnam/Documentaries/April2018/Walking.With.Dinosaurs.Series.1.6of6.Death.of.a.Dynasty.1080p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
+
+#EXTINF:-1, Walter Bosley - The Emergence Of The Breakaway Civilization
+#EXTGRP: W
+https://www.beyondminds.org/archives/files/Documentaries/The Emergence of the Breakaway Civilization Walter Bosley.mp4
 
 #EXTINF:-1, Waterworld Africa S01E01: Tidal Forest Of Africa
 #EXTGRP: W
