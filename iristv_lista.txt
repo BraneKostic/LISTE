@@ -28,57 +28,75 @@ http://91.148.117.242:44787/udp/232.233.237.103:4000
 http://91.148.117.242:44787/udp/232.233.237.208:4000
 
 #EXTINF:-1, AMC Balkan
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.52:12000
 
 #EXTINF:-1, AMC Balkan
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.237.32:4000
 
 #EXTINF:-1, Arena Sport 1
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.45:12000
 
 #EXTINF:-1, Arena Sport 1
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.246:12000
 
 #EXTINF:-1, Arena Sport 1 Premium
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.251:12000
 
 #EXTINF:-1, Arena Sport 1x2
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.122:12000
 
 #EXTINF:-1, Arena Sport 2
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.247:12000
 
 #EXTINF:-1, Arena Sport 2 Premium
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.252:12000
 
 #EXTINF:-1, Arena Sport 3
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.248:12000
 
 #EXTINF:-1, Arena Sport 3 Premium
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.253:12000
 
 #EXTINF:-1, Arena Sport 4
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.249:12000
 
 #EXTINF:-1, Arena Sport 5
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.49:12000
 
 #EXTINF:-1, Arena Sport 5
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.250:12000
 
 #EXTINF:-1, Arena Sport 6
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.239:12000
 
 #EXTINF:-1, Arena Sport 7
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.244:12000
 
 #EXTINF:-1, Arena Sport 8
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.238:12000
 
 #EXTINF:-1, Arena Esport E
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.50:12000
 
 #EXTINF:-1, Arena Fight
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.121:12000
 
 #EXTINF:-1, Arte HD
@@ -91,12 +109,15 @@ http://91.148.117.242:44787/udp/232.233.237.51:4000
 http://91.148.117.242:44787/udp/232.233.237.94:4000
 
 #EXTINF:-1, AXN
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.42:12000
 
 #EXTINF:-1, AXN Spin
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.43:12000
 
 #EXTINF:-1, AXN Spin
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.237.33:4000
 
 #EXTINF:-1, B92
@@ -131,9 +152,11 @@ http://91.148.117.242:44787/udp/232.233.234.208:12000
 http://91.148.117.242:44787/udp/232.233.234.149:12000
 
 #EXTINF:-1, BN
+#EXTGRP: Kolažni
 http://91.148.117.242:44787/udp/232.233.234.67:12000
 
 #EXTINF:-1, BN  2
+#EXTGRP: Kolažni
 http://91.148.117.242:44787/udp/232.233.234.64:12000
 
 #EXTINF:-1, BN Music
@@ -212,12 +235,15 @@ http://91.148.117.242:44787/udp/232.233.234.21:12000
 http://91.148.117.242:44787/udp/232.233.237.34:4000
 
 #EXTINF:-1, Diva
+#EXTGRP: Zabavni
 http://91.148.117.242:44787/udp/232.233.234.117:12000
 
 #EXTINF:-1, Diva
+#EXTGRP: Zabavni
 http://91.148.117.242:44787/udp/232.233.234.221:12000
 
 #EXTINF:-1, Diva
+#EXTGRP: Zabavni
 http://91.148.117.242:44787/udp/232.233.237.92:4000
 
 #EXTINF:-1, DM Sat
@@ -236,6 +262,7 @@ http://91.148.117.242:44787/udp/232.233.234.143:12000
 http://91.148.117.242:44787/udp/232.233.237.84:4000
 
 #EXTINF:-1, Dox TV
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.66:12000
 
 #EXTINF:-1, Duna TV
@@ -257,9 +284,11 @@ http://91.148.117.242:44787/udp/232.233.234.114:12000
 http://91.148.117.242:44787/udp/232.233.237.91:4000
 
 #EXTINF:-1, Epic Drama
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.97:12000
 
 #EXTINF:-1, Epic Drama
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.237.81:4000
 
 #EXTINF:-1, EuroNews Serbia
@@ -281,12 +310,15 @@ http://91.148.117.242:44787/udp/232.233.237.78:4000
 http://91.148.117.242:44787/udp/232.233.237.79:4000
 
 #EXTINF:-1, Fashion TV
+#EXTGRP: Zabavni
 http://91.148.117.242:44787/udp/232.233.234.40:12000
 
 #EXTINF:-1, Fashion TV
+#EXTGRP: Zabavni
 http://91.148.117.242:44787/udp/232.233.237.40:4000
 
 #EXTINF:-1, Fashion TV
+#EXTGRP: Zabavni
 http://91.148.117.242:44787/udp/232.233.237.106:4000
 
 #EXTINF:-1, Fight Network
@@ -299,21 +331,27 @@ http://91.148.117.242:44787/udp/232.233.234.11:12000
 http://91.148.117.242:44787/udp/232.171.194.64:4000
 
 #EXTINF:-1, Film Klub
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.59:12000
 
 #EXTINF:-1, FOX
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.87:12000
 
 #EXTINF:-1, FOX Crime
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.86:12000
 
 #EXTINF:-1, FOX Crime
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.84:12000
 
 #EXTINF:-1, FOX Crime
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.84:12000
 
 #EXTINF:-1, FOX Life
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.83:12000
 
 #EXTINF:-1, FOX Movies
@@ -356,9 +394,6 @@ http://91.148.117.242:44787/udp/232.233.237.38:4000
 #EXTINF:-1, History 2
 http://91.148.117.242:44787/udp/232.233.237.73:4000
 
-#EXTINF:-1, Hram
-http://91.148.117.242:44787/udp/232.233.234.213:12000
-
 #EXTINF:-1, HRT 2
 http://91.148.117.242:44787/udp/232.233.234.17:12000
 
@@ -400,6 +435,7 @@ http://91.148.117.242:44787/udp/232.233.234.68:12000
 http://91.148.117.242:44787/udp/232.233.234.10:12000
 
 #EXTINF:-1, Kuvo TV
+#EXTGRP: Sportski
 http://91.148.117.242:44787/udp/232.233.234.125:12000
 
 #EXTINF:-1, LFC TV
@@ -555,9 +591,11 @@ http://91.148.117.242:44787/udp/232.171.194.104:4000
 http://91.148.117.242:44787/udp/232.171.194.134:4000
 
 #EXTINF:-1, Pink Action
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.23:4000
 
 #EXTINF:-1, Pink Action
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.105:4000
 
 #EXTINF:-1, Pink BH
@@ -567,12 +605,15 @@ http://91.148.117.242:44787/udp/232.171.194.21:4000
 http://91.148.117.242:44787/udp/232.171.194.55:4000
 
 #EXTINF:-1, Pink Classic
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.41:4000
 
 #EXTINF:-1, Pink Comedy
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.31:4000
 
 #EXTINF:-1, Pink Comedy
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.67:4000
 
 #EXTINF:-1, Pink M
@@ -618,9 +659,11 @@ http://91.148.117.242:44787/udp/232.171.194.27:4000
 http://91.148.117.242:44787/udp/232.171.194.106:4000
 
 #EXTINF:-1, Pink Fashion
+#EXTGRP: Zabavni
 http://91.148.117.242:44787/udp/232.171.194.17:4000
 
 #EXTINF:-1, Pink Film
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.25:4000
 
 #EXTINF:-1, Pink Folk
@@ -636,6 +679,7 @@ http://91.148.117.242:44787/udp/232.171.194.34:4000
 http://91.148.117.242:44787/udp/232.171.194.12:4000
 
 #EXTINF:-1, Pink Horror
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.32:4000
 
 #EXTINF:-1, Pink Kids
@@ -675,15 +719,19 @@ http://91.148.117.242:44787/udp/232.171.194.71:4000
 http://91.148.117.242:44787/udp/232.171.194.19:4000
 
 #EXTINF:-1, Pink Premium
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.7:4000
 
 #EXTINF:-1, Pink Premium
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.65:4000
 
 #EXTINF:-1, Pink Premium
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.132:4000
 
 #EXTINF:-1, Pink Premium
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.237.181:4000
 
 #EXTINF:-1, Pink Reality
@@ -705,24 +753,29 @@ http://91.148.117.242:44787/udp/232.233.234.16:12000
 http://91.148.117.242:44787/udp/232.171.194.102:4000
 
 #EXTINF:-1, Pink Romance
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.4:4000
 
 #EXTINF:-1, Pink S!
 http://91.148.117.242:44787/udp/232.171.194.63:4000
 
 #EXTINF:-1, Pink Sci-Fi & Fantasy
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.5:4000
 
 #EXTINF:-1, Pink Sci-Fi & Fantasy
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.70:4000
 
 #EXTINF:-1, Pink Serije
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.48:4000
 
 #EXTINF:-1, Pink Show
 http://91.148.117.242:44787/udp/232.171.194.50:4000
 
 #EXTINF:-1, Pink Soap
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.8:4000
 
 #EXTINF:-1, Pink Style
@@ -732,18 +785,22 @@ http://91.148.117.242:44787/udp/232.171.194.42:4000
 http://91.148.117.242:44787/udp/232.171.194.52:4000
 
 #EXTINF:-1, Pink Thriller
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.2:4000
 
 #EXTINF:-1, Pink Thriller
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.68:4000
 
 #EXTINF:-1, Pink Western
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.40:4000
 
 #EXTINF:-1, Pink World
 http://91.148.117.242:44787/udp/232.171.194.9:4000
 
 #EXTINF:-1, Pink World Cinema
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.171.194.49:4000
 
 #EXTINF:-1, Pink Zabava
@@ -760,9 +817,11 @@ http://91.148.117.242:44787/udp/232.233.237.52:4000
 http://91.148.117.242:44787/udp/232.233.237.5:4000
 
 #EXTINF:-1, Prva Kick
+#EXTGRP: Kolažni
 http://91.148.117.242:44787/udp/232.233.234.200:12000
 
 #EXTINF:-1, Prva World
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.202:12000
 
 #EXTINF:-1, PTK
@@ -775,6 +834,7 @@ http://91.148.117.242:44787/udp/232.233.234.22:12000
 http://91.148.117.242:44787/udp/232.233.237.30:4000
 
 #EXTINF:-1, RTRS
+#EXTGRP: Kolažni
 http://91.148.117.242:44787/udp/232.233.234.19:12000
 
 #EXTINF:-1, RTS 1
@@ -822,12 +882,15 @@ http://91.148.117.242:44787/udp/232.233.234.30:12000
 http://91.148.117.242:44787/udp/232.233.237.3:4000
 
 #EXTINF:-1, RTS Drama
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.129:12000
 
 #EXTINF:-1, RTS Kolo
+#EXTGRP: Muzički
 http://91.148.117.242:44787/udp/232.233.234.128:12000
 
 #EXTINF:-1, RTS Muzika
+#EXTGRP: Muzički
 http://91.148.117.242:44787/udp/232.233.234.133:12000
 
 #EXTINF:-1, RTS Poletarac
@@ -840,15 +903,19 @@ http://91.148.117.242:44787/udp/232.233.237.70:4000
 http://91.148.117.242:44787/udp/232.233.237.71:4000
 
 #EXTINF:-1, RTS Trezor
+#EXTGRP: Kolažni
 http://91.148.117.242:44787/udp/232.233.234.131:12000
 
 #EXTINF:-1, RTS Zivot
+#EXTGRP: Dokumentarni
 http://91.148.117.242:44787/udp/232.233.234.132:12000
 
 #EXTINF:-1, RTV 1
+#EXTGRP: Kolažni
 http://91.148.117.242:44787/udp/232.233.234.106:12000
 
 #EXTINF:-1, RTV 1
+#EXTGRP: Kolažni
 http://91.148.117.242:44787/udp/232.233.237.9:4000
 
 #EXTINF:-1, RTV 2
@@ -882,9 +949,11 @@ http://91.148.117.242:44787/udp/232.233.237.54:4000
 http://91.148.117.242:44787/udp/232.233.234.254:12000
 
 #EXTINF:-1, Sci-Fi
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.113:12000
 
 #EXTINF:-1, Sci Fi
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.237.90:4000
 
 #EXTINF:-1, Sky News
@@ -913,9 +982,11 @@ http://91.148.117.242:44787/udp/232.233.237.182:4000
 http://91.148.117.242:44787/udp/232.233.237.21:4000
 
 #EXTINF:-1, Super Sat
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.237.58:4000
 
 #EXTINF:-1, Super Sat HD
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.98:12000
 
 #EXTINF:-1, Superstar
@@ -937,9 +1008,11 @@ http://91.148.117.242:44787/udp/232.171.194.80:4000
 http://91.148.117.242:44787/udp/232.233.234.18:12000
 
 #EXTINF:-1, Toxic Folk
+#EXTGRP: Muzički
 http://91.148.117.242:44787/udp/232.233.234.127:12000
 
 #EXTINF:-1, Toxic Rap
+#EXTGRP: Muzički
 http://91.148.117.242:44787/udp/232.233.234.126:12000
 
 #EXTINF:-1, TV 9
@@ -949,6 +1022,7 @@ http://91.148.117.242:44787/udp/232.233.237.15:4000
 http://91.148.117.242:44787/udp/232.233.237.16:4000
 
 #EXTINF:-1, TV1000
+#EXTGRP: Filmski / Serijski
 http://91.148.117.242:44787/udp/232.233.234.56:12000
 
 #EXTINF:-1, TV1000
@@ -956,6 +1030,10 @@ http://91.148.117.242:44787/udp/232.233.237.63:4000
 
 #EXTINF:-1, TV Duga Plus
 http://91.148.117.242:44787/udp/232.233.237.53:4000
+
+#EXTINF:-1, TV Hram
+#EXTGRP: Kolažni
+http://91.148.117.242:44787/udp/232.233.234.213:12000
 
 #EXTINF:-1, TV Rus+
 http://91.148.117.242:44787/udp/232.233.237.42:4000
