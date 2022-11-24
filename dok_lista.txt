@@ -1,5 +1,49 @@
 #EXTM3U
 
+#EXTINF:-1, 10 Days That Changed America E1: Antietam
+#EXTGRP: #
+https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 1_5.mp4
+
+#EXTINF:-1, 10 Days That Changed America E2: Massacre At Mystic
+#EXTGRP: #
+http://ftphost.nohum.org/video/10 Days That Changed America/10 Days That Changed America Vol 1_2.mp4
+
+#EXTINF:-1, 10 Days That Changed America E2: Massacre At Mystic
+#EXTGRP: #
+https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 1_2.mp4
+
+#EXTINF:-1, 10 Days That Changed America E3: Einstein's Letter
+#EXTGRP: #
+https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 3_2.mp4
+
+#EXTINF:-1, 10 Days That Changed America E4: Murder At The Fair: The Assassination Of President McKinley
+#EXTGRP: #
+https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 2_3.mp4
+
+#EXTINF:-1, 10 Days That Changed America E5: When America Was Rocked
+#EXTGRP: #
+https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 3_3.mp4
+
+#EXTINF:-1, 10 Days That Changed America E6: Gold Rush
+#EXTGRP: #
+https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 1_4.mp4
+
+#EXTINF:-1, 10 Days That Changed America E7: Scopes: The Battle Over America's Soul
+#EXTGRP: #
+https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 2_4.mp4
+
+#EXTINF:-1, 10 Days That Changed America E8: The Homestead Strike
+#EXTGRP: #
+https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 2_2.mp4
+
+#EXTINF:-1, 10 Days That Changed America E9: Freedom Summer
+#EXTGRP: #
+https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 3_4.mp4
+
+#EXTINF:-1, 10 Days That Changed America E10: Shays' Rebellion: America's First Civil War
+#EXTGRP: #
+https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 1_3.mp4
+
 #EXTINF:-1, 10 Years With Hayao Miyazaki E01
 #EXTGRP: #
 http://doc.downloadha.com/h/Documentaries/September2019/10.Years.With.Hayao.Miyazaki/10.Years.With.Hayao.Miyazaki.1of4.720p.x264.AAC.MVGroup_www.Downloadha.com_.mkv
@@ -32,6 +76,26 @@ http://doc.downloadha.com/h/Documentaries/November2019/21.Years.Quentin.Tarantin
 #EXTGRP: #
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/25.April.2015.Webrip.720P.DD5.x264-FGT%20%28www.Downloadha.com%29.mkv
 
+#EXTINF:-1, 500 Nations: Prologue - Wounded Knee Legacy
+#EXTGRP: #
+https://ftphost.nohum.net/video/500 Nations/Prologue - Wounded Knee Legacy.mp4
+
+#EXTINF:-1, 500 Nations: (E1) The Ancestors, (E2) Mexico
+#EXTGRP: #
+https://ftphost.nohum.net/video/500 Nations/Disc 1 - Episode 1 (The Ancestors) & 2 (Mexico).mp4
+
+#EXTINF:-1, 500 Nations: (E3) Clash Of Cultures, (E4) Invasion Of The Coast
+#EXTGRP: #
+https://ftphost.nohum.net/video/500 Nations/Disc 2 - Episode 3 (Clash of Cultures) & 4 (Invasion of the Coast).mp4
+
+#EXTINF:-1, 500 Nations: (E5) Cauldron Of War, (E6) Removal
+#EXTGRP: #
+https://ftphost.nohum.net/video/500 Nations/Disc 3 - Episode 5 (Cauldron of War) & 6 (Removal).mp4
+
+#EXTINF:-1, 500 Nations: (E7) Roads Across The Plains (E8) Attack On Culture
+#EXTGRP: #
+https://ftphost.nohum.net/video/500 Nations/Disc 4 - Episode 7 (Roads Across the Plains) & 8 (Attack on Culture).mp4
+
 #EXTINF:-1, 1066 A Year To Conquer England S01E01
 #EXTGRP: #
 http://doc.downloadha.com/Behnam/Documentaries/July2018/1066.A.Year.to.Conquer.England.Series.1.1of3.720p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
@@ -43,6 +107,26 @@ http://doc.downloadha.com/Behnam/Documentaries/July2018/1066.A.Year.to.Conquer.E
 #EXTINF:-1, 1066 A Year To Conquer England S01E03
 #EXTGRP: #
 http://doc.downloadha.com/Behnam/Documentaries/July2018/1066.A.Year.to.Conquer.England.Series.1.3of3.720p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
+
+#EXTINF:-1, 1950's, 1960's And Vietnam: Freedom Riders
+#EXTGRP: #
+https://ftphost.nohum.net/video/1950's, 1960's and Vietnam/Freedom Riders.mp4
+
+#EXTINF:-1, 1950's, 1960's And Vietnam: Murder of Emmett Till
+#EXTGRP: #
+https://ftphost.nohum.net/video/1950's, 1960's and Vietnam/Murder of Emmett Till.mp4
+
+#EXTINF:-1, 1950's, 1960's And Vietnam: The Sixties (D1)
+#EXTGRP: #
+https://ftphost.nohum.net/video/1950's, 1960's and Vietnam/The Sixties (D1).mp4
+
+#EXTINF:-1, 1950's, 1960's And Vietnam: The Sixties (D2)
+#EXTGRP: #
+https://ftphost.nohum.net/video/1950's, 1960's and Vietnam/The Sixties (D2).mp4
+
+#EXTINF:-1, 1950's, 1960's And Vietnam: The Sixties (D3)
+#EXTGRP: #
+https://ftphost.nohum.net/video/1950's, 1960's and Vietnam/The Sixties (D3).mp4
 
 #EXTINF:-1, A Ballerinas Tale
 #EXTGRP: A
@@ -8415,6 +8499,30 @@ http://doc.downloadha.com/Behnam/Documentaries/April2018/Extreme.Africa.5of6.Eto
 #EXTINF:-1, Extreme Africa 6/6: The Linear Oasis
 #EXTGRP: E
 http://doc.downloadha.com/Behnam/Documentaries/April2018/Extreme.Africa.6of6.The.Linear.Oasis.1080p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
+
+#EXTINF:-1, Eye On The Prize S01E01: Awakenings: 1954-1956
+#EXTGRP: E
+https://ftphost.nohum.net/video/1950's, 1960's and Vietnam/Eye on the Prize - Awakenings (1954-1956).mp4
+
+#EXTINF:-1, Eye On The Prize S01E02: Eye On The Prize Fighting Back: 1957-1962
+#EXTGRP: E
+https://ftphost.nohum.net/video/1950's, 1960's and Vietnam/Eye on the Prize - Fighting Back (1957-1962).mp4
+
+#EXTINF:-1, Eye On The Prize S01E03: Ain't Scared Of Your Jails: 1960-1961
+#EXTGRP: E
+https://ftphost.nohum.net/video/1950's, 1960's and Vietnam/Eyes on the Prize - Ain't Scared of Your Jails (1960-1961).mp4
+
+#EXTINF:-1, Eye On The Prize S01E06: Bridge To Freedom: 1965
+#EXTGRP: E
+https://ftphost.nohum.net/video/1950's, 1960's and Vietnam/Eyes on the Prize - Bridge to Freedom (1965).mp4
+
+#EXTINF:-1, Eye On The Prize S01E05: Mississippi: Is This America?: 1962-1964
+#EXTGRP: E
+https://ftphost.nohum.net/video/1950's, 1960's and Vietnam/Eyes on the Prize - Mississippi; Is This America (1962-1964).mp4
+
+#EXTINF:-1, Eye On The Prize S01E04: No Easy Walk: 1961-1963
+#EXTGRP: E
+https://ftphost.nohum.net/video/1950's, 1960's and Vietnam/Eyes on the Prize - No Easy Walk (1961-1963).mp4
 
 #EXTINF:-1, Fall Of The Cabal (Parts 1-10)
 #EXTGRP: F
