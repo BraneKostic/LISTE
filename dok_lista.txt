@@ -76,6 +76,18 @@ http://doc.downloadha.com/h/Documentaries/November2019/21.Years.Quentin.Tarantin
 #EXTGRP: #
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/25.April.2015.Webrip.720P.DD5.x264-FGT%20%28www.Downloadha.com%29.mkv
 
+#EXTINF:-1, 30 Days E1: Minimum Wage
+#EXTGRP: #
+https://ftphost.nohum.net/video/30 Days/30 Days (D1).mp4
+
+#EXTINF:-1, 30 Days E4: Straight Man In A Gay World
+#EXTGRP: #
+https://ftphost.nohum.net/video/30 Days/30 Days (D2).mp4
+
+#EXTINF:-1, 30 Years Of National Geographic Specials
+#EXTGRP: #
+https://ftphost.nohum.net/video/30 Years of National Geographic Specials.mp4
+
 #EXTINF:-1, 500 Nations: Prologue - Wounded Knee Legacy
 #EXTGRP: #
 https://ftphost.nohum.net/video/500 Nations/Prologue - Wounded Knee Legacy.mp4
@@ -95,6 +107,10 @@ https://ftphost.nohum.net/video/500 Nations/Disc 3 - Episode 5 (Cauldron of War)
 #EXTINF:-1, 500 Nations: (E7) Roads Across The Plains (E8) Attack On Culture
 #EXTGRP: #
 https://ftphost.nohum.net/video/500 Nations/Disc 4 - Episode 7 (Roads Across the Plains) & 8 (Attack on Culture).mp4
+
+#EXTINF:-1, 500 Nations: Closing Remarks
+#EXTGRP: #
+https://ftphost.nohum.net/video/500 Nations/Closing Remarks.mp4
 
 #EXTINF:-1, 1066 A Year To Conquer England S01E01
 #EXTGRP: #
@@ -127,6 +143,10 @@ https://ftphost.nohum.net/video/1950's, 1960's and Vietnam/The Sixties (D2).mp4
 #EXTINF:-1, 1950's, 1960's And Vietnam: The Sixties (D3)
 #EXTGRP: #
 https://ftphost.nohum.net/video/1950's, 1960's and Vietnam/The Sixties (D3).mp4
+
+#EXTINF:-1, 1968 With Tom Brokaw
+#EXTGRP: #
+https://ftphost.nohum.net/video/1968 Best Of History.mp4
 
 #EXTINF:-1, A Ballerinas Tale
 #EXTGRP: A
@@ -400,6 +420,14 @@ http://doc.downloadha.com/Behnam/Documentaries/June2018/Africas.Hidden.Kingdoms.
 #EXTGRP: A
 http://54.39.100.236/EngTvSeri/AfricaAA/AfricaAA01x01.mp4
 
+#EXTINF:-1, After Hitler
+#EXTGRP: A
+https://ftphost.nohum.net/video/After Hitler NatGeo.mp4
+
+#EXTINF:-1, After The Wall: A World United
+#EXTGRP: A
+https://ftphost.nohum.net/video/After the Wall.mp4
+
 #EXTINF:-1, Age Of Big Cats S01E01
 #EXTGRP: A
 http://doc.downloadha.com/parsa/January2019/Age.Of.Big.Cats.S01/Age.Of.Big.Cats.S01E01.Origins.1080p.WEB-DL.x264-iFX_www.Downloadha.com_.mkv
@@ -448,6 +476,10 @@ http://doc.downloadha.com/Behnam/Documentaries/June2018/Al-Jazeera.World.2018.Th
 #EXTGRP: A
 http://doc.downloadha.com/Behnam/Documentaries/December2017/Al-Jazeera.World.2017.Yemen.The.North-South.Divide.720p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mkv
 
+#EXTINF:-1, Alexander Hamilton - The Man Who Made Modern America
+#EXTGRP: A
+https://ftphost.nohum.net/video/Alexander Hamilton - The Man Who Made Modern America.mp4
+
 #EXTINF:-1, Alexanders Lost World S01E01: On An Ancient Sea
 #EXTGRP: A
 http://doc.downloadha.com/Behnam/Documentaries/July2018/Alexanders.Lost.World.Series.1.1of6.On.An.Ancient.Sea.720p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
@@ -479,6 +511,10 @@ http://s5.bitdl.ir/Clips/Documentary/Alien.Planets.Revealed.720p.HDTV.2014.bitdo
 #EXTINF:-1, All Is Self
 #EXTGRP: A
 https://www.beyondminds.org/archives/files/Documentaries/All Is Self (Documentary).mp4
+
+#EXTINF:-1, All American High Revisited (2014)
+#EXTGRP: A
+https://ftphost.nohum.net/video/All American High Revisited.mp4
 
 #EXTINF:-1, All Things Must Pass The Rise And Fall Of Tower Records
 #EXTGRP: A
@@ -528,17 +564,101 @@ http://doc.downloadha.com/h/Documentaries/January2020/Americas.Mississippi.Serie
 #EXTGRP: A
 http://doc.downloadha.com/h/Documentaries/January2020/Americas.Mississippi.Series.1/Americas.Mississippi.Series.1.3of3.The.Bayou.1080p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
 
-#EXTINF:-1, American Experience Chasing The Moon E01: A Place Beyond The Sky
+#EXTINF:-1, America: The Story Of The US E1: Rebels
+#EXTGRP: A
+https://ftphost.nohum.net/video/America/America D1_1.mp4
+
+#EXTINF:-1, America: The Story Of The US E2: Revolution
+#EXTGRP: A
+https://ftphost.nohum.net/video/America/America D1_2.mp4
+
+#EXTINF:-1, America: The Story Of The US E3: Westward
+#EXTGRP: A
+https://ftphost.nohum.net/video/America/America D1_3.mp4
+
+#EXTINF:-1, America: The Story Of The US E4: Division
+#EXTGRP: A
+https://ftphost.nohum.net/video/America/America D1_4.mp4
+
+#EXTINF:-1, America: The Story Of The US: [E1] Rebels, [E2] Revolution, [E3]Westward, [E4]Division
+#EXTGRP: 
+https://ftphost.nohum.net/video/America/America D1_5.mp4
+
+#EXTINF:-1, America: The Story Of The US E5: Civil War
+#EXTGRP: 
+https://ftphost.nohum.net/video/America/America D2_1.mp4
+
+#EXTINF:-1, America: The Story Of The US E6: Heartland
+#EXTGRP: 
+https://ftphost.nohum.net/video/America/America D2_2.mp4
+
+#EXTINF:-1, America: The Story Of The US E7: Cities
+#EXTGRP: 
+https://ftphost.nohum.net/video/America/America D2_3.mp4
+
+#EXTINF:-1, America: The Story Of The US E8: Boom
+#EXTGRP: 
+https://ftphost.nohum.net/video/America/America D2_4.mp4
+
+#EXTINF:-1, America: The Story Of The US: [E5] Civil War, [E6] Heartland, [E7] Cities, [E8] Boom
+#EXTGRP: 
+https://ftphost.nohum.net/video/America/America D2_5.mp4
+
+#EXTINF:-1, America: The Story Of The US E9: Bust 
+#EXTGRP: 
+https://ftphost.nohum.net/video/America/America D3_1.mp4
+
+#EXTINF:-1, America: The Story Of The US E10: World War II
+#EXTGRP: 
+https://ftphost.nohum.net/video/America/America D3_2.mp4
+
+#EXTINF:-1, America: The Story Of The US E11: Superpower 
+#EXTGRP: 
+https://ftphost.nohum.net/video/America/America D3_3.mp4
+
+#EXTINF:-1, America: The Story Of The US E12: Millennium
+#EXTGRP: 
+https://ftphost.nohum.net/video/America/America D3_4.mp4
+
+#EXTINF:-1, America: The Story Of The US: [E9] Bust, [e10] World War II, [E11] Superpower, [E12] Millennium
+#EXTGRP: 
+https://ftphost.nohum.net/video/America/America D3_5.mp4
+
+#EXTINF:-1, America Revealed E1: Food Machine
+#EXTGRP: A
+https://ftphost.nohum.net/video/America Revealed-Food Machine.mp4
+
+#EXTINF:-1, America Revealed E2: Nation On The Move
+#EXTGRP: A
+https://ftphost.nohum.net/video/America Revealed - Nation on the Move.mp4
+
+#EXTINF:-1, America Revealed E3: Electric Nation
+#EXTGRP: A
+https://ftphost.nohum.net/video/America Revealed - Electric Nation.mp4
+
+#EXTINF:-1, America Revealed E4: Made In The U.S.A.
+#EXTGRP: A
+https://ftphost.nohum.net/video/America Revealed - Made in the USA.mp4
+
+#EXTINF:-1, American Experience S26E02: 1964
+#EXTGRP: A
+https://ftphost.nohum.net/video/American Experience 1964.mp4
+
+#EXTINF:-1, American Experience S31E02: Chasing The Moon (Part 1): A Place Beyond The Sky
 #EXTGRP: A
 http://doc.downloadha.com/h/Documentaries/June2019/American.Experience.Chasing.the.Moon/American.Experience.Chasing.the.Moon.1of3.A.Place.Beyond.the.Sky.1080p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
 
-#EXTINF:-1, American Experience Chasing The Moon E02: Earthrise
+#EXTINF:-1, American Experience S31E02: Chasing The Moon (Part 2): Earthrise
 #EXTGRP: A
 http://doc.downloadha.com/h/Documentaries/June2019/American.Experience.Chasing.the.Moon/American.Experience.Chasing.the.Moon.2of3.Earthrise.1080p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
 
-#EXTINF:-1, American Experience Chasing The Moon E03: Magnificent Desolation
+#EXTINF:-1, American Experience S31E02: Chasing The Moon (Part 3): Magnificent Desolation
 #EXTGRP: A
 http://doc.downloadha.com/h/Documentaries/June2019/American.Experience.Chasing.the.Moon/American.Experience.Chasing.the.Moon.3of3.Magnificent.Desolation.1080p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
+
+#EXTINF:-1, American Experience S6E6: America And The Holocaust: Deceit And Indifference
+#EXTGRP: A
+https://ftphost.nohum.net/video/America and the Holocaust.mp4
 
 #EXTINF:-1, An American Aristocrats Guide To Great Estates S01E01
 #EXTGRP: A
@@ -12713,13 +12833,17 @@ http://doc.downloadha.com/Behnam/Documentaries/December2017/National.Geographic.
 #EXTGRP: N
 http://doc.downloadha.com/parsa/January2019/N.G.Explorer.Human.Towers.1080p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
 
-#EXTINF:-1, NGC Explorer Series 11: Yellowstone Wolves
-#EXTGRP: N
-http://doc.downloadha.com/parsa/February2019/N.G.Explorer.Series.11.Yellowstone.Wolves.1080p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
+#EXTINF:-1, NGC Explorer Inside North Korea: Then And Now With Lisa Ling
+#EXTGRP: 
+https://ftphost.nohum.net/video/1970-2001/Inside North Korea.mp4
 
 #EXTINF:-1, NGC Explorer Moment Of Death
 #EXTGRP: N
 http://doc.downloadha.com/h/Documentaries/February%202017/parsa2/NG.Explorer.Moment.of.Death.720p.WEBRip.x264.AC3%20%28www.Downloadha.com%29.mkv
+
+#EXTINF:-1, NGC Explorer Series 11: Yellowstone Wolves
+#EXTGRP: N
+http://doc.downloadha.com/parsa/February2019/N.G.Explorer.Series.11.Yellowstone.Wolves.1080p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
 
 #EXTINF:-1, NGC Inside Google
 #EXTGRP: N
