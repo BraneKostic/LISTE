@@ -3176,93 +3176,13 @@ http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S25/1080p.x2
 #EXTGRP: SEASON 26
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E01.Clown.in.the.Dumps.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
-#EXTINF:-1, The Simpsons S26E02
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E02.The.Wreck.of.the.Relationship.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E03
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E03.Super.Franchise.Me.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E04
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E04.Treehouse.of.Horror.XXV.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E05
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E05.Opposites.a-Frack.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E06
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E06.Simpsorama.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E07
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E07.Blazed.and.Confused.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E08
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E08.Covercraft.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E09
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E09.I.Wont.Be.Home.for.Christmas.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E10
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E10.The.Man.Who.Came.To.Be.Dinner.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E11
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E11.Barts.New.Friend.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E12
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E12.The.Musk.Who.Fell.to.Earth.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E13
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E13.Walking.Big.and.Tall.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E14
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E14.My.Fare.Lady.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E15
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E15.The.Princess.Guide.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E16
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E16.Sky.Police.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E17
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E17.Waiting.for.Duffman.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E18
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E18.Peeping.Mom.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E19
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E19.The.Kids.are.all.Fight.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E20
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E20.Lets.Go.Fly.a.Coot.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E21
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E21.Bull-E.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
-#EXTINF:-1, The Simpsons S26E22
-#EXTGRP: SEASON 26
-http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E22.Mathletes.Feat.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
-
 #EXTINF:-1, The Simpsons S26E01
 #EXTGRP: SEASON 26
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x264/The.Simpsons.S26E01.Clown.in.the.Dumps.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E02
+#EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E02.The.Wreck.of.the.Relationship.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S26E02
 #EXTGRP: SEASON 26
@@ -3270,7 +3190,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x2
 
 #EXTINF:-1, The Simpsons S26E03
 #EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E03.Super.Franchise.Me.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E03
+#EXTGRP: SEASON 26
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x264/The.Simpsons.S26E03.Super.Franchise.Me.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E04
+#EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E04.Treehouse.of.Horror.XXV.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S26E04
 #EXTGRP: SEASON 26
@@ -3278,7 +3206,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x2
 
 #EXTINF:-1, The Simpsons S26E05
 #EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E05.Opposites.a-Frack.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E05
+#EXTGRP: SEASON 26
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x264/The.Simpsons.S26E05.Opposites.a-Frack.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E06
+#EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E06.Simpsorama.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S26E06
 #EXTGRP: SEASON 26
@@ -3286,7 +3222,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x2
 
 #EXTINF:-1, The Simpsons S26E07
 #EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E07.Blazed.and.Confused.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E07
+#EXTGRP: SEASON 26
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x264/The.Simpsons.S26E07.Blazed.and.Confused.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E08
+#EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E08.Covercraft.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S26E08
 #EXTGRP: SEASON 26
@@ -3294,7 +3238,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x2
 
 #EXTINF:-1, The Simpsons S26E09
 #EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E09.I.Wont.Be.Home.for.Christmas.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E09
+#EXTGRP: SEASON 26
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x264/The.Simpsons.S26E09.I.Wont.Be.Home.for.Christmas.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E10
+#EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E10.The.Man.Who.Came.To.Be.Dinner.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S26E10
 #EXTGRP: SEASON 26
@@ -3302,7 +3254,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x2
 
 #EXTINF:-1, The Simpsons S26E11
 #EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E11.Barts.New.Friend.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E11
+#EXTGRP: SEASON 26
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x264/The.Simpsons.S26E11.Bart%27s.New.Friend.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E12
+#EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E12.The.Musk.Who.Fell.to.Earth.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S26E12
 #EXTGRP: SEASON 26
@@ -3310,7 +3270,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x2
 
 #EXTINF:-1, The Simpsons S26E13
 #EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E13.Walking.Big.and.Tall.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E13
+#EXTGRP: SEASON 26
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x264/The.Simpsons.S26E13.Walking.Big.and.Tall.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E14
+#EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E14.My.Fare.Lady.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S26E14
 #EXTGRP: SEASON 26
@@ -3318,7 +3286,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x2
 
 #EXTINF:-1, The Simpsons S26E15
 #EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E15.The.Princess.Guide.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E15
+#EXTGRP: SEASON 26
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x264/The.Simpsons.S26E15.The.Princess.Guide.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E16
+#EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E16.Sky.Police.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S26E16
 #EXTGRP: SEASON 26
@@ -3326,7 +3302,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x2
 
 #EXTINF:-1, The Simpsons S26E17
 #EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E17.Waiting.for.Duffman.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E17
+#EXTGRP: SEASON 26
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x264/The.Simpsons.S26E17.Waiting.for.Duffman.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E18
+#EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E18.Peeping.Mom.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S26E18
 #EXTGRP: SEASON 26
@@ -3334,7 +3318,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x2
 
 #EXTINF:-1, The Simpsons S26E19
 #EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E19.The.Kids.are.all.Fight.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E19
+#EXTGRP: SEASON 26
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x264/The.Simpsons.S26E19.The.Kids.are.all.Fight.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E20
+#EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E20.Lets.Go.Fly.a.Coot.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S26E20
 #EXTGRP: SEASON 26
@@ -3342,7 +3334,15 @@ http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x2
 
 #EXTINF:-1, The Simpsons S26E21
 #EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E21.Bull-E.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E21
+#EXTGRP: SEASON 26
 http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/1080p.x264/The.Simpsons.S26E21.Bull-E.1080p.WEB-DL.6CH.x264-DLHA_www.Downloadha.com_.mkv
+
+#EXTINF:-1, The Simpsons S26E22
+#EXTGRP: SEASON 26
+http://dl5.downloadha.com/hosein/Animation/October2019/The.Simpsons/S26/720p.x264/The.Simpsons.S26E22.Mathletes.Feat.720p.WEB-DL.x264-DLHA_www.Downloadha.com_.mkv
 
 #EXTINF:-1, The Simpsons S26E22
 #EXTGRP: SEASON 26
