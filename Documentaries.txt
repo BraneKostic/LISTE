@@ -4340,6 +4340,10 @@ http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.2001.Part1.
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.S01E01.REPACK.1080p.BluRay.x264-REQ_www.Downloadha.com_.mkv
 
+#EXTINF:-1, BBC The Blue Planet S01E01: Ocean World
+#EXTGRP: B
+https://ftphost.nohum.net/video/Blue Planet/Ocean World.mp4
+
 #EXTINF:-1, BBC The Blue Planet S01E02: The Deep
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.2001.Part2.1080p.BluRay.H264.AAC-RARBG_www.Downloadha.com_.mp4
@@ -4364,6 +4368,10 @@ http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.2001.Part4.
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.S01E04.REPACK.1080p.BluRay.x264-REQ_www.Downloadha.com_.mkv
 
+#EXTINF:-1, BBC The Blue Planet S01E04: Frozen Seas
+#EXTGRP: B
+https://ftphost.nohum.net/video/Blue Planet/Frozen Seas.mp4
+
 #EXTINF:-1, BBC The Blue Planet S01E05: Seasonal Seas
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.2001.Part5.1080p.BluRay.H264.AAC-RARBG_www.Downloadha.com_.mp4
@@ -4371,6 +4379,10 @@ http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.2001.Part5.
 #EXTINF:-1, BBC The Blue Planet S01E05: Seasonal Seas
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.S01E05.REPACK.1080p.BluRay.x264-REQ_www.Downloadha.com_.mkv
+
+#EXTINF:-1, BBC The Blue Planet S01E05: Seasonal Seas
+#EXTGRP: B
+https://ftphost.nohum.net/video/Blue Planet/Seasonal Seas.mp4
 
 #EXTINF:-1, BBC The Blue Planet S01E06: Coral Seas
 #EXTGRP: B
@@ -4380,6 +4392,10 @@ http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.2001.Part6.
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.S01E06.1080p.BluRay.x264-REQ_www.Downloadha.com_.mkv
 
+#EXTINF:-1, BBC The Blue Planet S01E06: Coral Seas
+#EXTGRP: B
+https://ftphost.nohum.net/video/Blue Planet/Coral Seas.mp4
+
 #EXTINF:-1, BBC The Blue Planet S01E07: Tidal Seas
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.2001.Part7.1080p.BluRay.H264.AAC-RARBG_www.Downloadha.com_.mp4
@@ -4388,6 +4404,10 @@ http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.2001.Part7.
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.S01E07.1080p.BluRay.x264-REQ_www.Downloadha.com_.mkv
 
+#EXTINF:-1, BBC The Blue Planet S01E07: Tidal Seas
+#EXTGRP: B
+https://ftphost.nohum.net/video/Blue Planet/Tidal Seas.mp4
+
 #EXTINF:-1, BBC The Blue Planet S01E08: Coasts
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.2001.Part8.1080p.BluRay.H264.AAC-RARBG_www.Downloadha.com_.mp4
@@ -4395,6 +4415,22 @@ http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.2001.Part8.
 #EXTINF:-1, BBC The Blue Planet S01E08: Coasts
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.S01E08.1080p.BluRay.x264-REQ_www.Downloadha.com_.mkv
+
+#EXTINF:-1, BBC The Blue Planet: Seas Of Life: Amazon Abyss
+#EXTGRP: B
+https://ftphost.nohum.net/video/Blue Planet/Amazon Abyss.mp4
+
+#EXTINF:-1, BBC The Blue Planet: Seas Of Life: Antarctica
+#EXTGRP: B
+https://ftphost.nohum.net/video/Blue Planet/Antarctica.mp4
+
+#EXTINF:-1, BBC The Blue Planet: Seas Of Life: Beneath The Tides
+#EXTGRP: B
+https://ftphost.nohum.net/video/Blue Planet/Between the Tides.mp4
+
+#EXTINF:-1, BBC The Blue Planet: Seas Of Life: Dive To Shark Volcano
+#EXTGRP: B
+https://ftphost.nohum.net/video/Blue Planet/Dive To Shark Volcano.mp4
 
 #EXTINF:-1, BBC The Blue Planet II S02E01: One Ocean
 #EXTGRP: B
@@ -4448,6 +4484,10 @@ http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.II.S01E01.O
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/October%202017/Blue.Planet.II.S01E01.WEBRip.x264-RARBG_www.Downloadha.com_.mp4
 
+#EXTINF:-1, BBC The Blue Planet II S02E01: One Ocean
+#EXTGRP: B
+https://ftphost.nohum.net/video/Blue Planet/Open Ocean.mp4
+
 #EXTINF:-1, BBC The Blue Planet II S02E02: The Deep
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/November%202017/Blue.Planet.II.S01E02.The.Deep.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA_www.Downloadha.com_.mkv
@@ -4483,6 +4523,10 @@ http://doc.downloadha.com/h/Documentaries/November%202017/Blue%20Planet%20II/720
 #EXTINF:-1, BBC The Blue Planet II S02E02: The Deep
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/November%202017/Blue%20Planet%20II/BRRip%201080p%20x264/Blue.Planet.II.S01E02.1080p.BRRip.6CH.MkvCage_www.Downloadha.com_.mkv
+
+#EXTINF:-1, BBC The Blue Planet II S02E02: The Deep
+#EXTGRP: B
+https://ftphost.nohum.net/video/Blue Planet/The Deep.mp4
 
 #EXTINF:-1, BBC The Blue Planet II S02E03: Coral Reefs
 #EXTGRP: B
@@ -4611,6 +4655,10 @@ http://doc.downloadha.com/h/Documentaries/November%202017/Blue%20Planet%20II/720
 #EXTINF:-1, BBC The Blue Planet II S02E06: Coasts
 #EXTGRP: B
 http://doc.downloadha.com/h/Documentaries/November%202017/Blue%20Planet%20II/BRRip%201080p%20x264/Blue.Planet.II.S01E06.1080p.BRRip.6CH.MkvCage_www.Downloadha.com_.mkv
+
+#EXTINF:-1, BBC The Blue Planet II S02E06: Coasts
+#EXTGRP: B
+https://ftphost.nohum.net/video/Blue Planet/Coasts.mp4
 
 #EXTINF:-1, BBC The Blue Planet II S02E07: Our Blue Planet
 #EXTGRP: B
