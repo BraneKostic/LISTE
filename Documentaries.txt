@@ -640,6 +640,10 @@ https://ftphost.nohum.net/video/America Revealed - Electric Nation.mp4
 #EXTGRP: A
 https://ftphost.nohum.net/video/America Revealed - Made in the USA.mp4
 
+#EXTINF:-1, American Experience S24E05: Amish
+#EXTGRP: A 
+https://ftphost.nohum.net/video/Amish.mp4
+
 #EXTINF:-1, American Experience S26E02: 1964
 #EXTGRP: A
 https://ftphost.nohum.net/video/American Experience 1964.mp4
@@ -5700,6 +5704,10 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Bitcoin.The.En
 #EXTGRP: B
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Bitcoin.The.End.Of.Money.As.We.Know.It.2015.Webdl.480P.x264%20%28www.Downloadha.com%29.mkv
 
+#EXTINF:-1, Black Death
+#EXTGRP: B
+https://ftphost.nohum.net/video/Black Death.mp4
+
 #EXTINF:-1, Black Market Dispatches S01E01
 #EXTGRP: B
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Black.Market.Dispatches.2016.S01E01.HDTV.720P.x264-W4F%20%28www.Downloadha.com%29.mkv
@@ -5759,6 +5767,126 @@ http://doc.downloadha.com/Behnam/Documentaries/July2018/Bombing.War.From.Guernic
 #EXTINF:-1, Bombing War From Guernica To Hiroshima E02: The Blaze
 #EXTGRP: B
 http://doc.downloadha.com/Behnam/Documentaries/July2018/Bombing.War.From.Guernica.to.Hiroshima.2of2.The.Blaze.720p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
+
+#EXTINF:-1, Bones, Stones, And Genes: The Origin Of Modern Humans: Stone Tools And The Evolution Of Human Behavior
+#EXTGRP: B
+https://ftphost.nohum.net/video/Bones Stones and Genes - T10.mp4
+
+#EXTINF:-1, Bones, Stones, And Genes: The Origin Of Modern Humans: Genetics Of Human Origins And Adaptation
+#EXTGRP: B
+https://ftphost.nohum.net/video/Bones Stones and Genes - T9.mp4
+
+#EXTINF:-1, Bones, Stones, And Genes: The Origin Of Modern Humans: Human Evolution And The Nature Of Science
+#EXTGRP: B
+https://ftphost.nohum.net/video/Bones Stones and Genes/Bones Stones and Genes - T2.mp4
+
+#EXTINF:-1, Brain Games S01E01: Watch This!
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 1/Watch This.mp4
+
+#EXTINF:-1, Brain Games S01E02: Pay Attention!
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 1/Pay Attention.mp4
+
+#EXTINF:-1, Brain Games S01E03: Remember This!
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 1/Remember This.mp4
+
+#EXTINF:-1, Brain Games S02E01: Focus Pocus
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 2/Focus Pocus.mp4
+
+#EXTINF:-1, Brain Games S02E02: It's About Time
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 2/It's About Time.mp4
+
+#EXTINF:-1, Brain Games S02E03: Motion Commotion
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 2/Motion Commotion.mp4
+
+#EXTINF:-1, Brain Games S02E04: Don't Be Afraid
+#EXTGRP: 
+https://ftphost.nohum.net/video/Brain Games Season 2/Don't Be Afraid.mp4
+
+#EXTINF:-1, Brain Games S02E05: Power Of Persuasion
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 2/Power of Persuation.mp4
+
+#EXTINF:-1, Brain Games S02E06: What You Don't Know
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 2/What You Don't Know.mp4
+
+#EXTINF:-1, Brain Games S02E07: Battle Of The Sexes
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 2/Battle of the Sexes.mp4
+
+#EXTINF:-1, Brain Games S02E08: Seeing Is Believing
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 2/Seeing is Believing.mp4
+
+#EXTINF:-1, Brain Games S02E09: You Decide
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 2/You Decide.mp4
+
+#EXTINF:-1, Brain Games S02E10: Use It Or Lose It
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 2/Use it or Lose it.mp4
+
+#EXTINF:-1, Brain Games S02E11: Illusion Confusion
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 2/Illusion Confusion.mp4
+
+#EXTINF:-1, Brain Games S02E12: Liar, Liar
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 2/Liar Liar.mp4
+
+#EXTINF:-1, Brain Games S03E01: Battle Of The Ages
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 3/Battle of the Ages.mp4
+
+#EXTINF:-1, Brain Games S03E02: In Living Color
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 3/In Living Color.mp4
+
+#EXTINF:-1, Brain Games S03E03: Laws Of Attraction
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 3/Laws of Attraction.mp4
+
+#EXTINF:-1, Brain Games S03E04: Trust Me
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 3/Trust Me.mp4
+
+#EXTINF:-1, Brain Games S03E05: Stress Test
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 3/Stress Test.mp4
+
+#EXTINF:-1, Brain Games S03E06: What's Going On?
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 3/What's Going On.mp4
+
+#EXTINF:-1, Brain Games S03E07: Retrain Your Brain
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 3/Retrain Your Brain.mp4
+
+#EXTINF:-1, Brain Games S03E08: Mind Your Body
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 3/Mind Your Body.mp4
+
+#EXTINF:-1, Brain Games S03E09: In It To Win It
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 3/In It to Win It.mp4
+
+#EXTINF:-1, Brain Games S03E10: Follow The Leader
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 3/Follow The Leader.mp4
+
+#EXTINF:-1, Brain Games S05 (DVD1)
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 5/NG Brain Games S5 D1.mp4
+
+#EXTINF:-1, Brain Games S05 (DVD2)
+#EXTGRP: B
+https://ftphost.nohum.net/video/Brain Games Season 5/NG Brain Games S5 D2.mp4
 
 #EXTINF:-1, Breakthrough The Ideas That Changed The World S01E01: The Telescope
 #EXTGRP: B
@@ -9736,6 +9864,10 @@ http://doc.downloadha.com/h/Documentaries/July2021/How.the.Universe.Works.S09/Ho
 #EXTGRP: H
 http://doc.downloadha.com/h/Documentaries/July2021/How.the.Universe.Works.S09/How.the.Universe.Works.S09E11.Mystery.of.Alien.Worlds.1080p.WEB.h264-KOMPOST_Downloadha.com_.mkv
 
+#EXTINF:-1, How To Build A Beating Heart 
+#EXTGRP: H
+https://ftphost.nohum.net/video/Brain Games Season 1/How to Build a Beating Heart.mp4
+
 #EXTINF:-1, I Am Alive - Surviving The Andes Plane Crash
 #EXTGRP: I
 http://s5.bitdl.ir/Clips/Documentary/I%20Am%20Alive%20-%20Surviving%20The%20Andes%20Plane%20Crash.PDTV.bitdownload.ir.avi
@@ -9747,6 +9879,14 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/I.Believe.In.M
 #EXTINF:-1, I Believe In Miracles
 #EXTGRP: I
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/I.Believe.In.Miracles.2015.BRrip.720P.x264-Yify%20%28www.Downloadha.com%29.mkv
+
+#EXTINF:-1, Imagine.. Annie Leibowitz Life Through a Lens
+#EXTGRP: I
+https://ftphost.nohum.net/video/Annie Liebovitz.mp4
+
+#EXTINF:-1, Imagine.. Annie Leibowitz Life Through a Lens (Extended Interviews)
+#EXTGRP: I
+https://ftphost.nohum.net/video/Annie Liebovitz - Extended Interviews.mp4
 
 #EXTINF:-1, Impossible Engineering S01E01: Mega Bridge
 #EXTGRP: I
