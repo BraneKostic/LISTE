@@ -1151,9 +1151,9 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Autonomous.Dri
 
 
 
-#EXTINF:-1, BattleBots (M3U u TXT)
+#EXTINF:-1, BattleBots (M3U)
 #EXTGRP: B
-https://raw.githubusercontent.com/BraneKostic/LISTE/main/BattleBots.txt
+https://raw.githubusercontent.com/BraneKostic/LISTE/main/BattleBots.m3u
 
 
 #EXTINF:-1, Banking On Africa: The Bitcoin Revolution
