@@ -44,7 +44,7 @@ https://iptv-org.github.io/iptv/countries/aq.m3u
 #EXTGRP: Country
 https://iptv-org.github.io/iptv/countries/as.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Austria
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/at.m3u
 
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/at.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/at_samsung.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Australia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au.m3u
 
@@ -60,23 +60,23 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au_samsung.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Aruba
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/aw.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Azerbaijan
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bosnia and Herzegovina
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ba.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Barbados
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bb.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bangladesh
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u
 
@@ -84,7 +84,7 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd_jagobd.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Belgium
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/be.m3u
 
@@ -100,27 +100,31 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bf.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bg.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bahrain
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bh.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Benin
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bj.m3u
+
+#EXTINF:-1, Bermuda
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/countries/bm.m3u
 
 #EXTINF:-1, 
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bn.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bolivia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bo.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bonaire
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bq.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Brazil
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br.m3u
 
@@ -132,11 +136,23 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_pluto.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_samsung.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bahamas
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bs.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bhutan
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/countries/bt.m3u
+
+#EXTINF:-1, Bouvet Island
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/countries/bv.m3u3u
+
+#EXTINF:-1, Botswana
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/countries/bw.m3u
+
+#EXTINF:-1, Belarus
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/by.m3u
 
@@ -144,7 +160,7 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/by.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/by_sluhay.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Belize
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bz.m3u
 
