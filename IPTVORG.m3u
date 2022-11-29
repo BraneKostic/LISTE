@@ -1108,13 +1108,108 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/za.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/zm.m3u
 
+#EXTINF:-1, Africa
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/afr.m3u
 
+#EXTINF:-1, Americas
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/amer.m3u
+
+#EXTINF:-1, Arab world
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/arab.m3u
+
+#EXTINF:-1, Asia
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/asia.m3u
+
+#EXTINF:-1, Asia-Pacific
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/apac.m3u
+
+#EXTINF:-1, Caribbean
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/carib.m3u
+
+#EXTINF:-1, Central Asia
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/cas.m3u
+
+#EXTINF:-1, Commonwealth of Independent States
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/cis.m3u
+
+#EXTINF:-1, Europe
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/eur.m3u
+
+#EXTINF:-1, Europe, the Middle East and Africa
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/emea.m3u
+
+#EXTINF:-1, Hispanic America
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/hispam.m3u
+
+#EXTINF:-1, Latin America
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/latam.m3u
+
+#EXTINF:-1, Latin America and the Caribbean
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/lac.m3u
+
+#EXTINF:-1, Maghreb
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/maghreb.m3u
+
+#EXTINF:-1, Middle East
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/mideast.m3u
+
+#EXTINF:-1, Middle East and North Africa
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/mena.m3u
+
+#EXTINF:-1, Nordics
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/nord.m3u
+
+#EXTINF:-1, North America
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/noram.m3u
+
+#EXTINF:-1, Northern America
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/nam.m3u
+
+#EXTINF:-1, Oceania
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/oce.m3u
+
+#EXTINF:-1, South Asia
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/sas.m3u
+
+#EXTINF:-1, Sub-Saharan Africa
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/ssa.m3u
+
+#EXTINF:-1, Undefined
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/undefined.m3u
+
+#EXTINF:-1, West Africa
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/wafr.m3u
+
+#EXTINF:-1, Worldwide
+#EXTGRP: Region
+https://iptv-org.github.io/iptv/regions/int.m3u
 
 
 
 
 #EXTINF:-1, 
-#EXTGRP: Category
-
-#EXTINF:-1, 
-#EXTGRP: Category
+#EXTGRP: Region
