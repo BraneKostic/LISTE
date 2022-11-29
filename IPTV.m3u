@@ -15,7 +15,7 @@ http://92.246.85.119:8000/playlist.m3u
 #EXTINF:-1, 82.197.214.59 [ENGLISH]
 http://82.197.214.59:4000/playlist.m3u
 
-#EXTINF:-1, 62.131.92.221
+#EXTINF:-1, 62.131.92.221 [ENGLISH]
 http://62.131.92.221:60030/playlist.m3u
 
 #EXTINF:-1, 62.131.92.221 [ENGLISH]
@@ -24,101 +24,44 @@ http://62.131.92.221:60130/playlist.m3u
 #EXTINF:-1, 62.131.92.221 [ENGLISH]
 http://62.131.92.221:60150/playlist.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, 62.131.92.221 [ENGLISH]
 http://62.131.92.221:60230/playlist.m3u
 
-#EXTINF:-1, 
-http://62.131.92.221:60250/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 62.131.92.221 [ENGLISH]
 http://62.131.92.221:60330/playlist.m3u
 
-#EXTINF:-1, 
-http://62.131.92.221:60350/playlist.m3u
-
-#EXTINF:-1, 
-http://62.131.92.221:60450/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 62.131.92.221 [ARABIA]
 http://62.131.92.221:60530/playlist.m3u
 
-#EXTINF:-1, 
-http://62.131.92.221:60550/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 62.131.92.221 [INDIA]
 http://62.131.92.221:60630/playlist.m3u
 
-#EXTINF:-1, 
-http://62.131.92.221:60650/playlist.m3u
-
-#EXTINF:-1, 
-http://86.89.104.199:60030/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 86.89.104.199 [ENGLISH]
 http://86.89.104.199:60130/playlist.m3u
 
-#EXTINF:-1, 
-http://86.89.104.199:60150/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 86.89.104.199 [ENGLISH]
 http://86.89.104.199:60230/playlist.m3u
 
-#EXTINF:-1, 
-http://86.89.104.199:60250/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 86.89.104.199 [ENGLISH]
 http://86.89.104.199:60330/playlist.m3u
 
-#EXTINF:-1, 
-http://86.89.104.199:60350/playlist.m3u
-
-#EXTINF:-1, 
-http://86.89.104.199:60450/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 86.89.104.199 [INDIA]
 http://86.89.104.199:60530/playlist.m3u
 
-#EXTINF:-1, 
-http://86.89.104.199:60550/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 86.89.104.199 [INDIA]
 http://86.89.104.199:60630/playlist.m3u
 
-#EXTINF:-1, 
-http://86.89.104.199:60650/playlist.m3u
-
-#EXTINF:-1, 
-http://87.212.248.44:60030/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 87.212.248.44 [ENGLISH]
 http://87.212.248.44:60130/playlist.m3u
 
-#EXTINF:-1, 
-http://87.212.248.44:60150/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 87.212.248.44 [ENGLISH]
 http://87.212.248.44:60230/playlist.m3u
 
-#EXTINF:-1, 
-http://87.212.248.44:60250/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 87.212.248.44 [ENGLISH]
 http://87.212.248.44:60330/playlist.m3u
 
-#EXTINF:-1, 
-http://87.212.248.44:60350/playlist.m3u
-
-#EXTINF:-1, 
-http://87.212.248.44:60450/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 87.212.248.44 [INDIA]
 http://87.212.248.44:60530/playlist.m3u
 
-#EXTINF:-1, 
-http://87.212.248.44:60550/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 87.212.248.44 [INDIA,TURKEY]
 http://87.212.248.44:60630/playlist.m3u
-
-#EXTINF:-1, 
-http://87.212.248.44:60650/playlist.m3u
