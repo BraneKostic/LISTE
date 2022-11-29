@@ -1,5 +1,125 @@
 #EXTM3U
 
+#EXTINF:-1, Animation
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/animation.m3u
+
+#EXTINF:-1, Auto
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/auto.m3u
+
+#EXTINF:-1, Business
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/business.m3u
+
+#EXTINF:-1, Classic
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/classic.m3u
+
+#EXTINF:-1, Comedy
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/comedy.m3u
+
+#EXTINF:-1, Cooking
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/cooking.m3u
+
+#EXTINF:-1, Culture
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/culture.m3u
+
+#EXTINF:-1, Documentary
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/documentary.m3u
+
+#EXTINF:-1, Education
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/education.m3u
+
+#EXTINF:-1, Entertainment
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/entertainment.m3u
+
+#EXTINF:-1, Family
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/family.m3u
+
+#EXTINF:-1, General
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/general.m3u
+
+#EXTINF:-1, Kids
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/kids.m3u
+
+#EXTINF:-1, Legislative
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/legislative.m3u
+
+#EXTINF:-1, Lifestyle
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/lifestyle.m3u
+
+#EXTINF:-1, Local
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/local.m3u
+
+#EXTINF:-1, Movies
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF:-1, Music
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/music.m3u
+
+#EXTINF:-1, News
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/news.m3u
+
+#EXTINF:-1, Other
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/other.m3u
+
+#EXTINF:-1, Outdoor
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/outdoor.m3u
+
+#EXTINF:-1, Relax
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/relax.m3u
+
+#EXTINF:-1, Religious
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/religious.m3u
+
+#EXTINF:-1, Science
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/science.m3u
+
+#EXTINF:-1, Series
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/series.m3u
+
+#EXTINF:-1, Shop
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/shop.m3u
+
+#EXTINF:-1, Sports
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1, Travel
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/travel.m3u
+
+#EXTINF:-1, Weather
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/weather.m3u
+
+#EXTINF:-1, XXX
+#EXTGRP: Category
+https://iptv-org.github.io/iptv/categories/xxx.m3u
+
 #EXTINF:-1, Andorra
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ad.m3u
@@ -987,3 +1107,14 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/za.m3u
 #EXTINF:-1, 
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/zm.m3u
+
+
+
+
+
+
+#EXTINF:-1, 
+#EXTGRP: Category
+
+#EXTINF:-1, 
+#EXTGRP: Category
