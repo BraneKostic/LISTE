@@ -1,57 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1, 185.44.211.20
+#EXTINF:-1, 185.44.211.20 [AUSTRIA]
 http://185.44.211.20:18071/playlist.m3u
 
-#EXTINF:-1, 149.62.183.198
+#EXTINF:-1, 149.62.183.198 [ARABIA]
 http://149.62.183.198:8001/playlist.m3u
 
-#EXTINF:-1, 163.172.87.151
+#EXTINF:-1, 163.172.87.151 [ALBANIA]
 http://163.172.87.151:8000/playlist.m3u
 
-#EXTINF:-1, 92.246.85.119
+#EXTINF:-1, 92.246.85.119 [ARABIA]
 http://92.246.85.119:8000/playlist.m3u
 
-
-
-
-#EXTINF:-1, 
-http://5.39.189.101:7000/playlist.m3u
-
-#EXTINF:-1, 
-http://5.39.189.102:7000/playlist.m3u
-
-#EXTINF:-1, 
-http://5.39.189.107:7000/playlist.m3u
-
-#EXTINF:-1, 
-http://5.39.189.109:7000/playlist.m3u
-
-#EXTINF:-1, 
-http://5.39.189.110:7000/playlist.m3u
-
-#EXTINF:-1, 
-http://5.39.189.112:7000/playlist.m3u
-
-#EXTINF:-1, 
-http://5.39.189.114:7000/playlist.m3u
-
-#EXTINF:-1, 
-http://5.39.189.116:7000/playlist.m3u
-
-#EXTINF:-1, 
-http://5.39.189.99:7000/playlist.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, 82.197.214.59 [ENGLISH]
 http://82.197.214.59:4000/playlist.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, 62.131.92.221
 http://62.131.92.221:60030/playlist.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, 62.131.92.221 [ENGLISH]
 http://62.131.92.221:60130/playlist.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, 62.131.92.221 [ENGLISH]
 http://62.131.92.221:60150/playlist.m3u
 
 #EXTINF:-1, 
