@@ -1,1069 +1,714 @@
 #EXTM3U
-
-#EXTINF:-1, 8 TV
+#EXTINF:0 tvg-id="8-kanal" group-title="Channels",8 TV
 http://91.148.117.242:44787/udp/232.233.237.95:4000
-
-#EXTINF:-1, A TV
+#EXTINF:0 tvg-id="ATV.tr" group-title="Channels",A TV
 http://91.148.117.242:44787/udp/232.233.234.134:12000
-
-#EXTINF:-1, Agro TV
+#EXTINF:0 tvg-id="agro-tv" group-title="Channels",Agro TV
 http://91.148.117.242:44787/udp/232.233.234.26:12000
-
-#EXTINF:-1, Al Jazeera Balkans
+#EXTINF:0 tvg-id="AlJazeeraBalkans.rs" group-title="Channels",Al Jazeera Balkans
 http://91.148.117.242:44787/udp/232.233.234.13:12000
-
-#EXTINF:-1, Al Jazeera Balkans
+#EXTINF:0 tvg-id="AlJazeeraBalkans.rs" group-title="Channels",Al Jazeera Balkans
 http://91.148.117.242:44787/udp/232.233.237.103:4000
-
-#EXTINF:-1, Al Jazeera Balkans
+#EXTINF:0 tvg-id="AlJazeeraBalkans.rs" group-title="Channels",Al Jazeera Balkans
 http://91.148.117.242:44787/udp/232.233.237.208:4000
-
-#EXTINF:-1, AMC Balkan
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC Balkan
 http://91.148.117.242:44787/udp/232.233.234.52:12000
-
-#EXTINF:-1, AMC Balkan
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC Balkan
 http://91.148.117.242:44787/udp/232.233.237.32:4000
-
-#EXTINF:-1, Arena Sport 1
+#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="Channels",Arena Sport 1
 http://91.148.117.242:44787/udp/232.233.234.45:12000
-
-#EXTINF:-1, Arena Sport 1
+#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="Channels",Arena Sport 1
 http://91.148.117.242:44787/udp/232.233.234.246:12000
-
-#EXTINF:-1, Arena Sport 1 Premium
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 1 Premium
 http://91.148.117.242:44787/udp/232.233.234.251:12000
-
-#EXTINF:-1, Arena Sport 1x2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 1x2
 http://91.148.117.242:44787/udp/232.233.234.122:12000
-
-#EXTINF:-1, Arena Sport 2
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="Channels",Arena Sport 2
 http://91.148.117.242:44787/udp/232.233.234.247:12000
-
-#EXTINF:-1, Arena Sport 2 Premium
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 2 Premium
 http://91.148.117.242:44787/udp/232.233.234.252:12000
-
-#EXTINF:-1, Arena Sport 3
+#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="Channels",Arena Sport 3
 http://91.148.117.242:44787/udp/232.233.234.248:12000
-
-#EXTINF:-1, Arena Sport 3 Premium
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 3 Premium
 http://91.148.117.242:44787/udp/232.233.234.253:12000
-
-#EXTINF:-1, Arena Sport 4
+#EXTINF:0 tvg-id="ArenaSport4.rs" group-title="Channels",Arena Sport 4
 http://91.148.117.242:44787/udp/232.233.234.249:12000
-
-#EXTINF:-1, Arena Sport 5
+#EXTINF:0 tvg-id="ArenaSport5.rs" group-title="Channels",Arena Sport 5
 http://91.148.117.242:44787/udp/232.233.234.49:12000
-
-#EXTINF:-1, Arena Sport 5
+#EXTINF:0 tvg-id="ArenaSport5.rs" group-title="Channels",Arena Sport 5
 http://91.148.117.242:44787/udp/232.233.234.250:12000
-
-#EXTINF:-1, Arena Sport 6
+#EXTINF:0 tvg-id="ArenaSport6.hr" group-title="Channels",Arena Sport 6
 http://91.148.117.242:44787/udp/232.233.234.239:12000
-
-#EXTINF:-1, Arena Sport 7
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 7
 http://91.148.117.242:44787/udp/232.233.234.244:12000
-
-#EXTINF:-1, Arena Sport 8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 8
 http://91.148.117.242:44787/udp/232.233.234.238:12000
-
-#EXTINF:-1, Arena Esport E
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Esport E
 http://91.148.117.242:44787/udp/232.233.234.50:12000
-
-#EXTINF:-1, Arena Fight
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Fight
 http://91.148.117.242:44787/udp/232.233.234.121:12000
-
-#EXTINF:-1, Arte HD
+#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",Arte HD
 http://91.148.117.242:44787/udp/232.233.234.39:12000
-
-#EXTINF:-1, Arte HD
+#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",Arte HD
 http://91.148.117.242:44787/udp/232.233.237.51:4000
-
-#EXTINF:-1, Arte HD
+#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",Arte HD
 http://91.148.117.242:44787/udp/232.233.237.94:4000
-
-#EXTINF:-1, AXN
+#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
 http://91.148.117.242:44787/udp/232.233.234.42:12000
-
-#EXTINF:-1, AXN Spin
+#EXTINF:0 tvg-id="axn" group-title="Channels",AXN Spin
 http://91.148.117.242:44787/udp/232.233.234.43:12000
-
-#EXTINF:-1, AXN Spin
+#EXTINF:0 tvg-id="axn" group-title="Channels",AXN Spin
 http://91.148.117.242:44787/udp/232.233.237.33:4000
-
-#EXTINF:-1, B92
+#EXTINF:0 tvg-id="B92.rs" group-title="Channels",B92
 http://91.148.117.242:44787/udp/232.233.234.9:12000
-
-#EXTINF:-1, B92
+#EXTINF:0 tvg-id="B92.rs" group-title="Channels",B92
 http://91.148.117.242:44787/udp/232.233.237.6:4000
-
-#EXTINF:-1, Baby TV
+#EXTINF:0 tvg-id="baby-tv" group-title="Channels",Baby TV
 http://91.148.117.242:44787/udp/232.233.234.115:12000
-
-#EXTINF:-1, Baby TV
+#EXTINF:0 tvg-id="baby-tv" group-title="Channels",Baby TV
 http://91.148.117.242:44787/udp/232.233.237.41:4000
-
-#EXTINF:-1, Balkan Trip
+#EXTINF:0 tvg-id="ext" group-title="Channels",Balkan Trip
 http://91.148.117.242:44787/udp/232.233.234.51:12000
-
-#EXTINF:-1, Balkan TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Balkan TV
 http://91.148.117.242:44787/udp/232.233.234.119:12000
-
-#EXTINF:-1, BBC World News
+#EXTINF:0 tvg-id="bbc-world" group-title="Channels",BBC World News
 http://91.148.117.242:44787/udp/232.233.234.6:12000
-
-#EXTINF:-1, Belle Amie
+#EXTINF:0 tvg-id="ext" group-title="Channels",Belle Amie
 http://91.148.117.242:44787/udp/232.233.234.208:12000
-
-#EXTINF:-1, Bloomberg Adria
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bloomberg Adria
 http://91.148.117.242:44787/udp/232.233.234.149:12000
-
-#EXTINF:-1, BN
+#EXTINF:0 tvg-id="BNTV.svn" group-title="Channels",BN
 http://91.148.117.242:44787/udp/232.233.234.67:12000
-
-#EXTINF:-1, BN  2
+#EXTINF:0 tvg-id="ext" group-title="Channels",BN  2
 http://91.148.117.242:44787/udp/232.233.234.64:12000
-
-#EXTINF:-1, BN Music
+#EXTINF:0 tvg-id="BNMusic.ba" group-title="Channels",BN Music
 http://91.148.117.242:44787/udp/232.233.234.69:12000
-
-#EXTINF:-1, BN Music
+#EXTINF:0 tvg-id="BNMusic.ba" group-title="Channels",BN Music
 http://91.148.117.242:44787/udp/232.233.237.245:4000
-
-#EXTINF:-1, Bravo Music
+#EXTINF:0 tvg-id="PinkMusic3.rs" group-title="Channels",Bravo Music
 http://91.148.117.242:44787/udp/232.171.194.43:4000
-
-#EXTINF:-1, CGTN
+#EXTINF:0 tvg-id="CGTN.cn" group-title="Channels",CGTN
 http://91.148.117.242:44787/udp/232.233.234.37:12000
-
-#EXTINF:-1, CGTN
+#EXTINF:0 tvg-id="CGTN.cn" group-title="Channels",CGTN
 http://91.148.117.242:44787/udp/232.233.237.44:4000
-
-#EXTINF:-1, CineStar TV 1
+#EXTINF:0 tvg-id="CineStarTV.hr" group-title="Channels",CineStar TV 1
 http://91.148.117.242:44787/udp/232.233.234.54:12000
-
-#EXTINF:-1, CineStar TV 1
+#EXTINF:0 tvg-id="CineStarTV.hr" group-title="Channels",CineStar TV 1
 http://91.148.117.242:44787/udp/232.233.237.61:4000
-
-#EXTINF:-1, CineStar TV 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",CineStar TV 2
 http://91.148.117.242:44787/udp/232.233.234.72:12000
-
-#EXTINF:-1, CineStar TV 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",CineStar TV 2
 http://91.148.117.242:44787/udp/232.233.237.86:4000
-
-#EXTINF:-1, CineStar TV Action
+#EXTINF:0 tvg-id="CinestarAction.hr" group-title="Channels",CineStar TV Action
 http://91.148.117.242:44787/udp/232.233.234.55:12000
-
-#EXTINF:-1, CineStar TV Action
+#EXTINF:0 tvg-id="CinestarAction.hr" group-title="Channels",CineStar TV Action
 http://91.148.117.242:44787/udp/232.233.237.62:4000
-
-#EXTINF:-1, CineStar TV Comedy
+#EXTINF:0 tvg-id="ext" group-title="Channels",CineStar TV Comedy
 http://91.148.117.242:44787/udp/232.233.234.58:12000
-
-#EXTINF:-1, CineStar TV Comedy
+#EXTINF:0 tvg-id="ext" group-title="Channels",CineStar TV Comedy
 http://91.148.117.242:44787/udp/232.233.234.220:12000
-
-#EXTINF:-1, CineStar TV Comedy
+#EXTINF:0 tvg-id="ext" group-title="Channels",CineStar TV Comedy
 http://91.148.117.242:44787/udp/232.233.237.88:4000
-
-#EXTINF:-1, CineStar TV Fantasy
+#EXTINF:0 tvg-id="CinestarFantasy.hr" group-title="Channels",CineStar TV Fantasy
 http://91.148.117.242:44787/udp/232.233.234.73:12000
-
-#EXTINF:-1, CineStar TV Fantasy
+#EXTINF:0 tvg-id="CinestarFantasy.hr" group-title="Channels",CineStar TV Fantasy
 http://91.148.117.242:44787/udp/232.233.237.87:4000
-
-#EXTINF:-1, CNBC
+#EXTINF:0 tvg-id="cnbc" group-title="Channels",CNBC
 http://91.148.117.242:44787/udp/232.233.234.116:12000
-
-#EXTINF:-1, CNBC
+#EXTINF:0 tvg-id="cnbc" group-title="Channels",CNBC
 http://91.148.117.242:44787/udp/232.233.237.93:4000
-
-#EXTINF:-1, CNN
+#EXTINF:0 tvg-id="cnn" group-title="Channels",CNN
 http://91.148.117.242:44787/udp/232.233.237.184:4000
-
-#EXTINF:-1, Crime & Investigation
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Channels",Crime & Investigation
 http://91.148.117.242:44787/udp/232.233.234.76:12000
-
-#EXTINF:-1, Da Vinci Kids
+#EXTINF:0 tvg-id="DaVinciKids.eu" group-title="Channels",Da Vinci Kids
 http://91.148.117.242:44787/udp/232.233.234.41:12000
-
-#EXTINF:-1, Da Vinci Learning
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="Channels",Da Vinci Learning
 http://91.148.117.242:44787/udp/232.233.237.89:4000
-
-#EXTINF:-1, Delta
+#EXTINF:0 tvg-id="ext" group-title="Channels",Delta
 http://91.148.117.242:44787/udp/232.233.237.11:4000
-
-#EXTINF:-1, Deluxe Music
+#EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="Channels",Deluxe Music
 http://91.148.117.242:44787/udp/232.233.234.21:12000
-
-#EXTINF:-1, Deluxe Music
+#EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="Channels",Deluxe Music
 http://91.148.117.242:44787/udp/232.233.237.34:4000
-
-#EXTINF:-1, Diva
+#EXTINF:0 tvg-id="Diva.svn" group-title="Channels",Diva
 http://91.148.117.242:44787/udp/232.233.234.117:12000
-
-#EXTINF:-1, Diva
+#EXTINF:0 tvg-id="Diva.svn" group-title="Channels",Diva
 http://91.148.117.242:44787/udp/232.233.234.221:12000
-
-#EXTINF:-1, Diva
+#EXTINF:0 tvg-id="Diva.svn" group-title="Channels",Diva
 http://91.148.117.242:44787/udp/232.233.237.92:4000
-
-#EXTINF:-1, DM Sat
+#EXTINF:0 tvg-id="DMSat.bg" group-title="Channels",DM Sat
 http://91.148.117.242:44787/udp/232.233.237.74:4000
-
-#EXTINF:-1, Dorcel TV
+#EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",Dorcel TV
 http://91.148.117.242:44787/udp/232.233.234.142:12000
-
-#EXTINF:-1, Dorcel TV
+#EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",Dorcel TV
 http://91.148.117.242:44787/udp/232.233.237.83:4000
-
-#EXTINF:-1, Dorcel XXX
+#EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",Dorcel XXX
 http://91.148.117.242:44787/udp/232.233.234.143:12000
-
-#EXTINF:-1, Dorcel XXX
+#EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",Dorcel XXX
 http://91.148.117.242:44787/udp/232.233.237.84:4000
-
-#EXTINF:-1, Dox TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dox TV
 http://91.148.117.242:44787/udp/232.233.234.66:12000
-
-#EXTINF:-1, Duna TV
+#EXTINF:0 tvg-id="DunaTV.il" group-title="Channels",Duna TV
 http://91.148.117.242:44787/udp/232.233.234.62:12000
-
-#EXTINF:-1, Duna TV
+#EXTINF:0 tvg-id="DunaTV.il" group-title="Channels",Duna TV
 http://91.148.117.242:44787/udp/232.233.237.25:4000
-
-#EXTINF:-1, Duna World
+#EXTINF:0 tvg-id="Duna2.hu" group-title="Channels",Duna World
 http://91.148.117.242:44787/udp/232.233.234.63:12000
-
-#EXTINF:-1, Duna World
+#EXTINF:0 tvg-id="Duna2.hu" group-title="Channels",Duna World
 http://91.148.117.242:44787/udp/232.233.237.26:4000
-
-#EXTINF:-1, E!
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",E!
 http://91.148.117.242:44787/udp/232.233.234.114:12000
-
-#EXTINF:-1, E!
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",E!
 http://91.148.117.242:44787/udp/232.233.237.91:4000
-
-#EXTINF:-1, Epic Drama
+#EXTINF:0 tvg-id="epic-drama" group-title="Channels",Epic Drama
 http://91.148.117.242:44787/udp/232.233.234.97:12000
-
-#EXTINF:-1, Epic Drama
+#EXTINF:0 tvg-id="epic-drama" group-title="Channels",Epic Drama
 http://91.148.117.242:44787/udp/232.233.237.81:4000
-
-#EXTINF:-1, Erotic
+#EXTINF:0 tvg-id="ext" group-title="Channels",Erotic
 http://91.148.117.242:44787/udp/232.171.194.36:4000
-
-#EXTINF:-1, Erotic 2
+#EXTINF:0 tvg-id="PinkErotic2.rs" group-title="Channels",Erotic 2
 http://91.148.117.242:44787/udp/232.171.194.37:4000
-
-#EXTINF:-1, Erotic 3
+#EXTINF:0 tvg-id="PinkErotic3.rs" group-title="Channels",Erotic 3
 http://91.148.117.242:44787/udp/232.171.194.38:4000
-
-#EXTINF:-1, Erotic 4
+#EXTINF:0 tvg-id="PinkErotic4.rs" group-title="Channels",Erotic 4
 http://91.148.117.242:44787/udp/232.171.194.39:4000
-
-#EXTINF:-1, Erotic 5
+#EXTINF:0 tvg-id="ext" group-title="Channels",Erotic 5
 http://91.148.117.242:44787/udp/232.171.194.44:4000
-
-#EXTINF:-1, Erotic 6
+#EXTINF:0 tvg-id="ext" group-title="Channels",Erotic 6
 http://91.148.117.242:44787/udp/232.171.194.45:4000
-
-#EXTINF:-1, Erotic 7
+#EXTINF:0 tvg-id="ext" group-title="Channels",Erotic 7
 http://91.148.117.242:44787/udp/232.171.194.46:4000
-
-#EXTINF:-1, Erotic 8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Erotic 8
 http://91.148.117.242:44787/udp/232.171.194.47:4000
-
-#EXTINF:-1, EuroNews Serbia
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroNews Serbia
 http://91.148.117.242:44787/udp/232.233.234.7:12000
-
-#EXTINF:-1, EuroNews Serbia
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroNews Serbia
 http://91.148.117.242:44787/udp/232.233.234.148:12000
-
-#EXTINF:-1, EuroNews Serbia
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroNews Serbia
 http://91.148.117.242:44787/udp/232.233.237.49:4000
-
-#EXTINF:-1, Eurosport 1
+#EXTINF:0 tvg-id="esp" group-title="Channels",Eurosport 1
 http://91.148.117.242:44787/udp/232.233.237.78:4000
-
-#EXTINF:-1, Eurosport 2
+#EXTINF:0 tvg-id="esp2" group-title="Channels",Eurosport 2
 http://91.148.117.242:44787/udp/232.233.237.79:4000
-
-#EXTINF:-1, Fashion TV
+#EXTINF:0 tvg-id="fashion" group-title="Channels",Fashion TV
 http://91.148.117.242:44787/udp/232.233.234.40:12000
-
-#EXTINF:-1, Fashion TV
+#EXTINF:0 tvg-id="fashion" group-title="Channels",Fashion TV
 http://91.148.117.242:44787/udp/232.233.237.40:4000
-
-#EXTINF:-1, Fashion TV
+#EXTINF:0 tvg-id="fashion" group-title="Channels",Fashion TV
 http://91.148.117.242:44787/udp/232.233.237.106:4000
-
-#EXTINF:-1, Fight Network
+#EXTINF:0 tvg-id="Fightnetwork.gr" group-title="Channels",Fight Network
 http://91.148.117.242:44787/udp/232.171.194.15:4000
-
-#EXTINF:-1, Fight Network
+#EXTINF:0 tvg-id="Fightnetwork.gr" group-title="Channels",Fight Network
 http://91.148.117.242:44787/udp/232.233.234.11:12000
-
-#EXTINF:-1, Fight Network
+#EXTINF:0 tvg-id="Fightnetwork.gr" group-title="Channels",Fight Network
 http://91.148.117.242:44787/udp/232.171.194.64:4000
-
-#EXTINF:-1, Film Klub
+#EXTINF:0 tvg-id="FilmKlub.rs" group-title="Channels",Film Klub
 http://91.148.117.242:44787/udp/232.233.234.59:12000
-
-#EXTINF:-1, FOX
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX
 http://91.148.117.242:44787/udp/232.233.234.87:12000
-
-#EXTINF:-1, FOX Crime
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX Crime
 http://91.148.117.242:44787/udp/232.233.234.86:12000
-
-#EXTINF:-1, FOX Crime
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX Crime
 http://91.148.117.242:44787/udp/232.233.234.84:12000
-
-#EXTINF:-1, FOX Crime
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX Crime
 http://91.148.117.242:44787/udp/232.233.234.84:12000
-
-#EXTINF:-1, FOX Life
+#EXTINF:0 tvg-id="fox-life" group-title="Channels",FOX Life
 http://91.148.117.242:44787/udp/232.233.234.83:12000
-
-#EXTINF:-1, FOX Movies
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX Movies
 http://91.148.117.242:44787/udp/232.233.234.88:12000
-
-#EXTINF:-1, Ha Ha
+#EXTINF:0 tvg-id="Haha.rs" group-title="Channels",Ha Ha
 http://91.148.117.242:44787/udp/232.171.194.53:4000
-
-#EXTINF:-1, Happy
+#EXTINF:0 tvg-id="happytv.sr" group-title="Channels",Happy
 http://91.148.117.242:44787/udp/232.233.237.7:4000
-
-#EXTINF:-1, Hayat
+#EXTINF:0 tvg-id="HayatTV.svn" group-title="Channels",Hayat
 http://91.148.117.242:44787/udp/232.233.234.138:12000
-
-#EXTINF:-1, Hayat
+#EXTINF:0 tvg-id="HayatTV.svn" group-title="Channels",Hayat
 http://91.148.117.242:44787/udp/232.233.234.140:12000
-
-#EXTINF:-1, Hayat Folk
+#EXTINF:0 tvg-id="HayatFolk.hr" group-title="Channels",Hayat Folk
 http://91.148.117.242:44787/udp/232.233.234.137:12000
-
-#EXTINF:-1, Hayat Music
+#EXTINF:0 tvg-id="HayatMusic.ba" group-title="Channels",Hayat Music
 http://91.148.117.242:44787/udp/232.233.234.139:12000
-
-#EXTINF:-1, Hayatovci
+#EXTINF:0 tvg-id="Hayatovci.hr" group-title="Channels",Hayatovci
 http://91.148.117.242:44787/udp/232.233.234.141:12000
-
-#EXTINF:-1, History
+#EXTINF:0 tvg-id="history-rus" group-title="Channels",History
 http://91.148.117.242:44787/udp/232.233.234.75:12000
-
-#EXTINF:-1, History
+#EXTINF:0 tvg-id="history-rus" group-title="Channels",History
 http://91.148.117.242:44787/udp/232.233.237.65:4000
-
-#EXTINF:-1, History 2
+#EXTINF:0 tvg-id="history2-rus" group-title="Channels",History 2
 http://91.148.117.242:44787/udp/232.233.234.57:12000
-
-#EXTINF:-1, History 2
+#EXTINF:0 tvg-id="history2-rus" group-title="Channels",History 2
 http://91.148.117.242:44787/udp/232.233.237.38:4000
-
-#EXTINF:-1, History 2
+#EXTINF:0 tvg-id="history2-rus" group-title="Channels",History 2
 http://91.148.117.242:44787/udp/232.233.237.73:4000
-
-#EXTINF:-1, HRT 2
+#EXTINF:0 tvg-id="HRTTV2.hr" group-title="Channels",HRT 2
 http://91.148.117.242:44787/udp/232.233.234.17:12000
-
-#EXTINF:-1, Insajder
+#EXTINF:0 tvg-id="ext" group-title="Channels",Insajder
 http://91.148.117.242:44787/udp/232.233.234.46:12000
-
-#EXTINF:-1, Insta TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Insta TV
 http://91.148.117.242:44787/udp/232.233.234.15:12000
-
-#EXTINF:-1, Insta TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Insta TV
 http://91.148.117.242:44787/udp/232.171.194.107:4000
-
-#EXTINF:-1, Insta TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Insta TV
 http://91.148.117.242:44787/udp/232.171.194.193:4000
-
-#EXTINF:-1, Insta TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Insta TV
 http://91.148.117.242:44787/udp/232.171.194.135:4000
-
-#EXTINF:-1, K3
+#EXTINF:0 tvg-id="K3.ba" group-title="Channels",K3
 http://91.148.117.242:44787/udp/232.233.234.136:12000
-
-#EXTINF:-1, Klasik
+#EXTINF:0 tvg-id="ext" group-title="Channels",Klasik
 http://91.148.117.242:44787/udp/232.233.234.68:12000
-
-#EXTINF:-1, Kurir TV
+#EXTINF:0 tvg-id="KurirTV.ba" group-title="Channels",Kurir TV
 http://91.148.117.242:44787/udp/232.233.234.10:12000
-
-#EXTINF:-1, Kuvo TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kuvo TV
 http://91.148.117.242:44787/udp/232.233.234.125:12000
-
-#EXTINF:-1, LFC TV
+#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="Channels",LFC TV
 http://91.148.117.242:44787/udp/232.233.234.124:12000
-
-#EXTINF:-1, LH (Life And Holiday) TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",LH (Life And Holiday) TV
 http://91.148.117.242:44787/udp/232.233.237.185:4000
-
-#EXTINF:-1, LH (Life And Holiday) TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",LH (Life And Holiday) TV
 http://91.148.117.242:44787/udp/232.233.234.53:12000
-
-#EXTINF:-1, LOL
+#EXTINF:0 tvg-id="ext" group-title="Channels",LOL
 http://91.148.117.242:44787/udp/232.171.194.54:4000
-
-#EXTINF:-1, M1
+#EXTINF:0 tvg-id="m-1" group-title="Channels",M1
 http://91.148.117.242:44787/udp/232.233.234.60:12000
-
-#EXTINF:-1, M1
+#EXTINF:0 tvg-id="m-1" group-title="Channels",M1
 http://91.148.117.242:44787/udp/232.233.237.23:4000
-
-#EXTINF:-1, M2
+#EXTINF:0 tvg-id="m-2" group-title="Channels",M2
 http://91.148.117.242:44787/udp/232.233.234.61:12000
-
-#EXTINF:-1, M2
+#EXTINF:0 tvg-id="m-2" group-title="Channels",M2
 http://91.148.117.242:44787/udp/232.233.237.24:4000
-
-#EXTINF:-1, Minimax
+#EXTINF:0 tvg-id="Minimax.rs" group-title="Channels",Minimax
 http://91.148.117.242:44787/udp/232.233.234.44:12000
-
-#EXTINF:-1, Minimax
+#EXTINF:0 tvg-id="Minimax.rs" group-title="Channels",Minimax
 http://91.148.117.242:44787/udp/232.233.237.22:4000
-
-#EXTINF:-1, Most
+#EXTINF:0 tvg-id="ext" group-title="Channels",Most
 http://91.148.117.242:44787/udp/232.233.237.13:4000
-
-#EXTINF:-1, MTV 00s
+#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",MTV 00s
 http://91.148.117.242:44787/udp/232.233.234.31:12000
-
-#EXTINF:-1, MTV 00s
+#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",MTV 00s
 http://91.148.117.242:44787/udp/232.233.237.20:4000
-
-#EXTINF:-1, MTV Europe
+#EXTINF:0 tvg-id="mtv-eu" group-title="Channels",MTV Europe
 http://91.148.117.242:44787/udp/232.233.234.29:12000
-
-#EXTINF:-1, MTV Europe
+#EXTINF:0 tvg-id="mtv-eu" group-title="Channels",MTV Europe
 http://91.148.117.242:44787/udp/232.233.237.18:4000
-
-#EXTINF:-1, National Geographic Channel
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",National Geographic Channel
 http://91.148.117.242:44787/udp/232.233.234.85:12000
-
-#EXTINF:-1, National Geographic Wild
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",National Geographic Wild
 http://91.148.117.242:44787/udp/232.233.234.95:12000
-
-#EXTINF:-1, National Geographic Wild
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",National Geographic Wild
 http://91.148.117.242:44787/udp/232.233.237.45:4000
-
-#EXTINF:-1, NBA TV
+#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA TV
 http://91.148.117.242:44787/udp/232.233.234.123:12000
-
-#EXTINF:-1, Nick Jr.
+#EXTINF:0 tvg-id="nick-jr" group-title="Channels",Nick Jr.
 http://91.148.117.242:44787/udp/232.233.234.32:12000
-
-#EXTINF:-1, Nick Jr.
+#EXTINF:0 tvg-id="nick-jr" group-title="Channels",Nick Jr.
 http://91.148.117.242:44787/udp/232.233.237.55:4000
-
-#EXTINF:-1, Nickelodeon
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",Nickelodeon
 http://91.148.117.242:44787/udp/232.233.237.150:4000
-
-#EXTINF:-1, Nickelodeon
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",Nickelodeon
 http://91.148.117.242:44787/udp/232.233.234.33:12000
-
-#EXTINF:-1, Nova Max
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nova Max
 http://91.148.117.242:44787/udp/232.171.194.83:4000
-
-#EXTINF:-1, Nova Max
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nova Max
 http://91.148.117.242:44787/udp/232.171.194.83:4000
-
-#EXTINF:-1, Novi Pazar
+#EXTINF:0 tvg-id="NoviPazar.rs" group-title="Channels",Novi Pazar
 http://91.148.117.242:44787/udp/232.233.234.212:12000
-
-#EXTINF:-1, Novosadska
+#EXTINF:0 tvg-id="ext" group-title="Channels",Novosadska
 http://91.148.117.242:44787/udp/232.233.237.28:4000
-
-#EXTINF:-1, NTV
+#EXTINF:0 tvg-id="ntv" group-title="Channels",NTV
 http://91.148.117.242:44787/udp/232.233.234.209:12000
-
-#EXTINF:-1, OBN
+#EXTINF:0 tvg-id="OBN.svn" group-title="Channels",OBN
 http://91.148.117.242:44787/udp/232.233.234.135:12000
-
-#EXTINF:-1, Pink
+#EXTINF:0 tvg-id="TVPINK.rs" group-title="Channels",Pink
 http://91.148.117.242:44787/udp/232.171.194.22:4000
-
-#EXTINF:-1, Pink
+#EXTINF:0 tvg-id="TVPINK.rs" group-title="Channels",Pink
 http://91.148.117.242:44787/udp/232.233.234.14:12000
-
-#EXTINF:-1, Pink
+#EXTINF:0 tvg-id="TVPINK.rs" group-title="Channels",Pink
 http://91.148.117.242:44787/udp/232.171.194.72:4000
-
-#EXTINF:-1, Pink
+#EXTINF:0 tvg-id="TVPINK.rs" group-title="Channels",Pink
 http://91.148.117.242:44787/udp/232.171.194.81:4000
-
-#EXTINF:-1, Pink
+#EXTINF:0 tvg-id="TVPINK.rs" group-title="Channels",Pink
 http://91.148.117.242:44787/udp/232.171.194.82:4000
-
-#EXTINF:-1, Pink
+#EXTINF:0 tvg-id="TVPINK.rs" group-title="Channels",Pink
 http://91.148.117.242:44787/udp/232.171.194.100:4000
-
-#EXTINF:-1, Pink
+#EXTINF:0 tvg-id="TVPINK.rs" group-title="Channels",Pink
 http://91.148.117.242:44787/udp/232.171.194.101:4000
-
-#EXTINF:-1, Pink
+#EXTINF:0 tvg-id="TVPINK.rs" group-title="Channels",Pink
 http://91.148.117.242:44787/udp/232.171.194.194:4000
-
-#EXTINF:-1, Pink
+#EXTINF:0 tvg-id="TVPINK.rs" group-title="Channels",Pink
 http://91.148.117.242:44787/udp/232.171.194.131:4000
-
-#EXTINF:-1, Pink
+#EXTINF:0 tvg-id="TVPINK.rs" group-title="Channels",Pink
 http://91.148.117.242:44787/udp/232.233.237.4:4000
-
-#EXTINF:-1, Pink 2 / Red TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink 2 / Red TV
 http://91.148.117.242:44787/udp/232.171.194.28:4000
-
-#EXTINF:-1, Pink 2 / Red TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink 2 / Red TV
 http://91.148.117.242:44787/udp/232.233.234.8:12000
-
-#EXTINF:-1, Pink 2 / Red TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink 2 / Red TV
 http://91.148.117.242:44787/udp/232.171.194.103:4000
-
-#EXTINF:-1, Pink 2 / Red TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink 2 / Red TV
 http://91.148.117.242:44787/udp/232.171.194.133:4000
-
-#EXTINF:-1, Pink Action
+#EXTINF:0 tvg-id="PinkAction.rs" group-title="Channels",Pink Action
 http://91.148.117.242:44787/udp/232.171.194.23:4000
-
-#EXTINF:-1, Pink Action
+#EXTINF:0 tvg-id="PinkAction.rs" group-title="Channels",Pink Action
 http://91.148.117.242:44787/udp/232.171.194.105:4000
-
-#EXTINF:-1, Pink BH
+#EXTINF:0 tvg-id="PINKBH.hr" group-title="Channels",Pink BH
 http://91.148.117.242:44787/udp/232.171.194.21:4000
-
-#EXTINF:-1, Pink BH
+#EXTINF:0 tvg-id="PINKBH.hr" group-title="Channels",Pink BH
 http://91.148.117.242:44787/udp/232.171.194.55:4000
-
-#EXTINF:-1, Pink Classic
+#EXTINF:0 tvg-id="PinkClassic.rs" group-title="Channels",Pink Classic
 http://91.148.117.242:44787/udp/232.171.194.41:4000
-
-#EXTINF:-1, Pink Comedy
+#EXTINF:0 tvg-id="PinkComedy.hr" group-title="Channels",Pink Comedy
 http://91.148.117.242:44787/udp/232.171.194.31:4000
-
-#EXTINF:-1, Pink Comedy
+#EXTINF:0 tvg-id="PinkComedy.hr" group-title="Channels",Pink Comedy
 http://91.148.117.242:44787/udp/232.171.194.67:4000
-
-#EXTINF:-1, Pink Crime & Mystery
+#EXTINF:0 tvg-id="PinkCrime.rs" group-title="Channels",Pink Crime & Mystery
 http://91.148.117.242:44787/udp/232.171.194.3:4000
-
-#EXTINF:-1, Pink Crime & Mystery
+#EXTINF:0 tvg-id="PinkCrime.rs" group-title="Channels",Pink Crime & Mystery
 http://91.148.117.242:44787/udp/232.171.194.69:4000
-
-#EXTINF:-1, Pink Extra
+#EXTINF:0 tvg-id="PinkExtra.svn" group-title="Channels",Pink Extra
 http://91.148.117.242:44787/udp/232.171.194.20:4000
-
-#EXTINF:-1, Pink Family
+#EXTINF:0 tvg-id="PinkFamily.hr" group-title="Channels",Pink Family
 http://91.148.117.242:44787/udp/232.171.194.27:4000
-
-#EXTINF:-1, Pink Family
+#EXTINF:0 tvg-id="PinkFamily.hr" group-title="Channels",Pink Family
 http://91.148.117.242:44787/udp/232.171.194.106:4000
-
-#EXTINF:-1, Pink Fashion
+#EXTINF:0 tvg-id="PinkFashion.rs" group-title="Channels",Pink Fashion
 http://91.148.117.242:44787/udp/232.171.194.17:4000
-
-#EXTINF:-1, Pink Film
+#EXTINF:0 tvg-id="PinkFilm.rs" group-title="Channels",Pink Film
 http://91.148.117.242:44787/udp/232.171.194.25:4000
-
-#EXTINF:-1, Pink Folk
+#EXTINF:0 tvg-id="PinkFolk.svn" group-title="Channels",Pink Folk
 http://91.148.117.242:44787/udp/232.171.194.14:4000
-
-#EXTINF:-1, Pink Folk 2
+#EXTINF:0 tvg-id="PinkFolk2.rs" group-title="Channels",Pink Folk 2
 http://91.148.117.242:44787/udp/232.171.194.18:4000
-
-#EXTINF:-1, Pink Hits 1
+#EXTINF:0 tvg-id="PinkHits1.rs" group-title="Channels",Pink Hits 1
 http://91.148.117.242:44787/udp/232.171.194.34:4000
-
-#EXTINF:-1, Pink Hits 2
+#EXTINF:0 tvg-id="PinkHits2.rs" group-title="Channels",Pink Hits 2
 http://91.148.117.242:44787/udp/232.171.194.12:4000
-
-#EXTINF:-1, Pink Horror
+#EXTINF:0 tvg-id="PinkHorror.hr" group-title="Channels",Pink Horror
 http://91.148.117.242:44787/udp/232.171.194.32:4000
-
-#EXTINF:-1, Pink Kids
+#EXTINF:0 tvg-id="PINKKids.rs" group-title="Channels",Pink Kids
 http://91.148.117.242:44787/udp/232.171.194.30:4000
-
-#EXTINF:-1, Pink Koncert
+#EXTINF:0 tvg-id="PinkKoncert.rs" group-title="Channels",Pink Koncert
 http://91.148.117.242:44787/udp/232.171.194.13:4000
-
-#EXTINF:-1, Pink Kuvar
+#EXTINF:0 tvg-id="PinkKuvar.rs" group-title="Channels",Pink Kuvar
 http://91.148.117.242:44787/udp/232.171.194.51:4000
-
-#EXTINF:-1, Pink Montenegro
+#EXTINF:0 tvg-id="PinkMontenegro.rs" group-title="Channels",Pink Montenegro
 http://91.148.117.242:44787/udp/232.171.194.29:4000
-
-#EXTINF:-1, Pink Montenegro
+#EXTINF:0 tvg-id="PinkMontenegro.rs" group-title="Channels",Pink Montenegro
 http://91.148.117.242:44787/udp/232.171.194.56:4000
-
-#EXTINF:-1, Pink Montenegro
+#EXTINF:0 tvg-id="PinkMontenegro.rs" group-title="Channels",Pink Montenegro
 http://91.148.117.242:44787/udp/232.171.194.56:4000
-
-#EXTINF:-1, Pink Movies
+#EXTINF:0 tvg-id="PinkMovies.rs" group-title="Channels",Pink Movies
 http://91.148.117.242:44787/udp/232.171.194.24:4000
-
-#EXTINF:-1, Pink Music
+#EXTINF:0 tvg-id="PinkMusic.svn" group-title="Channels",Pink Music
 http://91.148.117.242:44787/udp/232.171.194.26:4000
-
-#EXTINF:-1, Pink Music 2
+#EXTINF:0 tvg-id="PinkMusic2.rs" group-title="Channels",Pink Music 2
 http://91.148.117.242:44787/udp/232.171.194.11:4000
-
-#EXTINF:-1, Pink Parada
+#EXTINF:0 tvg-id="PinkParada.rs" group-title="Channels",Pink Parada
 http://91.148.117.242:44787/udp/232.171.194.35:4000
-
-#EXTINF:-1, Pink Pedia
+#EXTINF:0 tvg-id="PinkPedia.rs" group-title="Channels",Pink Pedia
 http://91.148.117.242:44787/udp/232.171.194.33:4000
-
-#EXTINF:-1, Pink Pedia
+#EXTINF:0 tvg-id="PinkPedia.rs" group-title="Channels",Pink Pedia
 http://91.148.117.242:44787/udp/232.171.194.71:4000
-
-#EXTINF:-1, Pink Plus
+#EXTINF:0 tvg-id="PinkPlus.se" group-title="Channels",Pink Plus
 http://91.148.117.242:44787/udp/232.171.194.19:4000
-
-#EXTINF:-1, Pink Premium
+#EXTINF:0 tvg-id="PinkPremium.rs" group-title="Channels",Pink Premium
 http://91.148.117.242:44787/udp/232.171.194.7:4000
-
-#EXTINF:-1, Pink Premium
+#EXTINF:0 tvg-id="PinkPremium.rs" group-title="Channels",Pink Premium
 http://91.148.117.242:44787/udp/232.171.194.65:4000
-
-#EXTINF:-1, Pink Premium
+#EXTINF:0 tvg-id="PinkPremium.rs" group-title="Channels",Pink Premium
 http://91.148.117.242:44787/udp/232.171.194.132:4000
-
-#EXTINF:-1, Pink Premium
+#EXTINF:0 tvg-id="PinkPremium.rs" group-title="Channels",Pink Premium
 http://91.148.117.242:44787/udp/232.233.237.181:4000
-
-#EXTINF:-1, Pink Reality
+#EXTINF:0 tvg-id="PinkReality.rs" group-title="Channels",Pink Reality
 http://91.148.117.242:44787/udp/232.171.194.6:4000
-
-#EXTINF:-1, Pink Reality
+#EXTINF:0 tvg-id="PinkReality.rs" group-title="Channels",Pink Reality
 http://91.148.117.242:44787/udp/232.171.194.73:4000
-
-#EXTINF:-1, Pink Romance
+#EXTINF:0 tvg-id="PinkRomance.rs" group-title="Channels",Pink Romance
 http://91.148.117.242:44787/udp/232.171.194.66:4000
-
-#EXTINF:-1, Pink&Roll
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink&Roll
 http://91.148.117.242:44787/udp/232.171.194.16:4000
-
-#EXTINF:-1, Pink Premium
+#EXTINF:0 tvg-id="PinkPremium.rs" group-title="Channels",Pink Premium
 http://91.148.117.242:44787/udp/232.233.234.16:12000
-
-#EXTINF:-1, Pink Premium
+#EXTINF:0 tvg-id="PinkPremium.rs" group-title="Channels",Pink Premium
 http://91.148.117.242:44787/udp/232.171.194.102:4000
-
-#EXTINF:-1, Pink Romance
+#EXTINF:0 tvg-id="PinkRomance.rs" group-title="Channels",Pink Romance
 http://91.148.117.242:44787/udp/232.171.194.4:4000
-
-#EXTINF:-1, PinkSi
+#EXTINF:0 tvg-id="ext" group-title="Channels",PinkSi
 http://91.148.117.242:44787/udp/232.171.194.63:4000
-
-#EXTINF:-1, Pink Sci-Fi & Fantasy
+#EXTINF:0 tvg-id="PinkSciFiFantasy.rs" group-title="Channels",Pink Sci-Fi & Fantasy
 http://91.148.117.242:44787/udp/232.171.194.5:4000
-
-#EXTINF:-1, Pink Sci-Fi & Fantasy
+#EXTINF:0 tvg-id="PinkSciFiFantasy.rs" group-title="Channels",Pink Sci-Fi & Fantasy
 http://91.148.117.242:44787/udp/232.171.194.70:4000
-
-#EXTINF:-1, Pink Serije
+#EXTINF:0 tvg-id="PinkSerije.rs" group-title="Channels",Pink Serije
 http://91.148.117.242:44787/udp/232.171.194.48:4000
-
-#EXTINF:-1, Pink Show
+#EXTINF:0 tvg-id="PinkShow.rs" group-title="Channels",Pink Show
 http://91.148.117.242:44787/udp/232.171.194.50:4000
-
-#EXTINF:-1, Pink Soap
+#EXTINF:0 tvg-id="PinkSoap.rs" group-title="Channels",Pink Soap
 http://91.148.117.242:44787/udp/232.171.194.8:4000
-
-#EXTINF:-1, Pink Style
+#EXTINF:0 tvg-id="PinkStyle.rs" group-title="Channels",Pink Style
 http://91.148.117.242:44787/udp/232.171.194.42:4000
-
-#EXTINF:-1, Pink Super Kids
+#EXTINF:0 tvg-id="PinkSuperKids.rs" group-title="Channels",Pink Super Kids
 http://91.148.117.242:44787/udp/232.171.194.52:4000
-
-#EXTINF:-1, Pink Thriller
+#EXTINF:0 tvg-id="PinkThriller.rs" group-title="Channels",Pink Thriller
 http://91.148.117.242:44787/udp/232.171.194.2:4000
-
-#EXTINF:-1, Pink Thriller
+#EXTINF:0 tvg-id="PinkThriller.rs" group-title="Channels",Pink Thriller
 http://91.148.117.242:44787/udp/232.171.194.68:4000
-
-#EXTINF:-1, Pink Western
+#EXTINF:0 tvg-id="PinkWestern.rs" group-title="Channels",Pink Western
 http://91.148.117.242:44787/udp/232.171.194.40:4000
-
-#EXTINF:-1, Pink World
+#EXTINF:0 tvg-id="PinkWorld.rs" group-title="Channels",Pink World
 http://91.148.117.242:44787/udp/232.171.194.9:4000
-
-#EXTINF:-1, Pink World Cinema
+#EXTINF:0 tvg-id="PinkWorldCinema.rs" group-title="Channels",Pink World Cinema
 http://91.148.117.242:44787/udp/232.171.194.49:4000
-
-#EXTINF:-1, Pink Zabava
+#EXTINF:0 tvg-id="PinkZabava.rs" group-title="Channels",Pink Zabava
 http://91.148.117.242:44787/udp/232.171.194.10:4000
-
-#EXTINF:-1, Pro 7
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",Pro 7
 http://91.148.117.242:44787/udp/232.233.234.23:12000
-
-#EXTINF:-1, Pro 7
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",Pro 7
 http://91.148.117.242:44787/udp/232.233.237.52:4000
-
-#EXTINF:-1, Prva
+#EXTINF:0 tvg-id="Prva.rs" group-title="Channels",Prva
 http://91.148.117.242:44787/udp/232.233.237.5:4000
-
-#EXTINF:-1, Prva Kick
+#EXTINF:0 tvg-id="PrvaKick.rs" group-title="Channels",Prva Kick
 http://91.148.117.242:44787/udp/232.233.234.200:12000
-
-#EXTINF:-1, Prva World
+#EXTINF:0 tvg-id="PrvaWorld.rs" group-title="Channels",Prva World
 http://91.148.117.242:44787/udp/232.233.234.202:12000
-
-#EXTINF:-1, Rai 1
+#EXTINF:0 tvg-id="Rai1.it" group-title="Channels",Rai 1
 http://91.148.117.242:44787/udp/232.233.234.22:12000
-
-#EXTINF:-1, Rai 1
+#EXTINF:0 tvg-id="Rai1.it" group-title="Channels",Rai 1
 http://91.148.117.242:44787/udp/232.233.237.211:4000
-
-#EXTINF:-1, Rai 2
+#EXTINF:0 tvg-id="Rai2.it" group-title="Channels",Rai 2
 http://91.148.117.242:44787/udp/232.233.237.30:4000
-
-#EXTINF:-1, RTRS
+#EXTINF:0 tvg-id="RTRS.rs" group-title="Channels",RTRS
 http://91.148.117.242:44787/udp/232.233.234.19:12000
-
-#EXTINF:-1, RTS 1
+#EXTINF:0 tvg-id="RTS1.rs" group-title="Channels",RTS 1
 http://91.148.117.242:44787/udp/232.233.234.74:12000
-
-#EXTINF:-1, RTS 1
+#EXTINF:0 tvg-id="RTS1.rs" group-title="Channels",RTS 1
 http://91.148.117.242:44787/udp/232.233.234.25:12000
-
-#EXTINF:-1, RTS 1
+#EXTINF:0 tvg-id="RTS1.rs" group-title="Channels",RTS 1
 http://91.148.117.242:44787/udp/232.233.234.180:12000
-
-#EXTINF:-1, RTS 1
+#EXTINF:0 tvg-id="RTS1.rs" group-title="Channels",RTS 1
 http://91.148.117.242:44787/udp/232.233.237.1:4000
-
-#EXTINF:-1, RTS 1
+#EXTINF:0 tvg-id="RTS1.rs" group-title="Channels",RTS 1
 http://91.148.117.242:44787/udp/232.233.237.230:4000
-
-#EXTINF:-1, RTS 1
+#EXTINF:0 tvg-id="RTS1.rs" group-title="Channels",RTS 1
 http://91.148.117.242:44787/udp/232.233.237.254:4000
-
-#EXTINF:-1, RTS 1
+#EXTINF:0 tvg-id="RTS1.rs" group-title="Channels",RTS 1
 http://91.148.117.242:44787/udp/232.233.237.252:4000
-
-#EXTINF:-1, RTS 2
+#EXTINF:0 tvg-id="RTS2.rs" group-title="Channels",RTS 2
 http://91.148.117.242:44787/udp/232.233.234.101:12000
-
-#EXTINF:-1, RTS 2
+#EXTINF:0 tvg-id="RTS2.rs" group-title="Channels",RTS 2
 http://91.148.117.242:44787/udp/232.233.234.102:12000
-
-#EXTINF:-1, RTS 2
+#EXTINF:0 tvg-id="RTS2.rs" group-title="Channels",RTS 2
 http://91.148.117.242:44787/udp/232.233.237.2:4000
-
-#EXTINF:-1, RTS 3
+#EXTINF:0 tvg-id="RTS3.rs" group-title="Channels",RTS 3
 http://91.148.117.242:44787/udp/232.233.234.30:12000
-
-#EXTINF:-1, RTS 3
+#EXTINF:0 tvg-id="RTS3.rs" group-title="Channels",RTS 3
 http://91.148.117.242:44787/udp/232.233.237.3:4000
-
-#EXTINF:-1, RTS Drama
+#EXTINF:0 tvg-id="RTSDrama.rs" group-title="Channels",RTS Drama
 http://91.148.117.242:44787/udp/232.233.234.129:12000
-
-#EXTINF:-1, RTS Kolo
+#EXTINF:0 tvg-id="RTSKolo.rs" group-title="Channels",RTS Kolo
 http://91.148.117.242:44787/udp/232.233.234.128:12000
-
-#EXTINF:-1, RTS Muzika
+#EXTINF:0 tvg-id="RTSMuzika.rs" group-title="Channels",RTS Muzika
 http://91.148.117.242:44787/udp/232.233.234.133:12000
-
-#EXTINF:-1, RTS Poletarac
+#EXTINF:0 tvg-id="RTSPoletarac.rs" group-title="Channels",RTS Poletarac
 http://91.148.117.242:44787/udp/232.233.234.130:12000
-
-#EXTINF:-1, RTS Svet
+#EXTINF:0 tvg-id="RTSSvet.rs" group-title="Channels",RTS Svet
 http://91.148.117.242:44787/udp/232.233.237.70:4000
-
-#EXTINF:-1, RTS Svet
+#EXTINF:0 tvg-id="RTSSvet.rs" group-title="Channels",RTS Svet
 http://91.148.117.242:44787/udp/232.233.237.71:4000
-
-#EXTINF:-1, RTS Trezor
+#EXTINF:0 tvg-id="RTSTrezor.rs" group-title="Channels",RTS Trezor
 http://91.148.117.242:44787/udp/232.233.234.131:12000
-
-#EXTINF:-1, RTS Zivot
+#EXTINF:0 tvg-id="RTSZivot.rs" group-title="Channels",RTS Zivot
 http://91.148.117.242:44787/udp/232.233.234.132:12000
-
-#EXTINF:-1, RTV 1
+#EXTINF:0 tvg-id="RTV1.rs" group-title="Channels",RTV 1
 http://91.148.117.242:44787/udp/232.233.234.106:12000
-
-#EXTINF:-1, RTV 1
+#EXTINF:0 tvg-id="RTV1.rs" group-title="Channels",RTV 1
 http://91.148.117.242:44787/udp/232.233.237.9:4000
-
-#EXTINF:-1, RTV 2
+#EXTINF:0 tvg-id="RTV2.rs" group-title="Channels",RTV 2
 http://91.148.117.242:44787/udp/232.233.234.24:12000
-
-#EXTINF:-1, RTV 2
+#EXTINF:0 tvg-id="RTV2.rs" group-title="Channels",RTV 2
 http://91.148.117.242:44787/udp/232.233.237.17:4000
-
-#EXTINF:-1, RTV KV
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV KV
 http://91.148.117.242:44787/udp/232.233.234.211:12000
-
-#EXTINF:-1, Russia 24
+#EXTINF:0 tvg-id="vesti" group-title="Channels",Russia 24
 http://91.148.117.242:44787/udp/232.233.234.3:12000
-
-#EXTINF:-1, Russia 24
+#EXTINF:0 tvg-id="vesti" group-title="Channels",Russia 24
 http://91.148.117.242:44787/udp/232.233.237.43:4000
-
-#EXTINF:-1, Russia Today (RT)
+#EXTINF:0 tvg-id="ext" group-title="Channels",Russia Today (RT)
 http://91.148.117.242:44787/udp/232.233.237.97:4000
-
-#EXTINF:-1, Russia Today (RT)
+#EXTINF:0 tvg-id="ext" group-title="Channels",Russia Today (RT)
 http://91.148.117.242:44787/udp/232.233.237.254:4000
-
-#EXTINF:-1, Russia Today (RT) Documentary
+#EXTINF:0 tvg-id="ext" group-title="Channels",Russia Today (RT) Documentary
 http://91.148.117.242:44787/udp/232.233.234.36:12000
-
-#EXTINF:-1, Russia Today (RT) Documentary
+#EXTINF:0 tvg-id="ext" group-title="Channels",Russia Today (RT) Documentary
 http://91.148.117.242:44787/udp/232.233.237.54:4000
-
-#EXTINF:-1, Russia Today (RT) News
+#EXTINF:0 tvg-id="ext" group-title="Channels",Russia Today (RT) News
 http://91.148.117.242:44787/udp/232.233.234.254:12000
-
-#EXTINF:-1, Sci Fi
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",Sci Fi
 http://91.148.117.242:44787/udp/232.233.234.113:12000
-
-#EXTINF:-1, Sci Fi
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",Sci Fi
 http://91.148.117.242:44787/udp/232.233.237.90:4000
-
-#EXTINF:-1, Sky News
+#EXTINF:0 tvg-id="Skynews.gr" group-title="Channels",Sky News
 http://91.148.117.242:44787/udp/232.233.234.1:12000
-
-#EXTINF:-1, Sky News
+#EXTINF:0 tvg-id="Skynews.gr" group-title="Channels",Sky News
 http://91.148.117.242:44787/udp/232.233.237.69:4000
-
-#EXTINF:-1, Sport Klub 1 HD
+#EXTINF:0 tvg-id="SportKlub1.rs" group-title="Channels",Sport Klub 1 HD
 http://91.148.117.242:44787/udp/232.233.237.171:4000
-
-#EXTINF:-1, Sport Klub 2 HD
+#EXTINF:0 tvg-id="SportKlub2.rs" group-title="Channels",Sport Klub 2 HD
 http://91.148.117.242:44787/udp/232.233.237.172:4000
-
-#EXTINF:-1, Sremska TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sremska TV
 http://91.148.117.242:44787/udp/232.233.237.21:4000
-
-#EXTINF:-1, Studio B
+#EXTINF:0 tvg-id="studio-b-yu.sr" group-title="Channels",Studio B
 http://91.148.117.242:44787/udp/232.233.234.100:12000
-
-#EXTINF:-1, Studio B
+#EXTINF:0 tvg-id="studio-b-yu.sr" group-title="Channels",Studio B
 http://91.148.117.242:44787/udp/232.233.237.8:4000
-
-#EXTINF:-1, Studio B
+#EXTINF:0 tvg-id="studio-b-yu.sr" group-title="Channels",Studio B
 http://91.148.117.242:44787/udp/232.233.237.182:4000
-
-#EXTINF:-1, Super Sat
+#EXTINF:0 tvg-id="ext" group-title="Channels",Super Sat
 http://91.148.117.242:44787/udp/232.233.237.58:4000
-
-#EXTINF:-1, Super Sat HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",Super Sat HD
 http://91.148.117.242:44787/udp/232.233.234.98:12000
-
-#EXTINF:-1, Superstar
+#EXTINF:0 tvg-id="ext" group-title="Channels",Superstar
 http://91.148.117.242:44787/udp/232.233.234.12:12000
-
-#EXTINF:-1, Superstar 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Superstar 2
 http://91.148.117.242:44787/udp/232.233.234.120:12000
-
-#EXTINF:-1, TimeOut
+#EXTINF:0 tvg-id="ext" group-title="Channels",TimeOut
 http://91.148.117.242:44787/udp/232.171.194.80:4000
-
-#EXTINF:-1, Toxic TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Toxic TV
 http://91.148.117.242:44787/udp/232.233.234.18:12000
-
-#EXTINF:-1, Toxic Folk
+#EXTINF:0 tvg-id="ext" group-title="Channels",Toxic Folk
 http://91.148.117.242:44787/udp/232.233.234.127:12000
-
-#EXTINF:-1, Toxic Rap
+#EXTINF:0 tvg-id="ext" group-title="Channels",Toxic Rap
 http://91.148.117.242:44787/udp/232.233.234.126:12000
-
-#EXTINF:-1, TV1000
+#EXTINF:0 tvg-id="tv1000" group-title="Channels",TV1000
 http://91.148.117.242:44787/udp/232.233.234.56:12000
-
-#EXTINF:-1, TV1000
+#EXTINF:0 tvg-id="tv1000" group-title="Channels",TV1000
 http://91.148.117.242:44787/udp/232.233.237.63:4000
-
-#EXTINF:-1, TV Duga Plus
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Duga Plus
 http://91.148.117.242:44787/udp/232.233.237.53:4000
-
-#EXTINF:-1, TV Hram
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Hram
 http://91.148.117.242:44787/udp/232.233.234.213:12000
-
-#EXTINF:-1, TV K9
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV K9
 http://91.148.117.242:44787/udp/232.233.237.15:4000
-
-#EXTINF:-1, TV K9
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV K9
 http://91.148.117.242:44787/udp/232.233.237.16:4000
-
-#EXTINF:-1, TV Kanal 25
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Kanal 25
 http://91.148.117.242:44787/udp/232.233.237.27:4000
-
-#EXTINF:-1, TV Kanal 25
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Kanal 25
 http://91.148.117.242:44787/udp/232.233.237.14:4000
-
-#EXTINF:-1, TV Kruševac
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Kruševac
 http://91.148.117.242:44787/udp/232.233.234.210:12000
-
-#EXTINF:-1, TV MAG
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV MAG
 http://91.148.117.242:44787/udp/232.233.234.204:12000
-
-#EXTINF:-1, TV Rus+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Rus+
 http://91.148.117.242:44787/udp/232.233.237.42:4000
-
-#EXTINF:-1, TVCG MNE
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCG MNE
 http://91.148.117.242:44787/udp/232.233.234.20:12000
-
-#EXTINF:-1, TVCG MNE
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCG MNE
 http://91.148.117.242:44787/udp/232.233.237.56:4000
-
-#EXTINF:-1, Una TV
+#EXTINF:0 tvg-id="UnaTV.ba" group-title="Channels",Una TV
 http://91.148.117.242:44787/udp/232.233.234.99:12000
-
-#EXTINF:-1, Una TV
+#EXTINF:0 tvg-id="UnaTV.ba" group-title="Channels",Una TV
 http://91.148.117.242:44787/udp/232.233.234.147:12000
-
-#EXTINF:-1, Una TV
+#EXTINF:0 tvg-id="UnaTV.ba" group-title="Channels",Una TV
 http://91.148.117.242:44787/udp/232.233.237.98:4000
-
-#EXTINF:-1, Vesti
+#EXTINF:0 tvg-id="Vesti.rs" group-title="Channels",Vesti
 http://91.148.117.242:44787/udp/232.171.194.1:4000
-
-#EXTINF:-1, Vesti
+#EXTINF:0 tvg-id="Vesti.rs" group-title="Channels",Vesti
 http://91.148.117.242:44787/udp/232.233.234.70:12000
-
-#EXTINF:-1, Vesti
+#EXTINF:0 tvg-id="Vesti.rs" group-title="Channels",Vesti
 http://91.148.117.242:44787/udp/232.171.194.104:4000
-
-#EXTINF:-1, Vesti
+#EXTINF:0 tvg-id="Vesti.rs" group-title="Channels",Vesti
 http://91.148.117.242:44787/udp/232.171.194.134:4000
-
-#EXTINF:-1, Viasat Explore
+#EXTINF:0 tvg-id="explorer" group-title="Channels",Viasat Explore
 http://91.148.117.242:44787/udp/232.233.234.28:12000
-
-#EXTINF:-1, Viasat Explore
+#EXTINF:0 tvg-id="explorer" group-title="Channels",Viasat Explore
 http://91.148.117.242:44787/udp/232.233.237.36:4000
-
-#EXTINF:-1, Viasat History
+#EXTINF:0 tvg-id="history" group-title="Channels",Viasat History
 http://91.148.117.242:44787/udp/232.233.237.37:4000
-
-#EXTINF:-1, Viasat History
+#EXTINF:0 tvg-id="history" group-title="Channels",Viasat History
 http://91.148.117.242:44787/udp/232.233.234.27:12000
-
-#EXTINF:-1, Viasat Nature
+#EXTINF:0 tvg-id="viasat-nature" group-title="Channels",Viasat Nature
 http://91.148.117.242:44787/udp/232.233.234.96:12000
-
-#EXTINF:-1, Viasat Nature
+#EXTINF:0 tvg-id="viasat-nature" group-title="Channels",Viasat Nature
 http://91.148.117.242:44787/udp/232.233.237.82:4000
-
-#EXTINF:-1, Vixen
+#EXTINF:0 tvg-id="VIXEN.ero" group-title="Channels",Vixen
 http://91.148.117.242:44787/udp/232.233.234.144:12000
-
-#EXTINF:-1, Vixen
+#EXTINF:0 tvg-id="VIXEN.ero" group-title="Channels",Vixen
 http://91.148.117.242:44787/udp/232.233.237.85:4000
-
-#EXTINF:-1, Zadruga Live 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zadruga Live 1
 http://91.148.117.242:44787/udp/232.171.194.91:4000
-
-#EXTINF:-1, Zadruga Live 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zadruga Live 1
 http://91.148.117.242:44787/udp/232.171.194.95:4000
-
-#EXTINF:-1, Zadruga Live 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zadruga Live 1
 http://91.148.117.242:44787/udp/232.171.194.192:4000
-
-#EXTINF:-1, Zadruga Live 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zadruga Live 2
 http://91.148.117.242:44787/udp/232.171.194.92:4000
-
-#EXTINF:-1, Zadruga Live 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zadruga Live 2
 http://91.148.117.242:44787/udp/232.171.194.96:4000
-
-#EXTINF:-1, Zadruga Live 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zadruga Live 3
 http://91.148.117.242:44787/udp/232.171.194.93:4000
-
-#EXTINF:-1, Zadruga Live 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zadruga Live 3
 http://91.148.117.242:44787/udp/232.171.194.97:4000
-
-#EXTINF:-1, Zadruga Live 4
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zadruga Live 4
 http://91.148.117.242:44787/udp/232.171.194.94:4000
-
-#EXTINF:-1, Zadruga Live 4
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zadruga Live 4
 http://91.148.117.242:44787/udp/232.171.194.98:4000
-
-#EXTINF:-1, Zadruga Live 5
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zadruga Live 5
 http://91.148.117.242:44787/udp/232.171.194.191:4000
-
-#EXTINF:-1, BeotelNet Info Kanal
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeotelNet Info Kanal
 http://91.148.117.242:44787/udp/232.233.234.240:12000
-
-#EXTINF:-1, BeotelNet Info Kanal
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeotelNet Info Kanal
 http://91.148.117.242:44787/udp/232.233.234.241:12000
-
-#EXTINF:-1, BeotelNet Info Kanal
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeotelNet Info Kanal
 http://91.148.117.242:44787/udp/232.233.234.245:12000
-
-#EXTINF:-1, [RADIO] Laguna Radio
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Laguna Radio
 http://91.148.117.242:44787/udp/232.233.234.178:12000
-
-#EXTINF:-1, [RADIO] Naxi Radio
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Naxi Radio
 http://91.148.117.242:44787/udp/232.233.234.151:12000
-
-#EXTINF:-1, [RADIO] Naxi Radio: 80-e
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Naxi Radio: 80-e
 http://91.148.117.242:44787/udp/232.233.234.160:12000
-
-#EXTINF:-1, [RADIO] Naxi Radio: Cafe
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Naxi Radio: Cafe
 http://91.148.117.242:44787/udp/232.233.234.161:12000
-
-#EXTINF:-1, [RADIO] Naxi Radio: Clubbing
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Naxi Radio: Clubbing
 http://91.148.117.242:44787/udp/232.233.234.163:12000
-
-#EXTINF:-1, [RADIO] Nostalgia
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Nostalgia
 http://91.148.117.242:44787/udp/232.233.234.156:12000
-
-#EXTINF:-1, [RADIO] Play Radio
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Play Radio
 http://91.148.117.242:44787/udp/232.233.234.150:12000
-
-#EXTINF:-1, [RADIO] Play Radio: Party
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Play Radio: Party
 http://91.148.117.242:44787/udp/232.233.234.170:12000
-
-#EXTINF:-1, [RADIO] Play Radio: Rock
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Play Radio: Rock
 http://91.148.117.242:44787/udp/232.233.234.171:12000
-
-#EXTINF:-1, [RADIO] Play Radio: Soft
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Play Radio: Soft
 http://91.148.117.242:44787/udp/232.233.234.172:12000
-
-#EXTINF:-1, [RADIO] Play Radio: Urban
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Play Radio: Urban
 http://91.148.117.242:44787/udp/232.233.234.173:12000
-
-#EXTINF:-1, [RADIO] Radio 021
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Radio 021
 http://91.148.117.242:44787/udp/232.233.234.164:12000
-
-#EXTINF:-1, [RADIO] Radio 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Radio 3
 http://91.148.117.242:44787/udp/232.233.234.157:12000
-
-#EXTINF:-1, [RADIO] Radio AS FM
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Radio AS FM
 http://91.148.117.242:44787/udp/232.233.234.165:12000
-
-#EXTINF:-1, [RADIO] Radio Beograd 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Radio Beograd 1
 http://91.148.117.242:44787/udp/232.233.234.152:12000
-
-#EXTINF:-1, [RADIO] Radio Beograd 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Radio Beograd 2
 http://91.148.117.242:44787/udp/232.233.234.153:12000
-
-#EXTINF:-1, [RADIO] Radio Beograd 202
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Radio Beograd 202
 http://91.148.117.242:44787/udp/232.233.234.159:12000
-
-#EXTINF:-1, [RADIO] Radio S
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Radio S
 http://91.148.117.242:44787/udp/232.233.234.155:12000
-
-#EXTINF:-1, [RADIO] Radio WTF
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Radio WTF
 http://91.148.117.242:44787/udp/232.233.234.177:12000
-
-#EXTINF:-1, [RADIO] Red Radio
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Red Radio
 http://91.148.117.242:44787/udp/232.233.234.174:12000
-
-#EXTINF:-1, [RADIO] Rock Radio
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Rock Radio
 http://91.148.117.242:44787/udp/232.233.234.175:12000
-
-#EXTINF:-1, [RADIO] Studio B
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Studio B
 http://91.148.117.242:44787/udp/232.233.234.162:12000
-
-#EXTINF:-1, [RADIO] Super FM
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Super FM
 http://91.148.117.242:44787/udp/232.233.234.176:12000
-
-#EXTINF:-1, [RADIO] TDI Radio
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] TDI Radio
 http://91.148.117.242:44787/udp/232.233.234.154:12000
-
-#EXTINF:-1, [RADIO] Top FM
+#EXTINF:0 tvg-id="ext" group-title="Channels",[RADIO] Top FM
 http://91.148.117.242:44787/udp/232.233.234.158:12000
+
