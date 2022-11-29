@@ -1108,6 +1108,101 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/za.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/zm.m3u
 
+#EXTINF:-1, Afrikaans
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/afr.m3u
+
+#EXTINF:-1, Akan
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/aka.m3u
+
+#EXTINF:-1, Albanian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/sqi.m3u
+
+#EXTINF:-1, Amharic
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/amh.m3u
+
+#EXTINF:-1, Arabic
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ara.m3u
+
+#EXTINF:-1, Armenian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/hye.m3u
+
+#EXTINF:-1, Assyrian Neo-Aramaic
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/aii.m3u
+
+#EXTINF:-1, Azerbaijani
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/aze.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
 #EXTINF:-1, Africa
 #EXTGRP: Region
 https://iptv-org.github.io/iptv/regions/afr.m3u
@@ -1207,9 +1302,3 @@ https://iptv-org.github.io/iptv/regions/wafr.m3u
 #EXTINF:-1, Worldwide
 #EXTGRP: Region
 https://iptv-org.github.io/iptv/regions/int.m3u
-
-
-
-
-#EXTINF:-1, 
-#EXTGRP: Region
