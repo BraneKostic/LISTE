@@ -1140,44 +1140,57 @@ https://iptv-org.github.io/iptv/languages/aii.m3u
 #EXTGRP: Language
 https://iptv-org.github.io/iptv/languages/aze.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bashkir
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/bak.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Belarusian
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/bel.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bengali
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ben.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bhojpuri
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/bho.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bislama
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/bis.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bosnian
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/bos.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bulgarian
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/bul.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Burmese
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mya.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Catalan
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/cat.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Chichewa
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/nya.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Chinese
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/zho.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Croatian
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/hrv.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Czech
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ces.m3u
 
 #EXTINF:-1, 
 #EXTGRP: Language
