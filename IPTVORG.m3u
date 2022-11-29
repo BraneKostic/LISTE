@@ -1192,6 +1192,168 @@ https://iptv-org.github.io/iptv/languages/hrv.m3u
 #EXTGRP: Language
 https://iptv-org.github.io/iptv/languages/ces.m3u
 
+#EXTINF:-1, Danish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/dan.m3u
+
+#EXTINF:-1, Dhivehi
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/div.m3u
+
+#EXTINF:-1, Dutch
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/nld.m3u
+
+#EXTINF:-1, Dzongkha
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/dzo.m3u
+
+#EXTINF:-1, English
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/eng.m3u
+
+#EXTINF:-1, Estonian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/est.m3u
+
+#EXTINF:-1, Faroese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/fao.m3u
+
+#EXTINF:-1, Finnish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/fin.m3u
+
+#EXTINF:-1, French
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/fra.m3u
+
+#EXTINF:-1, Galician
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/glg.m3u
+
+#EXTINF:-1, Georgian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kat.m3u
+
+#EXTINF:-1, German
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/deu.m3u
+
+#EXTINF:-1, Greek
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ell.m3u
+
+#EXTINF:-1, Greenlandic
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kal.m3u
+
+#EXTINF:-1, Hebrew
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/heb.m3u
+
+#EXTINF:-1, Hindi
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/hin.m3u
+
+#EXTINF:-1, Hungarian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/hun.m3u
+
+#EXTINF:-1, Icelandic
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/isl.m3u
+
+#EXTINF:-1, Indonesian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ind.m3u
+
+#EXTINF:-1, Inuktitut
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/iku.m3u
+
+#EXTINF:-1, Irish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/gle.m3u
+
+#EXTINF:-1, Italian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ita.m3u
+
+#EXTINF:-1, Japanese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/jpn.m3u
+
+#EXTINF:-1, Javanese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/jav.m3u
+
+#EXTINF:-1, Kannada
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kan.m3u
+
+#EXTINF:-1, Kazakh
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kaz.m3u
+
+#EXTINF:-1, Khmer
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/khm.m3u
+
+#EXTINF:-1, Kinyarwanda
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kin.m3u
+
+#EXTINF:-1, Korean
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kor.m3u
+
+#EXTINF:-1, Kurdish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kur.m3u
+
+#EXTINF:-1, Kyrgyz
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/kir.m3u
+
+#EXTINF:-1, Lao
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/lao.m3u
+
+#EXTINF:-1, Latvian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/lav.m3u
+
+#EXTINF:-1, Lingala
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/lin.m3u
+
+#EXTINF:-1, Lithuanian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/lit.m3u
+
+#EXTINF:-1, Luxembourgish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ltz.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
+#EXTINF:-1, 
+#EXTGRP: Language
+
 #EXTINF:-1, 
 #EXTGRP: Language
 
