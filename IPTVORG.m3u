@@ -124,7 +124,7 @@ https://iptv-org.github.io/iptv/categories/xxx.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ad.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, United Arab Emirates
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ae.m3u
 
@@ -168,17 +168,17 @@ https://iptv-org.github.io/iptv/countries/as.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/at.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/at_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/at_samsung.m3u
 
 #EXTINF:-1, Australia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au_samsung.m3u
 
 #EXTINF:-1, Aruba
 #EXTGRP: Country
@@ -200,23 +200,23 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bb.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd_jagobd.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd_jagobd.m3u
 
 #EXTINF:-1, Belgium
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/be.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/be_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/be_samsung.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Burkina Faso
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bf.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bulgaria
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bg.m3u
 
@@ -232,7 +232,7 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bj.m3u
 #EXTGRP: Country
 https://iptv-org.github.io/iptv/countries/bm.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Brunei
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bn.m3u
 
@@ -248,13 +248,13 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bq.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_pluto.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_pluto.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_samsung.m3u
 
 #EXTINF:-1, Bahamas
 #EXTGRP: Country
@@ -276,119 +276,119 @@ https://iptv-org.github.io/iptv/countries/bw.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/by.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/by_sluhay.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/by_sluhay.m3u
 
 #EXTINF:-1, Belize
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bz.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Canada
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_samsung.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_stingray.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_stingray.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Democratic Republic of the Congo	
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cd.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Republic of the Congo
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cg.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Switzerland
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ch.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ch_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ch_samsung.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Ivory Coast
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ci.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Chile
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cl.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Cameroon
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cm.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, China
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Colombia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/co.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Costa Rica
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cr.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Cuba
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cu.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Cape Verde
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cv.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Curacao
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cw.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Cyprus
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cy.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Czech Republic
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cz.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Germany
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_adultswim.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_adultswim.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_pluto.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_pluto.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_rakuten.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_rakuten.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_samsung.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Djibouti
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dj.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Denmark
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dk.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dk_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dk_samsung.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Dominican Republic
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/do.m3u
 
@@ -396,175 +396,175 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/do.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dz.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Ecuador
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ec.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Estonia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ee.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Egypt
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/eg.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Western Sahara
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/eh.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Spain
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_pluto.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_pluto.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_rakuten.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_rakuten.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_samsung.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Ethiopia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/et.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Finland
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_rakuten.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_rakuten.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_samsung.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Fiji
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fj.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Faroe Islands
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fo.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, France
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_euronews.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_euronews.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_pluto.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_pluto.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_rakuten.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_rakuten.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_samsung.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Gabon
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ga.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Georgia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ge.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Ghana
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gh.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Greenland
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gl.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Gambia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gm.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Guinea
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gn.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Guadeloupe
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gp.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Equatorial Guinea
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gq.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Greece
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gr.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Guatemala
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gt.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Hong Kong
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Honduras
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hn.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Croatia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hr.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Haiti
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ht.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Hungary
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hu.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Indonesia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/id.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Ireland
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ie.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ie_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ie_samsung.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Israel
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/il.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, India
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in_samsung.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Iraq
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/iq.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Iran
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ir.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Iceland
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/is.m3u
 
@@ -1336,47 +1336,197 @@ https://iptv-org.github.io/iptv/languages/lit.m3u
 #EXTGRP: Language
 https://iptv-org.github.io/iptv/languages/ltz.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Macedonian
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mkd.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Malay
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/msa.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Malayalam
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mal.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Maltese
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mlt.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Mandarin Chinese
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/cmn.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Mandinka
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mnk.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Maori
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mri.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Marathi
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/mar.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Min Nan Chinese
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/nan.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Mongolian
 #EXTGRP: Language
+ttps://iptv-org.github.io/iptv/languages/mon.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Montenegrin
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/cnr.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Nepali
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/nep.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Norwegian
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/nor.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Norwegian Bokmal
 #EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/nob.m3u
+
+#EXTINF:-1, Papiamento
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/pap.m3u
+
+#EXTINF:-1, Pashto
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/pus.m3u
+
+#EXTINF:-1, Persian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/fas.m3u
+
+#EXTINF:-1, Polish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/pol.m3u
+
+#EXTINF:-1, Portuguese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/por.m3u
+
+#EXTINF:-1, Punjabi
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/pan.m3u
+
+#EXTINF:-1, Romanian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ron.m3u
+
+#EXTINF:-1, Russian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/rus.m3u
+
+#EXTINF:-1, Samoan
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/smo.m3u
+
+#EXTINF:-1, Serbian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/srp.m3u
+
+#EXTINF:-1, Sinhala
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/sin.m3u
+
+#EXTINF:-1, Slovak
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/slk.m3u
+
+#EXTINF:-1, Slovenian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/slv.m3u
+
+#EXTINF:-1, Somali
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/som.m3u
+
+#EXTINF:-1, Spanish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/spa.m3u
+
+#EXTINF:-1, Sundanese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/sun.m3u
+
+#EXTINF:-1, Swahili
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/swa.m3u
+
+#EXTINF:-1, Swedish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/swe.m3u
+
+#EXTINF:-1, Tagalog
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tgl.m3u
+
+#EXTINF:-1, Tajik
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tgk.m3u
+
+#EXTINF:-1, Tamil
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tam.m3u
+
+#EXTINF:-1, Telugu
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tel.m3u
+
+#EXTINF:-1, Thai
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tha.m3u
+
+#EXTINF:-1, Tigrinya
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tir.m3u
+
+#EXTINF:-1, Turkish
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tur.m3u
+
+#EXTINF:-1, Turkmen
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/tuk.m3u
+
+#EXTINF:-1, Ukrainian
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/ukr.m3u
+
+#EXTINF:-1, Urdu
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/urd.m3u
+
+#EXTINF:-1, Uzbek
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/uzb.m3u
+
+#EXTINF:-1, Vietnamese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/vie.m3u
+
+#EXTINF:-1, Western Frisian	
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/fry.m3u
+
+#EXTINF:-1, Wolof
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/wol.m3u
+
+#EXTINF:-1, Yue Chinese
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/yue.m3u
+
+#EXTINF:-1, Undefined
+#EXTGRP: Language
+https://iptv-org.github.io/iptv/languages/undefined.m3u
 
 #EXTINF:-1, Africa
 #EXTGRP: Region
