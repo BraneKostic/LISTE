@@ -156,6 +156,101 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ao.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ar.m3u
 
+
+
+#EXTINF:-1, Argentina: Buenos Aires
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-b.m3u
+
+#EXTINF:-1, Argentina: Catamarca
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-k.m3u
+
+#EXTINF:-1, Argentina: Chubut
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-h.m3u
+
+#EXTINF:-1, Argentina: Ciudad Autonoma de Buenos Aires
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-c.m3u
+
+#EXTINF:-1, Argentina: Cordoba
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-x.m3u
+
+#EXTINF:-1, Argentina: Corrientes
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-w.m3u
+
+#EXTINF:-1, Argentina: Entre Rios
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-e.m3u
+
+#EXTINF:-1, Argentina: Formosa
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-p.m3u
+
+#EXTINF:-1, Argentina: Jujuy
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-y.m3u
+
+#EXTINF:-1, Argentina: La Pampa
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-l.m3u
+
+#EXTINF:-1, Argentina: La Rioja
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-f.m3u
+
+#EXTINF:-1, Argentina: Mendoza
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-m.m3u
+
+
+#EXTINF:-1, Argentina: Misiones
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-n.m3u
+
+#EXTINF:-1, Argentina: Neuquen
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-q.m3u
+
+#EXTINF:-1, Argentina: Rio Negro
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ar-r.m3u
+
+#EXTINF:-1, Argentina: 
+#EXTGRP: Country
+
+
+#EXTINF:-1, Argentina: 
+#EXTGRP: Country
+
+#EXTINF:-1, Argentina: 
+#EXTGRP: Country
+
+
+#EXTINF:-1, Argentina: 
+#EXTGRP: Country
+
+#EXTINF:-1, Argentina: 
+#EXTGRP: Country
+
+
+#EXTINF:-1, Argentina: 
+#EXTGRP: Country
+
+
+      Salta	5	https://iptv-org.github.io/iptv/subdivisions/ar-a.m3u
+      San Juan	5	https://iptv-org.github.io/iptv/subdivisions/ar-j.m3u
+      San Luis	1	https://iptv-org.github.io/iptv/subdivisions/ar-d.m3u
+      Santa Cruz	2	https://iptv-org.github.io/iptv/subdivisions/ar-z.m3u
+      Santa Fe	5	https://iptv-org.github.io/iptv/subdivisions/ar-s.m3u
+      Tucuman	4	https://iptv-org.github.io/iptv/subdivisions/ar-t.m3u
+
+
+
+
 #EXTINF:-1, Antarctica
 #EXTGRP: Country
 https://iptv-org.github.io/iptv/countries/aq.m3u
@@ -168,17 +263,9 @@ https://iptv-org.github.io/iptv/countries/as.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/at.m3u
 
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/at_samsung.m3u
-
 #EXTINF:-1, Australia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au_samsung.m3u
 
 #EXTINF:-1, Aruba
 #EXTGRP: Country
@@ -200,17 +287,9 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bb.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u
 
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd_jagobd.m3u
-
 #EXTINF:-1, Belgium
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/be.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/be_samsung.m3u
 
 #EXTINF:-1, Burkina Faso
 #EXTGRP: Country
@@ -248,14 +327,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bq.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br.m3u
 
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_pluto.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_samsung.m3u
-
 #EXTINF:-1, Bahamas
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bs.m3u
@@ -276,10 +347,6 @@ https://iptv-org.github.io/iptv/countries/bw.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/by.m3u
 
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/by_sluhay.m3u
-
 #EXTINF:-1, Belize
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bz.m3u
@@ -287,14 +354,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bz.m3u
 #EXTINF:-1, Canada
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_samsung.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_stingray.m3u
 
 #EXTINF:-1, Democratic Republic of the Congo	
 #EXTGRP: Country
@@ -307,10 +366,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cg.m3u
 #EXTINF:-1, Switzerland
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ch.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ch_samsung.m3u
 
 #EXTINF:-1, Ivory Coast
 #EXTGRP: Country
@@ -360,22 +415,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cz.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de.m3u
 
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_adultswim.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_pluto.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_rakuten.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_samsung.m3u
-
 #EXTINF:-1, Djibouti
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dj.m3u
@@ -383,10 +422,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dj.m3u
 #EXTINF:-1, Denmark
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dk.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dk_samsung.m3u
 
 #EXTINF:-1, Dominican Republic
 #EXTGRP: Country
@@ -416,18 +451,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/eh.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es.m3u
 
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_pluto.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_rakuten.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_samsung.m3u
-
 #EXTINF:-1, Ethiopia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/et.m3u
@@ -435,14 +458,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/et.m3u
 #EXTINF:-1, Finland
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_rakuten.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_samsung.m3u
 
 #EXTINF:-1, Fiji
 #EXTGRP: Country
@@ -455,22 +470,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fo.m3u
 #EXTINF:-1, France
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_euronews.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_pluto.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_rakuten.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_samsung.m3u
 
 #EXTINF:-1, Gabon
 #EXTGRP: Country
@@ -540,10 +539,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/id.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ie.m3u
 
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ie_samsung.m3u
-
 #EXTINF:-1, Israel
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/il.m3u
@@ -551,10 +546,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/il.m3u
 #EXTINF:-1, India
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in_samsung.m3u
 
 #EXTINF:-1, Iraq
 #EXTGRP: Country
@@ -571,14 +562,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/is.m3u
 #EXTINF:-1, Italy
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/it.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/it_rakuten.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/it_samsung.m3u
 
 #EXTINF:-1, Jamaica
 #EXTGRP: Country
@@ -643,10 +626,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lt.m3u
 #EXTINF:-1, Luxembourg
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lu.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lu_samsung.m3u
 
 #EXTINF:-1, Latvia
 #EXTGRP: Country
@@ -716,14 +695,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mw.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx.m3u
 
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx_pluto.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx_samsung.m3u
-
 #EXTINF:-1, Malaysia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/my.m3u
@@ -748,17 +719,9 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ni.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nl.m3u
 
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nl_samsung.m3u
-
 #EXTINF:-1, Norway
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/no.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/no_samsung.m3u
 
 #EXTINF:-1, Nepal
 #EXTGRP: Country
@@ -767,10 +730,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/np.m3u
 #EXTINF:-1, New Zealand
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nz.m3u
-
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nz_samsung.m3u
 
 #EXTINF:-1, Oman
 #EXTGRP: Country
@@ -812,10 +771,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ps.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt.m3u
 
-	#EXTINF:-1, 
-	#EXTGRP: Country
-	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt_samsung.m3u
-
 #EXTINF:-1, Paraguay
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/py.m3u
@@ -832,279 +787,151 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ro.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/rs.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Russia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_catcast.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_okkotv.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, Rwanda
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/rw.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Saudi Arabia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sa.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Sudan
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sd.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Sweden
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/se.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/se_samsung.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, Singapore
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sg.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Slovenia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/si.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Slovakia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sk.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Sierra Leone
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sl.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, San Marino
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sm.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Senegal
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sn.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Somalia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/so.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, El Salvador
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sv.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Syria
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sy.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Chad
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/td.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Thailand
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/th.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Tajikistan
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tj.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, East Timor
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tl.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Turkmenistan
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tm.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Tunisia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tn.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Turkey
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Trinidad and Tobago
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tt.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Taiwan
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Tanzania
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tz.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Ukraine
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ua.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Uganda
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ug.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, United Kingdom
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_channelbox.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_pluto.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_rakuten.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_sportstribal.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, United States
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_adultiptv.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_adultswim.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_bumblebee.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_distro.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_fubo.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_glewedtv.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_imdbtv.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_klowdtv.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_localbtv.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pbs.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_plex.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pluto.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_redbox.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_redtraffic.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_roku.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_simultv.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_ssh101.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_stirr.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_tcl.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_tubi.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_vizio.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_wfmz.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_xumo.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, Uruguay
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uy.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Uzbekistan
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uz.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Vatican City
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/va.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Venezuela
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ve.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Vietnam
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/vn.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Kosovo
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/xk.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Yemen
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ye.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, South Africa
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/za.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Zambia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/zm.m3u
 
@@ -1627,3 +1454,276 @@ https://iptv-org.github.io/iptv/regions/wafr.m3u
 #EXTINF:-1, Worldwide
 #EXTGRP: Region
 https://iptv-org.github.io/iptv/regions/int.m3u
+
+
+
+
+
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_pluto.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/by_sluhay.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_stingray.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ch_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_adultswim.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_pluto.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_rakuten.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dk_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_pluto.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_rakuten.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_rakuten.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_euronews.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_pluto.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_rakuten.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ie_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/it_rakuten.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/it_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lu_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx_pluto.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nl_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/no_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nz_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_catcast.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_okkotv.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/se_samsung.m3u
+
+#EXTINF:-1, Adult/fubo
+#EXTGRP: Other
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_adultiptv.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_adultswim.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_bumblebee.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_distro.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_fubo.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_glewedtv.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_imdbtv.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_klowdtv.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_localbtv.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/at_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd_jagobd.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/be_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pbs.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_plex.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pluto.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_redbox.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_redtraffic.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_roku.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_samsung.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_simultv.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_ssh101.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_stirr.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_tcl.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_tubi.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_vizio.m3u
+
+#EXTINF:-1, 
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_wfmz.m3u
+
+#EXTINF:-1, Xumo [US]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_xumo.m3u
+
+#EXTINF:-1, Channel Box [UK]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_channelbox.m3u
+
+#EXTINF:-1, Pluto [UK]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_pluto.m3u
+
+#EXTINF:-1, Rakuten [UK]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_rakuten.m3u
+
+#EXTINF:-1, Samsung TV Plus [UK]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_samsung.m3u
+
+#EXTINF:-1, Sports Tribal [UK]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_sportstribal.m3u
