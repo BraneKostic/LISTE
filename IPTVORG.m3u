@@ -804,31 +804,31 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pl.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pr.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Palestine
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ps.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Portugal
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt_samsung.m3u
+	#EXTINF:-1, 
+	#EXTGRP: Country
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt_samsung.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Paraguay
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/py.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Qatar
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/qa.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Romania
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ro.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Serbia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/rs.m3u
 

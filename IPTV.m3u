@@ -18,6 +18,12 @@ http://45.148.146.205:8080/get.php?username=Whq2rYu3w9Y6&password=u35MCc6TsUea&t
 #EXTINF:-1, 45.148.146.205
 http://45.148.146.205:8080/get.php?username=kaantvkaynak1asdsadas&password=TNBwcUEDaeasdada&type=m3u_plus
 
+#EXTINF:-1, 185.53.88.103
+http://185.53.88.103:88/get.php?username=225595650955128&password=225595650955128&type=m3u_plus
+
+#EXTINF:-1, iptvtree.net
+http://iptvtree.net:8080/get.php?username=iptvdenon&password=953486b14f&type=m3u_plus
+
 #EXTINF:-1, 
 
 #EXTINF:-1, Spanish
