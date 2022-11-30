@@ -1,16 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1, iptvtree.net
-http://iptvtree.net:8080/get.php?username=Houngst20001&password=QE02A8R8WV4XHK3B&type=m3u
-
 #EXTINF:-1, lishb.com
-http://lishb.com:8080/get.php?username=joni_giacomel&password=joni99674&type=m3u
+http://lishb.com:8080/get.php?username=joni_giacomel&password=joni99674&type=m3u_plus
 
 #EXTINF:-1, nordicstream.xyz
-http://nordicstream.xyz:2095/get.php?username=q8r8D5gHvh&password=ZmovhgMYOa&type=m3u
+http://nordicstream.xyz:2095/get.php?username=q8r8D5gHvh&password=ZmovhgMYOa&type=m3u_plus
 
-#EXTINF:-1, ottsansat.com
-http://ottsansat.com:25461/get.php?username=02021717490704&password=8923333299&type=m3u
+#EXTINF:-1, 2111 space
+http://2111.space:8080/get.php?username=samy&password=samy&type=m3u_plus
+
+#EXTINF:-1, link.comstar.tv
+http://link.comstar.tv:8080/get.php?username=live:geniptvservice&password=kdksiwjdjkkskkznnbuu&type=m3u_plus
+
+#EXTINF:-1, 45.148.146.205
+http://45.148.146.205:8080/get.php?username=Whq2rYu3w9Y6&password=u35MCc6TsUea&type=m3u_plus
+
+#EXTINF:-1, 45.148.146.205
+http://45.148.146.205:8080/get.php?username=kaantvkaynak1asdsadas&password=TNBwcUEDaeasdada&type=m3u_plus
+
+#EXTINF:-1, 
 
 #EXTINF:-1, Spanish
 http://45.179.140.242:8000/playlist.m3u8
