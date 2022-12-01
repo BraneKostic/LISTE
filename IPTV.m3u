@@ -3,6 +3,9 @@
 #EXTINF:-1, IPTV 1
 http://lishb.com:8080/get.php?username=joni_giacomel&password=joni99674&type=m3u_plus
 
+#EXTINF:-1, IPTV 1-2
+http://lishb.com:8080/get.php?username=joni_giacomel&password=joni99674&type=m3u
+
 #EXTINF:-1, IPTV 2
 http://nordicstream.xyz:2095/get.php?username=q8r8D5gHvh&password=ZmovhgMYOa&type=m3u_plus
 
