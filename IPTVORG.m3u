@@ -386,6 +386,10 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ch.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ci.m3u
 
+#EXTINF:-1, Cambodia
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kh.m3u
+
 #EXTINF:-1, Chile
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cl.m3u
@@ -733,45 +737,78 @@ https://iptv-org.github.io/iptv/subdivisions/id-kb.m3u
 #EXTGRP: Country
 https://iptv-org.github.io/iptv/subdivisions/id-ks.m3u
 
-#EXTINF:-1, Indonesia: 
+#EXTINF:-1, Indonesia: Kalimantan Tengah
 #EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-kt.m3u
 
-
-#EXTINF:-1, Indonesia: 
+#EXTINF:-1, Indonesia: Kalimantan Timur
 #EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ki.m3u
 
-
-#EXTINF:-1, Indonesia: 
+#EXTINF:-1, Indonesia: Kepulauan Bangka Belitung
 #EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-bb.m3u
 
-
-#EXTINF:-1, Indonesia: 
+#EXTINF:-1, Indonesia: Lampung
 #EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-la.m3u
 
-
-#EXTINF:-1, Indonesia: 
+#EXTINF:-1, Indonesia: Maluku Utara
 #EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-mu.m3u
 
+#EXTINF:-1, Indonesia: Maluku
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ml.m3u
 
-      Kalimantan Tengah	1	https://iptv-org.github.io/iptv/subdivisions/id-kt.m3u
-      Kalimantan Timur	1	https://iptv-org.github.io/iptv/subdivisions/id-ki.m3u
-      Kepulauan Bangka Belitung	1	https://iptv-org.github.io/iptv/subdivisions/id-bb.m3u
-      Lampung	3	https://iptv-org.github.io/iptv/subdivisions/id-la.m3u
-      Maluku Utara	1	https://iptv-org.github.io/iptv/subdivisions/id-mu.m3u
-      Maluku	1	https://iptv-org.github.io/iptv/subdivisions/id-ml.m3u
-      Nusa Tenggara Barat	1	https://iptv-org.github.io/iptv/subdivisions/id-nb.m3u
-      Nusa Tenggara Timur	1	https://iptv-org.github.io/iptv/subdivisions/id-nt.m3u
-      Papua	2	https://iptv-org.github.io/iptv/subdivisions/id-pp.m3u
-      Riau	3	https://iptv-org.github.io/iptv/subdivisions/id-ri.m3u
-      Sulawesi Barat	1	https://iptv-org.github.io/iptv/subdivisions/id-sr.m3u
-      Sulawesi Selatan	2	https://iptv-org.github.io/iptv/subdivisions/id-sn.m3u
-      Sulawesi Tengah	1	https://iptv-org.github.io/iptv/subdivisions/id-st.m3u
-      Sulawesi Tenggara	1	https://iptv-org.github.io/iptv/subdivisions/id-sg.m3u
-      Sulawesi Utara	1	https://iptv-org.github.io/iptv/subdivisions/id-sa.m3u
-      Sumatera Barat	2	https://iptv-org.github.io/iptv/subdivisions/id-sb.m3u
-      Sumatera Selatan	2	https://iptv-org.github.io/iptv/subdivisions/id-ss.m3u
-      Yogyakarta	3	https://iptv-org.github.io/iptv/subdivisions/id-yo.m3u
-      
+#EXTINF:-1, Indonesia: Nusa Tenggara Barat
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-nb.m3u
+
+#EXTINF:-1, Indonesia: Nusa Tenggara Timur
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-nt.m3u
+
+#EXTINF:-1, Indonesia: Papua
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-pp.m3u
+
+#EXTINF:-1, Indonesia: Riau
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ri.m3u
+
+#EXTINF:-1, Indonesia: Sulawesi Barat
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-sr.m3u
+
+#EXTINF:-1, Indonesia: Sulawesi Selatan
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-sn.m3u
+
+#EXTINF:-1, Indonesia: Sulawesi Tengah
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-st.m3u
+
+#EXTINF:-1, Indonesia: Sulawesi Tenggara
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-sg.m3u
+
+#EXTINF:-1, Indonesia: Sulawesi Utara
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-sa.m3u
+
+#EXTINF:-1, Indonesia: Sumatera Barat
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-sb.m3u
+
+#EXTINF:-1, Indonesia: Sumatera Selatan
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ss.m3u
+
+#EXTINF:-1, Indonesia: Yogyakarta
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-yo.m3u
+
 #EXTINF:-1, Ireland
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ie.m3u
@@ -816,13 +853,13 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/jp.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ke.m3u
 
+#EXTINF:-1, Kosovo
+#EXTGRP: Country
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/xk.m3u
+
 #EXTINF:-1, Kyrgyzstan
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kg.m3u
-
-#EXTINF:-1, Cambodia
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kh.m3u
 
 #EXTINF:-1, North Korea
 #EXTGRP: Country
@@ -832,17 +869,46 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kp.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u
 
-      Busan-gwangyeoksi	2	https://iptv-org.github.io/iptv/subdivisions/kr-26.m3u
-      Chungcheongbuk-do	2	https://iptv-org.github.io/iptv/subdivisions/kr-43.m3u
-      Daegu-gwangyeoksi	2	https://iptv-org.github.io/iptv/subdivisions/kr-27.m3u
-      Daejeon-gwangyeoksi	1	https://iptv-org.github.io/iptv/subdivisions/kr-30.m3u
-      Gangwon-do	1	https://iptv-org.github.io/iptv/subdivisions/kr-42.m3u
-      Gyeongsangbuk-do	1	https://iptv-org.github.io/iptv/subdivisions/kr-47.m3u
-      Jeju-teukbyeoljachido	2	https://iptv-org.github.io/iptv/subdivisions/kr-49.m3u
-      Jeollabuk-do	1	https://iptv-org.github.io/iptv/subdivisions/kr-45.m3u
-      Jeollanam-do	4	https://iptv-org.github.io/iptv/subdivisions/kr-46.m3u
-      Ulsan-gwangyeoksi	2	https://iptv-org.github.io/iptv/subdivisions/kr-31.m3u
-      
+#EXTINF:-1, South Korea:  Busan-gwangyeoksi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-26.m3u
+
+#EXTINF:-1, South Korea: Chungcheongbuk-do
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-43.m3u
+
+#EXTINF:-1, South Korea: Daegu-gwangyeoksi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-27.m3u
+
+#EXTINF:-1, South Korea: Daejeon-gwangyeoksi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-30.m3u
+
+#EXTINF:-1, South Korea: Gangwon-do
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-42.m3u
+
+#EXTINF:-1, South Korea: Gyeongsangbuk-do
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-47.m3u
+
+#EXTINF:-1, South Korea: Jeju-teukbyeoljachido
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-49.m3u
+
+#EXTINF:-1, South Korea: Jeollabuk-do
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-45.m3u
+
+#EXTINF:-1, South Korea: Jeollanam-do
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-46.m3u
+
+#EXTINF:-1, South Korea: Ulsan-gwangyeoksi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/kr-31.m3u
+
 #EXTINF:-1, Kuwait
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kw.m3u
@@ -943,23 +1009,70 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mw.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx.m3u
 
-      Aguascalientes	1	https://iptv-org.github.io/iptv/subdivisions/mx-agu.m3u
-      Baja California	1	https://iptv-org.github.io/iptv/subdivisions/mx-bcn.m3u
-      Chihuahua	1	https://iptv-org.github.io/iptv/subdivisions/mx-chh.m3u
-      Ciudad de Mexico	1	https://iptv-org.github.io/iptv/subdivisions/mx-cmx.m3u
-      Coahuila de Zaragoza	1	https://iptv-org.github.io/iptv/subdivisions/mx-coa.m3u
-      Guerrero	1	https://iptv-org.github.io/iptv/subdivisions/mx-gro.m3u
-      Mexico	1	https://iptv-org.github.io/iptv/subdivisions/mx-mex.m3u
-      Nuevo Leon	1	https://iptv-org.github.io/iptv/subdivisions/mx-nle.m3u
-      Puebla	1	https://iptv-org.github.io/iptv/subdivisions/mx-pue.m3u
-      Queretaro	1	https://iptv-org.github.io/iptv/subdivisions/mx-que.m3u
-      Quintana Roo	1	https://iptv-org.github.io/iptv/subdivisions/mx-roo.m3u
-      San Luis Potosi	1	https://iptv-org.github.io/iptv/subdivisions/mx-slp.m3u
-      Sinaloa	1	https://iptv-org.github.io/iptv/subdivisions/mx-sin.m3u
-      Sonora	1	https://iptv-org.github.io/iptv/subdivisions/mx-son.m3u
-      Tamaulipas	2	https://iptv-org.github.io/iptv/subdivisions/mx-tam.m3u
-      Zacatecas	1	https://iptv-org.github.io/iptv/subdivisions/mx-zac.m3u
-      
+#EXTINF:-1, Mexico: Aguascalientes
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-agu.m3u
+
+#EXTINF:-1, Mexico: Baja California
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-bcn.m3u
+
+#EXTINF:-1, Mexico: Chihuahua
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-chh.m3u
+
+#EXTINF:-1, Mexico: Ciudad de Mexico
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-cmx.m3u
+
+#EXTINF:-1, Mexico: Coahuila de Zaragoza
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-coa.m3u
+
+#EXTINF:-1, Mexico: Guerrero
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-gro.m3u
+
+#EXTINF:-1, Mexico: Mexico
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-mex.m3u
+
+#EXTINF:-1, Mexico: Nuevo Leon
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-nle.m3u
+
+#EXTINF:-1, Mexico: Puebla
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-pue.m3u
+
+#EXTINF:-1, Mexico: Queretaro
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-que.m3u
+
+#EXTINF:-1, Mexico: Quintana Roo
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-roo.m3u
+
+#EXTINF:-1, Mexico: San Luis Potosi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-slp.m3u
+
+#EXTINF:-1, Mexico: Sinaloa
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-sin.m3u
+
+#EXTINF:-1, Mexico: Sonora
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-son.m3u
+
+#EXTINF:-1, Mexico: Tamaulipas
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-tam.m3u
+
+#EXTINF:-1, Mexico: Zacatecas
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/mx-zac.m3u
+  
 #EXTINF:-1, Malaysia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/my.m3u
@@ -1008,13 +1121,30 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pa.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pe.m3u
 
-      Ancash	1	https://iptv-org.github.io/iptv/subdivisions/pe-anc.m3u
-      Apurimac	1	https://iptv-org.github.io/iptv/subdivisions/pe-apu.m3u
-      Arequipa	1	https://iptv-org.github.io/iptv/subdivisions/pe-are.m3u
-      Junin	3	https://iptv-org.github.io/iptv/subdivisions/pe-jun.m3u
-      Lima	1	https://iptv-org.github.io/iptv/subdivisions/pe-lim.m3u
-      Piura	1	https://iptv-org.github.io/iptv/subdivisions/pe-piu.m3u
-      
+#EXTINF:-1, Peru: Ancash
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pe-anc.m3u
+
+#EXTINF:-1, Peru: Apurimac
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pe-apu.m3u
+
+#EXTINF:-1, Peru: Arequipa
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pe-are.m3u
+
+#EXTINF:-1, Peru: Junin
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pe-jun.m3u
+
+#EXTINF:-1, Peru: Lima
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pe-lim.m3u
+
+#EXTINF:-1, Peru: Piura
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pe-piu.m3u
+
 #EXTINF:-1, French Polynesia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pf.m3u
@@ -1027,7 +1157,9 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ph.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pk.m3u
 
-      Islamabad	1	https://iptv-org.github.io/iptv/subdivisions/pk-is.m3u
+#EXTINF:-1, Pakistan: Islamabad
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/pk-is.m3u
       
 #EXTINF:-1, Poland
 #EXTGRP: Country
@@ -1049,13 +1181,30 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/py.m3u
 
-      Alto Parana	2	https://iptv-org.github.io/iptv/subdivisions/py-10.m3u
-      Boqueron	1	https://iptv-org.github.io/iptv/subdivisions/py-19.m3u
-      Caaguazu	1	https://iptv-org.github.io/iptv/subdivisions/py-5.m3u
-      Central	1	https://iptv-org.github.io/iptv/subdivisions/py-11.m3u
-      Itapua	1	https://iptv-org.github.io/iptv/subdivisions/py-7.m3u
-      Presidente Hayes	1	https://iptv-org.github.io/iptv/subdivisions/py-15.m3u
-      
+#EXTINF:-1, Paraguay: Alto Parana
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/py-10.m3u
+
+#EXTINF:-1, Paraguay: Boqueron
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/py-19.m3u
+
+#EXTINF:-1, Paraguay: Caaguazu
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/py-5.m3u
+
+#EXTINF:-1, Paraguay: Central
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/py-11.m3u
+
+#EXTINF:-1, Paraguay: Itapua
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/py-7.m3u
+
+#EXTINF:-1, Paraguay: Presidente Hayes
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/py-15.m3u
+
 #EXTINF:-1, Qatar
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/qa.m3u
@@ -1176,65 +1325,218 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ug.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk.m3u
 
-      Wales	2	https://iptv-org.github.io/iptv/subdivisions/gb-wls.m3u
-      
+#EXTINF:-1, United Kingdom: Wales
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/gb-wls.m3u
+
 #EXTINF:-1, United States
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u
 
-      Alabama	4	https://iptv-org.github.io/iptv/subdivisions/us-al.m3u
-      Alaska	2	https://iptv-org.github.io/iptv/subdivisions/us-ak.m3u
-      Arizona	17	https://iptv-org.github.io/iptv/subdivisions/us-az.m3u
-      Arkansas	6	https://iptv-org.github.io/iptv/subdivisions/us-ar.m3u
-      California	159	https://iptv-org.github.io/iptv/subdivisions/us-ca.m3u
-      Colorado	21	https://iptv-org.github.io/iptv/subdivisions/us-co.m3u
-      Connecticut	27	https://iptv-org.github.io/iptv/subdivisions/us-ct.m3u
-      Delaware	4	https://iptv-org.github.io/iptv/subdivisions/us-de.m3u
-      District of Columbia	8	https://iptv-org.github.io/iptv/subdivisions/us-dc.m3u
-      Florida	64	https://iptv-org.github.io/iptv/subdivisions/us-fl.m3u
-      Georgia	12	https://iptv-org.github.io/iptv/subdivisions/us-ga.m3u
-      Hawaii	6	https://iptv-org.github.io/iptv/subdivisions/us-hi.m3u
-      Idaho	2	https://iptv-org.github.io/iptv/subdivisions/us-id.m3u
-      Illinois	11	https://iptv-org.github.io/iptv/subdivisions/us-il.m3u
-      Indiana	8	https://iptv-org.github.io/iptv/subdivisions/us-in.m3u
-      Iowa	5	https://iptv-org.github.io/iptv/subdivisions/us-ia.m3u
-      Kansas	14	https://iptv-org.github.io/iptv/subdivisions/us-ks.m3u
-      Kentucky	8	https://iptv-org.github.io/iptv/subdivisions/us-ky.m3u
-      Louisiana	7	https://iptv-org.github.io/iptv/subdivisions/us-la.m3u
-      Maine	3	https://iptv-org.github.io/iptv/subdivisions/us-me.m3u
-      Maryland	3	https://iptv-org.github.io/iptv/subdivisions/us-md.m3u
-      Massachusetts	7	https://iptv-org.github.io/iptv/subdivisions/us-ma.m3u
-      Michigan	9	https://iptv-org.github.io/iptv/subdivisions/us-mi.m3u
-      Minnesota	6	https://iptv-org.github.io/iptv/subdivisions/us-mn.m3u
-      Mississippi	4	https://iptv-org.github.io/iptv/subdivisions/us-ms.m3u
-      Missouri	6	https://iptv-org.github.io/iptv/subdivisions/us-mo.m3u
-      Montana	1	https://iptv-org.github.io/iptv/subdivisions/us-mt.m3u
-      Nebraska	3	https://iptv-org.github.io/iptv/subdivisions/us-ne.m3u
-      Nevada	3	https://iptv-org.github.io/iptv/subdivisions/us-nv.m3u
-      New Hampshire	2	https://iptv-org.github.io/iptv/subdivisions/us-nh.m3u
-      New Jersey	12	https://iptv-org.github.io/iptv/subdivisions/us-nj.m3u
-      New Mexico	4	https://iptv-org.github.io/iptv/subdivisions/us-nm.m3u
-      New York	41	https://iptv-org.github.io/iptv/subdivisions/us-ny.m3u
-      North Carolina	7	https://iptv-org.github.io/iptv/subdivisions/us-nc.m3u
-      North Dakota	4	https://iptv-org.github.io/iptv/subdivisions/us-nd.m3u
-      Ohio	13	https://iptv-org.github.io/iptv/subdivisions/us-oh.m3u
-      Oklahoma	2	https://iptv-org.github.io/iptv/subdivisions/us-ok.m3u
-      Oregon	3	https://iptv-org.github.io/iptv/subdivisions/us-or.m3u
-      Pennsylvania	24	https://iptv-org.github.io/iptv/subdivisions/us-pa.m3u
-      Puerto Rico	2	https://iptv-org.github.io/iptv/subdivisions/us-pr.m3u
-      Rhode Island	1	https://iptv-org.github.io/iptv/subdivisions/us-ri.m3u
-      South Carolina	2	https://iptv-org.github.io/iptv/subdivisions/us-sc.m3u
-      South Dakota	1	https://iptv-org.github.io/iptv/subdivisions/us-sd.m3u
-      Tennessee	12	https://iptv-org.github.io/iptv/subdivisions/us-tn.m3u
-      Texas	30	https://iptv-org.github.io/iptv/subdivisions/us-tx.m3u
-      Utah	1	https://iptv-org.github.io/iptv/subdivisions/us-ut.m3u
-      Vermont	1	https://iptv-org.github.io/iptv/subdivisions/us-vt.m3u
-      Virginia	4	https://iptv-org.github.io/iptv/subdivisions/us-va.m3u
-      Washington	12	https://iptv-org.github.io/iptv/subdivisions/us-wa.m3u
-      Wisconsin	8	https://iptv-org.github.io/iptv/subdivisions/us-wi.m3u
-      Wyoming	1	https://iptv-org.github.io/iptv/subdivisions/us-wy.m3u
-      
-      
+#EXTINF:-1, United States: Alabama
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-al.m3u
+
+#EXTINF:-1, United States: Alaska
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ak.m3u
+
+#EXTINF:-1, United States: Arizona
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-az.m3u
+
+#EXTINF:-1, United States: Arkansas
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ar.m3u
+
+#EXTINF:-1, United States: California
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ca.m3u
+
+#EXTINF:-1, United States: California
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-co.m3u
+
+#EXTINF:-1, United States: Connecticut
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ct.m3u
+
+#EXTINF:-1, United States: Delaware
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-de.m3u
+
+#EXTINF:-1, United States: District of Columbia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-dc.m3u
+
+#EXTINF:-1, United States: Florida
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-fl.m3u
+
+#EXTINF:-1, United States: Georgia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ga.m3u
+
+#EXTINF:-1, United States: Hawaii
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-hi.m3u
+
+#EXTINF:-1, United States: Idaho
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-id.m3u
+
+#EXTINF:-1, United States: Illinois
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-il.m3u
+
+#EXTINF:-1, United States: Indiana
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-in.m3u
+
+#EXTINF:-1, United States: Iowa
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ia.m3u
+
+#EXTINF:-1, United States: Kansas
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ks.m3u
+
+#EXTINF:-1, United States: Kentucky
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ky.m3u
+
+#EXTINF:-1, United States: Louisiana
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-la.m3u
+
+#EXTINF:-1, United States: Maine
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-me.m3u
+
+#EXTINF:-1, United States: Maryland
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-md.m3u
+
+#EXTINF:-1, United States: Massachusetts
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ma.m3u
+
+#EXTINF:-1, United States: Michigan
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-mi.m3u
+
+#EXTINF:-1, United States: Minnesota
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-mn.m3u
+
+#EXTINF:-1, United States: Mississippi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ms.m3u
+
+#EXTINF:-1, United States: Missouri
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-mo.m3u
+
+#EXTINF:-1, United States: Montana
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-mt.m3u
+
+#EXTINF:-1, United States: Nebraska
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ne.m3u
+
+#EXTINF:-1, United States: Nevada
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-nv.m3u
+
+#EXTINF:-1, United States: New Hampshire
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-nh.m3u
+
+#EXTINF:-1, United States: New Jersey
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-nj.m3u
+
+#EXTINF:-1, United States: New Mexico
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-nm.m3u
+
+#EXTINF:-1, United States: New York
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ny.m3u
+
+#EXTINF:-1, United States: North Carolina
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-nc.m3u
+
+#EXTINF:-1, United States: North Dakota
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-nd.m3u
+
+#EXTINF:-1, United States: Ohio
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-oh.m3u
+
+#EXTINF:-1, United States: Oklahoma
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ok.m3u
+
+#EXTINF:-1, United States: Oregon
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-or.m3u
+
+#EXTINF:-1, United States: Pennsylvania
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-pa.m3u
+
+#EXTINF:-1, United States: Puerto Rico
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-pr.m3u
+
+#EXTINF:-1, United States: Rhode Island
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ri.m3u
+
+#EXTINF:-1, United States: South Carolina
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-sc.m3u
+
+#EXTINF:-1, United States: South Dakota
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-sd.m3u
+
+#EXTINF:-1, United States: Tennessee
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-tn.m3u
+
+#EXTINF:-1, United States: Texas
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-tx.m3u
+
+#EXTINF:-1, United States: Utah
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-ut.m3u
+
+#EXTINF:-1, United States: Vermont
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-vt.m3u
+
+#EXTINF:-1, United States: Virginia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-va.m3u
+
+#EXTINF:-1, United States: Washington
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-wa.m3u
+
+#EXTINF:-1, United States: Wisconsin
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-wi.m3u
+
+#EXTINF:-1, United States: Wyoming
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/us-wy.m3u
+
 #EXTINF:-1, Uruguay
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uy.m3u
@@ -1254,10 +1556,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ve.m3u
 #EXTINF:-1, Vietnam
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/vn.m3u
-
-#EXTINF:-1, Kosovo
-#EXTGRP: Country
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/xk.m3u
 
 #EXTINF:-1, Yemen
 #EXTGRP: Country
