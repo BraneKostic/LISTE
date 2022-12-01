@@ -29,33 +29,3 @@ https://raw.githubusercontent.com/BraneKostic/LISTE/main/IPTV09.m3u
 
 #EXTINF:-1, IPTV 10
 https://raw.githubusercontent.com/BraneKostic/LISTE/main/IPTV10.m3u
-
-#EXTINF:-1, IPTV 11
-http://45.179.140.242:8000/playlist.m3u8
-
-#EXTINF:-1, IPTV 12
-http://50.7.149.34:8001/playlist.m3u
-
-#EXTINF:-1, IPTV 13
-http://62.176.77.22:9781/playlist.m3u
-
-#EXTINF:-1, IPTV 14
-http://46.10.218.219:8000/playlist.m3u
-
-#EXTINF:-1, IPTV 15
-http://185.44.211.20:18071/playlist.m3u
-
-#EXTINF:-1, IPTV 16
-http://149.62.183.198:8001/playlist.m3u
-
-#EXTINF:-1, IPTV 17
-http://163.172.87.151:8000/playlist.m3u
-
-#EXTINF:-1, IPTV 18
-http://92.246.85.119:8000/playlist.m3u
-
-#EXTINF:-1, IPTV 19
-http://82.197.214.59:4000/playlist.m3u
-
-#EXTINF:-1, IPTV 20
-http://62.131.92.221:60030/playlist.m3u
