@@ -156,8 +156,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ao.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ar.m3u
 
-
-
 #EXTINF:-1, Argentina: Buenos Aires
 #EXTGRP: Country
 https://iptv-org.github.io/iptv/subdivisions/ar-b.m3u
@@ -205,7 +203,6 @@ https://iptv-org.github.io/iptv/subdivisions/ar-f.m3u
 #EXTINF:-1, Argentina: Mendoza
 #EXTGRP: Country
 https://iptv-org.github.io/iptv/subdivisions/ar-m.m3u
-
 
 #EXTINF:-1, Argentina: Misiones
 #EXTGRP: Country
@@ -311,7 +308,8 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bn.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bo.m3u
 
-      Santa Cruz	1	https://iptv-org.github.io/iptv/subdivisions/bo-s.m3u
+#EXTINF:-1, Bolivia: Santa Cruz
+#EXTGRP: Country
 
 #EXTINF:-1, Bonaire
 #EXTGRP: Country
@@ -321,8 +319,9 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bq.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br.m3u
 
-      Rio de Janeiro	1	https://iptv-org.github.io/iptv/subdivisions/br-rj.m3u
-      
+#EXTINF:-1, Brazil: Rio de Janeiro
+#EXTGRP: Country
+
 #EXTINF:-1, Bahamas
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bs.m3u
@@ -351,13 +350,26 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bz.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca.m3u
 
-      British Columbia	2	https://iptv-org.github.io/iptv/subdivisions/ca-bc.m3u
-      Manitoba	1	https://iptv-org.github.io/iptv/subdivisions/ca-mb.m3u
-      New Brunswick	1	https://iptv-org.github.io/iptv/subdivisions/ca-nb.m3u
-      Newfoundland and Labrador	1	https://iptv-org.github.io/iptv/subdivisions/ca-nl.m3u
-      Quebec	5	https://iptv-org.github.io/iptv/subdivisions/ca-qc.m3u
-      
-      
+#EXTINF:-1, Canada: British Columbia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ca-bc.m3u
+
+#EXTINF:-1, Canada: Manitoba
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ca-mb.m3u
+
+#EXTINF:-1, Canada: New Brunswick
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ca-nb.m3u
+
+#EXTINF:-1, Canada: Newfoundland and Labrador
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ca-nl.m3u
+
+#EXTINF:-1, Canada: Quebec
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ca-qc.m3u
+
 #EXTINF:-1, Democratic Republic of the Congo	
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cd.m3u
@@ -378,8 +390,13 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ci.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cl.m3u
 
-      Magallanes	1	https://iptv-org.github.io/iptv/subdivisions/cl-ma.m3u
-      Nuble	1	https://iptv-org.github.io/iptv/subdivisions/cl-nb.m3u
+#EXTINF:-1, Chile: Magallanes
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/cl-ma.m3u
+
+#EXTINF:-1, Chile: Nuble
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/cl-nb.m3u
       
 #EXTINF:-1, Cameroon
 #EXTGRP: Country
@@ -393,23 +410,68 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/co.m3u
 
-      San Andres, Providencia y Santa Catalina	1	https://iptv-org.github.io/iptv/subdivisions/co-sap.m3u
-      Antioquia	1	https://iptv-org.github.io/iptv/subdivisions/co-ant.m3u
-      Atlantico	1	https://iptv-org.github.io/iptv/subdivisions/co-atl.m3u
-      Bolivar	1	https://iptv-org.github.io/iptv/subdivisions/co-bol.m3u
-      Caldas	1	https://iptv-org.github.io/iptv/subdivisions/co-cal.m3u
-      Cauca	1	https://iptv-org.github.io/iptv/subdivisions/co-cau.m3u
-      Choco	1	https://iptv-org.github.io/iptv/subdivisions/co-cho.m3u
-      Huila	1	https://iptv-org.github.io/iptv/subdivisions/co-hui.m3u
-      Magdalena	1	https://iptv-org.github.io/iptv/subdivisions/co-mag.m3u
-      Narino	1	https://iptv-org.github.io/iptv/subdivisions/co-nar.m3u
-      Norte de Santander	1	https://iptv-org.github.io/iptv/subdivisions/co-nsa.m3u
-      Quindio	2	https://iptv-org.github.io/iptv/subdivisions/co-qui.m3u
-      Risaralda	1	https://iptv-org.github.io/iptv/subdivisions/co-ris.m3u
-      Tolima	1	https://iptv-org.github.io/iptv/subdivisions/co-tol.m3u
-      Valle del Cauca	3	https://iptv-org.github.io/iptv/subdivisions/co-vac.m3u
-      
-      
+
+#EXTINF:-1, Colombia: San Andres, Providencia y Santa Catalina
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-sap.m3u
+
+
+#EXTINF:-1, Colombia: Antioquia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-ant.m3u
+
+#EXTINF:-1, Colombia: Atlantico
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-atl.m3u
+
+#EXTINF:-1, Colombia: Bolivar
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-bol.m3u
+
+#EXTINF:-1, Colombia: Caldas
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-cal.m3u
+
+#EXTINF:-1, Colombia: Cauca
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-cau.m3u
+
+#EXTINF:-1, Colombia:Choco
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-cho.m3u
+
+#EXTINF:-1, Colombia: Huila
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-hui.m3u
+
+#EXTINF:-1, Colombia: Magdalena
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-mag.m3u
+
+#EXTINF:-1, Colombia: Narino
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-nar.m3u
+
+#EXTINF:-1, Colombia: Norte de Santander
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-nsa.m3u
+
+#EXTINF:-1, Colombia: Quindio
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-qui.m3u
+
+#EXTINF:-1, Colombia: Risaralda
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-ris.m3u
+
+#EXTINF:-1, Colombia: Tolima
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-tol.m3u
+
+#EXTINF:-1, Colombia: Valle del Cauca
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/co-vac.m3u
+
 #EXTINF:-1, Costa Rica
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cr.m3u
@@ -422,10 +484,14 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cu.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cv.m3u
 
-      Boa Vista	1	https://iptv-org.github.io/iptv/subdivisions/cv-bv.m3u
-      Sal	1	https://iptv-org.github.io/iptv/subdivisions/cv-sl.m3u
-      
-      
+#EXTINF:-1, Cape Verde: Boa Vista
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/cv-bv.m3u
+
+#EXTINF:-1, Cape Verde: Sal
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/cv-sl.m3u
+
 #EXTINF:-1, Curacao
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cw.m3u
@@ -454,12 +520,26 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dk.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/do.m3u
 
-      Distrito Nacional (Santo Domingo)	1	https://iptv-org.github.io/iptv/subdivisions/do-01.m3u
-      El Seibo	1	https://iptv-org.github.io/iptv/subdivisions/do-08.m3u
-      La Altagracia	1	https://iptv-org.github.io/iptv/subdivisions/do-11.m3u
-      Monsenor Nouel	1	https://iptv-org.github.io/iptv/subdivisions/do-28.m3u
-      Santiago	1	https://iptv-org.github.io/iptv/subdivisions/do-25.m3u
-      
+#EXTINF:-1, Dominican Republic: Distrito Nacional (Santo Domingo)
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/do-01.m3u
+
+#EXTINF:-1, Dominican Republic: El Seibo
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/do-08.m3u
+
+#EXTINF:-1, Dominican Republic: La Altagracia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/do-11.m3u
+
+#EXTINF:-1, Dominican Republic: Monsenor Nouel
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/do-28.m3u
+
+#EXTINF:-1, Dominican Republic: Santiago
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/do-25.m3u
+
 #EXTINF:-1, Algeria
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dz.m3u
@@ -468,7 +548,9 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dz.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ec.m3u
 
-   Loja	1	https://iptv-org.github.io/iptv/subdivisions/ec-l.m3u
+#EXTINF:-1, Ecuador: Loja
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/ec-l.m3u
    
 #EXTINF:-1, Estonia
 #EXTGRP: Country
@@ -486,14 +568,34 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/eh.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es.m3u
 
-     Madrid, Comunidad de	1	https://iptv-org.github.io/iptv/subdivisions/es-md.m3u
-      Andalucia	11	https://iptv-org.github.io/iptv/subdivisions/es-an.m3u
-      Aragon	1	https://iptv-org.github.io/iptv/subdivisions/es-ar.m3u
-      Canarias	3	https://iptv-org.github.io/iptv/subdivisions/es-cn.m3u
-      Castilla-La Mancha	12	https://iptv-org.github.io/iptv/subdivisions/es-cm.m3u
-      Catalunya	6	https://iptv-org.github.io/iptv/subdivisions/es-ct.m3u
-      Extremadura	1	https://iptv-org.github.io/iptv/subdivisions/es-ex.m3u
-      
+#EXTINF:-1, Spain: Madrid, Comunidad de
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-md.m3u
+
+#EXTINF:-1, Spain: Andalucia
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-an.m3u
+
+#EXTINF:-1, Spain: Aragon
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-ar.m3u
+
+#EXTINF:-1, Spain: Canarias
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-cn.m3u
+
+#EXTINF:-1, Spain: Castilla-La Mancha
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-cm.m3u
+
+#EXTINF:-1, Spain: Catalunya
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-ct.m3u
+
+#EXTINF:-1, Spain: Extremadura
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/es-ex.m3u
+
 #EXTINF:-1, Ethiopia
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/et.m3u
@@ -502,7 +604,9 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/et.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi.m3u
 
-      Pohjanmaa	2	https://iptv-org.github.io/iptv/subdivisions/fi-12.m3u
+#EXTINF:-1, Finland: Pohjanmaa
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/fi-12.m3u
       
 #EXTINF:-1, Fiji
 #EXTGRP: Country
@@ -555,8 +659,10 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gr.m3u
 #EXTINF:-1, Guatemala
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gt.m3u
-    
-    Totonicapan	1	https://iptv-org.github.io/iptv/subdivisions/gt-08.m3u
+
+#EXTINF:-1, Guatemala: 
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/gt-08.m3u
     
 #EXTINF:-1, Hong Kong
 #EXTGRP: Country
@@ -582,17 +688,71 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hu.m3u
 #EXTGRP: Country
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/id.m3u
 
-    Aceh	2	https://iptv-org.github.io/iptv/subdivisions/id-ac.m3u
-      Bali	2	https://iptv-org.github.io/iptv/subdivisions/id-ba.m3u
-      Bengkulu	2	https://iptv-org.github.io/iptv/subdivisions/id-be.m3u
-      Gorontalo	1	https://iptv-org.github.io/iptv/subdivisions/id-go.m3u
-      Jakarta Raya	4	https://iptv-org.github.io/iptv/subdivisions/id-jk.m3u
-      Jambi	2	https://iptv-org.github.io/iptv/subdivisions/id-ja.m3u
-      Jawa Barat	7	https://iptv-org.github.io/iptv/subdivisions/id-jb.m3u
-      Jawa Tengah	6	https://iptv-org.github.io/iptv/subdivisions/id-jt.m3u
-      Jawa Timur	9	https://iptv-org.github.io/iptv/subdivisions/id-ji.m3u
-      Kalimantan Barat	2	https://iptv-org.github.io/iptv/subdivisions/id-kb.m3u
-      Kalimantan Selatan	1	https://iptv-org.github.io/iptv/subdivisions/id-ks.m3u
+
+#EXTINF:-1, Indonesia: Aceh
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ac.m3u
+
+#EXTINF:-1, Indonesia: Bali
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ba.m3u
+
+#EXTINF:-1, Indonesia: Bengkulu
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-be.m3u
+
+#EXTINF:-1, Indonesia: Gorontalo
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-go.m3u
+
+#EXTINF:-1, Indonesia: Jakarta Raya
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-jk.m3u
+
+#EXTINF:-1, Indonesia: Jambi
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ja.m3u
+
+#EXTINF:-1, Indonesia: Jawa Barat
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-jb.m3u
+
+#EXTINF:-1, Indonesia: Jawa Tengah
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-jt.m3u
+
+#EXTINF:-1, Indonesia: Jawa Timur
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ji.m3u
+
+#EXTINF:-1, Indonesia: Kalimantan Barat
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-kb.m3u
+
+#EXTINF:-1, Indonesia: Kalimantan Selatan
+#EXTGRP: Country
+https://iptv-org.github.io/iptv/subdivisions/id-ks.m3u
+
+#EXTINF:-1, Indonesia: 
+#EXTGRP: Country
+
+
+#EXTINF:-1, Indonesia: 
+#EXTGRP: Country
+
+
+#EXTINF:-1, Indonesia: 
+#EXTGRP: Country
+
+
+#EXTINF:-1, Indonesia: 
+#EXTGRP: Country
+
+
+#EXTINF:-1, Indonesia: 
+#EXTGRP: Country
+
+
       Kalimantan Tengah	1	https://iptv-org.github.io/iptv/subdivisions/id-kt.m3u
       Kalimantan Timur	1	https://iptv-org.github.io/iptv/subdivisions/id-ki.m3u
       Kepulauan Bangka Belitung	1	https://iptv-org.github.io/iptv/subdivisions/id-bb.m3u
