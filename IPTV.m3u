@@ -1,124 +1,61 @@
 #EXTM3U
 
 #EXTINF:-1, IPTV 1
-http://lishb.com:8080/get.php?username=joni_giacomel&password=joni99674&type=m3u_plus
-
-#EXTINF:-1, IPTV 1-2
-http://lishb.com:8080/get.php?username=joni_giacomel&password=joni99674&type=m3u
+https://raw.githubusercontent.com/BraneKostic/LISTE/main/IPTV01.m3u
 
 #EXTINF:-1, IPTV 2
-http://nordicstream.xyz:2095/get.php?username=q8r8D5gHvh&password=ZmovhgMYOa&type=m3u_plus
+https://raw.githubusercontent.com/BraneKostic/LISTE/main/IPTV02.m3u
 
 #EXTINF:-1, IPTV 3
-http://2111.space:8080/get.php?username=samy&password=samy&type=m3u_plus
+https://raw.githubusercontent.com/BraneKostic/LISTE/main/IPTV03.m3u
 
 #EXTINF:-1, IPTV 4
-http://link.comstar.tv:8080/get.php?username=live:geniptvservice&password=kdksiwjdjkkskkznnbuu&type=m3u_plus
+https://raw.githubusercontent.com/BraneKostic/LISTE/main/IPTV04.m3u
 
 #EXTINF:-1, IPTV 5
-http://45.148.146.205:8080/get.php?username=Whq2rYu3w9Y6&password=u35MCc6TsUea&type=m3u_plus
+https://raw.githubusercontent.com/BraneKostic/LISTE/main/IPTV05.m3u
 
 #EXTINF:-1, IPTV 6
-http://45.148.146.205:8080/get.php?username=kaantvkaynak1asdsadas&password=TNBwcUEDaeasdada&type=m3u_plus
+https://raw.githubusercontent.com/BraneKostic/LISTE/main/IPTV06.m3u
 
 #EXTINF:-1, IPTV 7
-http://185.53.88.103:88/get.php?username=225595650955128&password=225595650955128&type=m3u_plus
+https://raw.githubusercontent.com/BraneKostic/LISTE/main/IPTV07.m3u
 
 #EXTINF:-1, IPTV 8
-http://iptvtree.net:8080/get.php?username=iptvdenon&password=953486b14f&type=m3u_plus
+https://raw.githubusercontent.com/BraneKostic/LISTE/main/IPTV08.m3u
 
 #EXTINF:-1, IPTV 9
-http://tv2.challenge.tn:2052/get.php?username=222279&password=654326&type=m3u_plus
+https://raw.githubusercontent.com/BraneKostic/LISTE/main/IPTV09.m3u
 
 #EXTINF:-1, IPTV 10
-http://line.stealthdino.com:80/get.php?username=0c8e4d48dd&password=ayedder99&type=m3u_plus
+https://raw.githubusercontent.com/BraneKostic/LISTE/main/IPTV10.m3u
 
 #EXTINF:-1, IPTV 11
-http://obsfullhd.tv:25461/get.php?username=@localhdtv&password=WJudqvpAbuP8&type=m3u_plus
-
-#EXTINF:-1, IPTV 12
-http://sniperstv.vip:8080/get.php?username=Marsis12642-78864qdqdaz&password=Marsis12642_AyzyqjdqdbG&type=m3u_plus
-
-#EXTINF:-1, IPTV 13
-http://supermega.vip:25461/get.php?username=heater&password=heater&type=m3u_plus
-
-#EXTINF:-1, IPTV 14
-http://my.forcetv.pro:8880/get.php?username=Xl4Pwguafa&password=KhRyU3IY52&type=m3u_plus
-
-#EXTINF:-1, IPTV 15
 http://45.179.140.242:8000/playlist.m3u8
 
-#EXTINF:-1, IPTV 16
+#EXTINF:-1, IPTV 12
 http://50.7.149.34:8001/playlist.m3u
 
-#EXTINF:-1, IPTV 17
+#EXTINF:-1, IPTV 13
 http://62.176.77.22:9781/playlist.m3u
 
-#EXTINF:-1, IPTV 18
+#EXTINF:-1, IPTV 14
 http://46.10.218.219:8000/playlist.m3u
 
-#EXTINF:-1, IPTV 19
+#EXTINF:-1, IPTV 15
 http://185.44.211.20:18071/playlist.m3u
 
-#EXTINF:-1, IPTV 20
+#EXTINF:-1, IPTV 16
 http://149.62.183.198:8001/playlist.m3u
 
-#EXTINF:-1, IPTV 21
+#EXTINF:-1, IPTV 17
 http://163.172.87.151:8000/playlist.m3u
 
-#EXTINF:-1, IPTV 22
+#EXTINF:-1, IPTV 18
 http://92.246.85.119:8000/playlist.m3u
 
-#EXTINF:-1, IPTV 23
+#EXTINF:-1, IPTV 19
 http://82.197.214.59:4000/playlist.m3u
 
-#EXTINF:-1, IPTV 24
+#EXTINF:-1, IPTV 20
 http://62.131.92.221:60030/playlist.m3u
-
-#EXTINF:-1, IPTV 25
-http://62.131.92.221:60130/playlist.m3u
-
-#EXTINF:-1, IPTV 26
-http://62.131.92.221:60150/playlist.m3u
-
-#EXTINF:-1, IPTV 27
-http://62.131.92.221:60230/playlist.m3u
-
-#EXTINF:-1, IPTV 28
-http://62.131.92.221:60330/playlist.m3u
-
-#EXTINF:-1, IPTV 29
-http://62.131.92.221:60530/playlist.m3u
-
-#EXTINF:-1, IPTV 30
-http://62.131.92.221:60630/playlist.m3u
-
-#EXTINF:-1, IPTV 31
-http://86.89.104.199:60130/playlist.m3u
-
-#EXTINF:-1, IPTV 32
-http://86.89.104.199:60230/playlist.m3u
-
-#EXTINF:-1, IPTV 33
-http://86.89.104.199:60330/playlist.m3u
-
-#EXTINF:-1, IPTV 34
-http://86.89.104.199:60530/playlist.m3u
-
-#EXTINF:-1, IPTV 35
-http://86.89.104.199:60630/playlist.m3u
-
-#EXTINF:-1, IPTV 36
-http://87.212.248.44:60130/playlist.m3u
-
-#EXTINF:-1, IPTV 37
-http://87.212.248.44:60230/playlist.m3u
-
-#EXTINF:-1, IPTV 38
-http://87.212.248.44:60330/playlist.m3u
-
-#EXTINF:-1, IPTV 39
-http://87.212.248.44:60530/playlist.m3u
-
-#EXTINF:-1, IPTV 40
-http://87.212.248.44:60630/playlist.m3u
