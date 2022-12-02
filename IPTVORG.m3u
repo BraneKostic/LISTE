@@ -2090,275 +2090,270 @@ https://iptv-org.github.io/iptv/regions/wafr.m3u
 #EXTGRP: Region
 https://iptv-org.github.io/iptv/regions/int.m3u
 
-
-
-
-
-
-#EXTINF:-1, 
+#EXTINF:-1, Adult
 #EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_pluto.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_adultiptv.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/by_sluhay.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_stingray.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ch_samsung.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, Adult Swim [Germany]
 #EXTGRP: Streaming services
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_adultswim.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_pluto.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_rakuten.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dk_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_pluto.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_rakuten.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_rakuten.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_euronews.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_pluto.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_rakuten.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ie_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/it_rakuten.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/it_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lu_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx_pluto.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nl_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/no_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nz_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_catcast.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_okkotv.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/se_samsung.m3u
-
-#EXTINF:-1, Adult/fubo
-#EXTGRP: Other
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_adultiptv.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, Adult Swim [USA]
 #EXTGRP: Streaming services
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_adultswim.m3u
 
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_bumblebee.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_distro.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_fubo.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_glewedtv.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_imdbtv.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_klowdtv.m3u
-
-#EXTINF:-1, 
+#EXTINF:-1, BTV [USA]
 #EXTGRP: Streaming services
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_localbtv.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Bumble Bee [USA]
 #EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/at_samsung.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_bumblebee.m3u
 
-#EXTINF:-1, 
+#EXTINF:-1, Catcast [Russia]
 #EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd_jagobd.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/be_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pbs.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_plex.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pluto.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_redbox.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_redtraffic.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_roku.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_samsung.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_simultv.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_ssh101.m3u
-
-#EXTINF:-1, 
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_stirr.m3u
-
-#EXTINF:-1, TCL [US]
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_tcl.m3u
-
-#EXTINF:-1, Tubi [US]
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_tubi.m3u
-
-#EXTINF:-1, Vizio [US]
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_vizio.m3u
-
-#EXTINF:-1, WFMZ [US]
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_wfmz.m3u
-
-#EXTINF:-1, Xumo [US]
-#EXTGRP: Streaming services
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_xumo.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_catcast.m3u
 
 #EXTINF:-1, Channel Box [UK]
 #EXTGRP: Streaming services
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_channelbox.m3u
 
-#EXTINF:-1, Pluto [UK]
+#EXTINF:-1, Distro TV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_distro.m3u
+
+#EXTINF:-1, Euronews [France]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_euronews.m3u
+
+#EXTINF:-1, fuboTV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_fubo.m3u
+
+#EXTINF:-1, Glewed TV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_glewedtv.m3u
+
+#EXTINF:-1, IMDb TV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_imdbtv.m3u
+
+#EXTINF:-1, JagoBD [Bangladeshi]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd_jagobd.m3u
+
+#EXTINF:-1, Klowd TV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_klowdtv.m3u
+
+#EXTINF:-1, Okko TV [Russia]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_okkotv.m3u
+
+#EXTINF:-1, PBS [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pbs.m3u
+
+#EXTINF:-1, Plex [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_plex.m3u
+
+#EXTINF:-1, Pluto TV [Brasil]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_pluto.m3u
+
+#EXTINF:-1, Pluto TV [Mexico]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx_pluto.m3u
+
+#EXTINF:-1, Pluto TV [France]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_pluto.m3u
+
+#EXTINF:-1, Pluto TV [Germany]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_pluto.m3u
+
+#EXTINF:-1, Pluto TV [Spain]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_pluto.m3u
+
+#EXTINF:-1, Pluto TV [UK]
 #EXTGRP: Streaming services
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_pluto.m3u
+
+#EXTINF:-1, Pluto TV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pluto.m3u
+
+#EXTINF:-1, Rakuten [Finland]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_rakuten.m3u
+
+#EXTINF:-1, Rakuten [France]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_rakuten.m3u
+
+#EXTINF:-1, Rakuten [Germany]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_rakuten.m3u
+
+#EXTINF:-1, Rakuten [Italy]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/it_rakuten.m3u
+
+#EXTINF:-1, Rakuten [Spain]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_rakuten.m3u
 
 #EXTINF:-1, Rakuten [UK]
 #EXTGRP: Streaming services
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_rakuten.m3u
 
+#EXTINF:-1, Redbox [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_redbox.m3u
+
+#EXTINF:-1, Red Traffic [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_redtraffic.m3u
+
+#EXTINF:-1, Roku [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_roku.m3u
+
+#EXTINF:-1, Samsung TV Plus [Australia]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Austria]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/at_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Belgium]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/be_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Brasil]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Canada]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Denmark]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/dk_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Finland]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fi_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [France]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Germany]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Ireland]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ie_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [India]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Italy]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/it_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Luxemburg]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lu_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Mexico]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Netherland]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nl_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [New Zeland]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nz_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Norway]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/no_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Portugal]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Spain]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Sweden]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/se_samsung.m3u
+
+#EXTINF:-1, Samsung TV Plus [Swiss]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ch_samsung.m3u
+
 #EXTINF:-1, Samsung TV Plus [UK]
 #EXTGRP: Streaming services
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_samsung.m3u
 
+#EXTINF:-1, Samsung TV Plus [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_samsung.m3u
+
+#EXTINF:-1, SimulTV [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_simultv.m3u
+
+#EXTINF:-1, Sluhay [Belarusian]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/by_sluhay.m3u
+
 #EXTINF:-1, Sports Tribal [UK]
 #EXTGRP: Streaming services
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk_sportstribal.m3u
+
+#EXTINF:-1, SSH101 [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_ssh101.m3u
+
+#EXTINF:-1, Stingray [Canada]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca_stingray.m3u
+
+#EXTINF:-1, Stirr [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_stirr.m3u
+
+#EXTINF:-1, TCL [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_tcl.m3u
+
+#EXTINF:-1, Tubi [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_tubi.m3u
+
+#EXTINF:-1, Vizio [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_vizio.m3u
+
+#EXTINF:-1, WFMZ [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_wfmz.m3u
+
+#EXTINF:-1, Xumo [USA]
+#EXTGRP: Streaming services
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_xumo.m3u
