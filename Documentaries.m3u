@@ -92,6 +92,14 @@ https://ftphost.nohum.net/video/30 Years of National Geographic Specials.mp4
 #EXTGRP: #
 https://ftphost.nohum.net/video/500 Nations/Prologue - Wounded Knee Legacy.mp4
 
+#EXTINF:-1, 102 Minutes That Changed America (2008)
+#EXTGRP: #
+https://ftphost.nohum.net/video/History Channel/102 Minutes That Changed America T1.mp4
+
+#EXTINF:-1, 102 Minutes That Changed America (2008) [Bonus]
+#EXTGRP: #
+https://ftphost.nohum.net/video/History Channel/102 Minutes That Changed America T2.mp4
+
 #EXTINF:-1, 500 Nations: (E1) The Ancestors, (E2) Mexico
 #EXTGRP: #
 https://ftphost.nohum.net/video/500 Nations/Disc 1 - Episode 1 (The Ancestors) & 2 (Mexico).mp4
@@ -656,6 +664,10 @@ https://ftphost.nohum.net/video/America Revealed - Electric Nation.mp4
 #EXTGRP: A
 https://ftphost.nohum.net/video/America Revealed - Made in the USA.mp4
 
+#EXTINF:-1, American Experience S10E10: Influenza 1918
+#EXTGRP: A
+https://ftphost.nohum.net/video/Influenza 1918.mp4
+
 #EXTINF:-1, American Experience S24E05: Amish
 #EXTGRP: A 
 https://ftphost.nohum.net/video/Amish.mp4
@@ -664,9 +676,17 @@ https://ftphost.nohum.net/video/Amish.mp4
 #EXTGRP: A
 https://ftphost.nohum.net/video/American Experience 1964.mp4
 
-#EXTINF:-1, American Experience S10E10: Influenza 1918
+#EXTINF:-1, American Experience S29E08: The Great War (Part 1)
 #EXTGRP: A
-https://ftphost.nohum.net/video/Influenza 1918.mp4
+https://ftphost.nohum.net/video/The Great War/Disc 1.mp4
+
+#EXTINF:-1, American Experience S29E09: The Great War (Part 2)
+#EXTGRP: A
+https://ftphost.nohum.net/video/The Great War/Disc 2.mp4
+
+#EXTINF:-1, American Experience S29E10: The Great War (Part 3)
+#EXTGRP: A
+https://ftphost.nohum.net/video/The Great War/Disc 3.mp4
 
 #EXTINF:-1, American Experience S31E02: Chasing The Moon (Part 1): A Place Beyond The Sky
 #EXTGRP: A
@@ -3684,6 +3704,18 @@ http://doc.downloadha.com/Behnam/Documentaries/February2018/BBC.Panorama.2018.Wh
 #EXTGRP: B
 http://doc.downloadha.com/Behnam/Documentaries/January2018/BBC.Pappanos.Essential.Tosca.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mkv
 
+#EXTINF:-1, BBC Planet Earth A Celebration
+#EXTGRP: B
+http://doc.downloadha.com/h/Documentaries/September2020/BBC.Planet.Earth.A.Celebration.1080p.HDTV.x265.AAC.MVGroup_www.Downloadha.com_.mkv
+
+#EXTINF:-1, BBC Planet Earth A Celebration
+#EXTGRP: B
+http://doc.downloadha.com/h/Documentaries/December2020/Planet.Earth.A.Celebration.2020.1080p.iP.WEB-DL.AAC2.0.H.264-BLUTONiUM_www.Downloadha.com_.mkv
+
+#EXTINF:-1, BBC Planet Earth A Celebration
+#EXTGRP: B
+http://doc.downloadha.com/h/Documentaries/December2020/Planet.Earth.A.Celebration.2020.1080p.iP.WEBRip.x264-RARBG_www.Downloadha.com_.mp4
+
 #EXTINF:-1, BBC Planet Earth S01E01: From Pole To Pole
 #EXTGRP: B
 http//s5.bitdl.ir/Clips/Documentary/BBC.planet.Earth.1080p/Planet.Earth.1080p.BluRay.x264.Ep1.mkv
@@ -3696,9 +3728,17 @@ http//s5.bitdl.ir/Clips/Documentary/BBC.planet.Earth.1080p/Planet.Earth.1080p.Bl
 #EXTGRP: B
 http//s5.bitdl.ir/Clips/Documentary/BBC.planet.Earth.1080p/Planet.Earth.1080p.BluRay.x264.Ep3.mkv
 
+#EXTINF:-1, BBC Planet Earth S01E03: Fresh Water
+#EXTGRP: 
+https://ftphost.nohum.net/video/Planet Earth/From Pole to Pole, Mountains and Fresh Water.mp4
+
 #EXTINF:-1, BBC Planet Earth S01E04: Caves
 #EXTGRP: B
 http//s5.bitdl.ir/Clips/Documentary/BBC.planet.Earth.1080p/Planet.Earth.1080p.BluRay.x264.Ep4.mkv
+
+#EXTINF:-1, BBC Planet Earth S01E04: Caves
+#EXTGRP: 
+https://ftphost.nohum.net/video/Planet Earth/Caves, Deserts and Ice Worlds.mp4
 
 #EXTINF:-1, BBC Planet Earth S01E05: Deserts
 #EXTGRP: B
@@ -3711,6 +3751,10 @@ http//s5.bitdl.ir/Clips/Documentary/BBC.planet.Earth.1080p/Planet.Earth.1080p.Bl
 #EXTINF:-1, BBC Planet Earth S01E07: Great Plains
 #EXTGRP: B
 http//s5.bitdl.ir/Clips/Documentary/BBC.planet.Earth.1080p/Planet.Earth.1080p.BluRay.x264.Ep7.mkv
+
+#EXTINF:-1, BBC Planet Earth S01E07: Great Plains
+#EXTGRP: 
+https://ftphost.nohum.net/video/Planet Earth/Great Plains, Jungles and Shallow Seas.mp4
 
 #EXTINF:-1, BBC Planet Earth S01E08: Jungles
 #EXTGRP: B
@@ -3728,17 +3772,9 @@ http//s5.bitdl.ir/Clips/Documentary/BBC.planet.Earth.1080p/Planet.Earth.10.Seaso
 #EXTGRP: B
 http//s5.bitdl.ir/Clips/Documentary/BBC.planet.Earth.1080p/Planet.Earth.11.Ocean.Deep.2006.1080p.HDDVD.x264-AJP.mkv
 
-#EXTINF:-1, BBC Planet Earth A Celebration
-#EXTGRP: B
-http://doc.downloadha.com/h/Documentaries/September2020/BBC.Planet.Earth.A.Celebration.1080p.HDTV.x265.AAC.MVGroup_www.Downloadha.com_.mkv
-
-#EXTINF:-1, BBC Planet Earth A Celebration
-#EXTGRP: B
-http://doc.downloadha.com/h/Documentaries/December2020/Planet.Earth.A.Celebration.2020.1080p.iP.WEB-DL.AAC2.0.H.264-BLUTONiUM_www.Downloadha.com_.mkv
-
-#EXTINF:-1, BBC Planet Earth A Celebration
-#EXTGRP: B
-http://doc.downloadha.com/h/Documentaries/December2020/Planet.Earth.A.Celebration.2020.1080p.iP.WEBRip.x264-RARBG_www.Downloadha.com_.mp4
+#EXTINF:-1, BBC Planet Earth: The Future - Saving Species, Into The Wilderness And Living Together
+#EXTGRP: 
+https://ftphost.nohum.net/video/Planet Earth/Saving Species, Into the WIlderness and Living Together.mp4
 
 #EXTINF:-1, BBC Planet Earth II S01E01: Islands
 #EXTGRP: B
@@ -7476,6 +7512,58 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Cyberwar.2016.
 #EXTGRP: C
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Cyberwar.2016.S02E02.HDTV.x264-W4F%20%28www.Downloadha.com%29.mkv
 
+#EXTINF:-1, Cycles Of Life: Exploring Biology E01: The Unity And Diversity Of Life
+#EXTGRP: C
+https://ftphost.nohum.net/video/Cycles/Cycles 1_1.mp4
+
+#EXTINF:-1, Cycles Of Life: Exploring Biology E02: Chemical Foundations Of Life
+#EXTGRP: C
+https://ftphost.nohum.net/video/Cycles/Cycles 1_2.mp4
+
+#EXTINF:-1, Cycles Of Life: Exploring Biology E03: Secrets Of The Cell
+#EXTGRP: C
+https://ftphost.nohum.net/video/Cycles/Cycles 1_3.mp4
+
+#EXTINF:-1, Cycles Of Life: Exploring Biology E04: The Power Of Metabolism
+#EXTGRP: C
+https://ftphost.nohum.net/video/Cycles/Cycles 1_4.mp4
+
+#EXTINF:-1, Cycles Of Life: Exploring Biology E05: Energy In – Energy Out
+#EXTGRP: C
+https://ftphost.nohum.net/video/Cycles/Cycles 1_5.mp4
+
+#EXTINF:-1, Cycles Of Life: Exploring Biology E06: Generations: Mitosis And Meiosis
+#EXTGRP: C
+https://ftphost.nohum.net/video/Cycles/Cycles 1_6.mp4
+
+#EXTINF:-1, Cycles Of Life: Exploring Biology E07: Patterns Of Inheritance
+#EXTGRP: C
+https://ftphost.nohum.net/video/Cycles/Cycles 1_7.mp4
+
+#EXTINF:-1, Cycles Of Life: Exploring Biology E09: DNA: Blueprint Of Life
+#EXTGRP: C
+https://ftphost.nohum.net/video/Cycles/Cycles 1_9.mp4
+
+#EXTINF:-1, Cycles Of Life: Exploring Biology E10: Proteins: Building Blocks Of Life
+#EXTGRP: C
+https://ftphost.nohum.net/video/Cycles/Cycles 1_10.mp4
+
+#EXTINF:-1, Cycles Of Life: Exploring Biology E11: Macroevolution
+#EXTGRP: C
+https://ftphost.nohum.net/video/Cycles/Cycles 1_11.mp4
+
+#EXTINF:-1, Cycles Of Life: Exploring Biology E12: Viruses, Bacteria, And Protistans
+#EXTGRP: C
+https://ftphost.nohum.net/video/Cycles/Cycles 1_12.mp4
+
+#EXTINF:-1, Cycles Of Life: Exploring Biology E13: Fungi, Plants, And Animals
+#EXTGRP: C
+https://ftphost.nohum.net/video/Cycles/Cycles 1_13.mp4
+
+#EXTINF:-1, Cycles Of Life: Exploring Biology E14: Plant Structures
+#EXTGRP: C
+https://ftphost.nohum.net/video/Cycles/Cycles 1_14.mp4
+
 #EXTINF:-1, Da Vinci And The Code He Lived By (2005)
 #EXTGRP: D
 https://ftphost.nohum.net/video/DaVinci And The Code He Lived By.mp4
@@ -8336,6 +8424,10 @@ http://s5.bitdl.ir/Clips/Documentary/Earth.The.Biography/Earth.The.Biography.Par
 #EXTGRP: E
 https://ftphost.nohum.net/video/Earth the Biography/Atmosphere.mp4
 
+#EXTINF:-1, Earth: The Biography S01E03: Atmosphere
+#EXTGRP: E
+https://video.msl.duq.edu/MediasiteDeliver/MP4Video/530263ed001a4dac95ccb0086d69fa81.mp4/QualityLevels(format=m3u8)
+
 #EXTINF:-1, Earth: The Biography S01E04: Oceans
 #EXTGRP: E
 http://s5.bitdl.ir/Clips/Documentary/Earth.The.Biography/Earth.The.Biography.Part04.Oceans.mkv
@@ -8519,6 +8611,10 @@ http://54.39.100.236/EngTvSeri/Empire.G/1X5.mp4
 #EXTINF:-1, Empire Games S01E06
 #EXTGRP: E
 http://54.39.100.236/EngTvSeri/Empire.G/1X6.mp4
+
+#EXTINF:-1, Empires: The Greeks - Crucible Of Civilization E01: The Revolution, E02: Golden Age, E03: Empire Of The Mind
+#EXTGRP: E
+https://ftphost.nohum.net/video/The Greeks - Crucible of Civilization.mp4
 
 #EXTINF:-1, Engineering Catastrophes S01E01: Stadium Disaster
 #EXTGRP: E
@@ -9252,6 +9348,18 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Forces.Of.Natu
 #EXTGRP: F
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Forces.Of.Nature.With.Brian.Cox.2016.S01E04.HDTV.x264-C4TV%20%28www.Downloadha.com%29.mkv
 
+#EXTINF:-1, Founding Brothers (Part 1): A More Perfect Union
+#EXTGRP: F
+https://ftphost.nohum.net/video/The Founding Brothers/A More Perfect Union Part 1.mp4
+
+#EXTINF:-1, Founding Brothers (Part 2): A More Perfect Union
+#EXTGRP: F
+https://ftphost.nohum.net/video/The Founding Brothers/A More Perfect Union Part 2.mp4
+
+#EXTINF:-1, Founding Brothers: Evolution Of A Revolution
+#EXTGRP: F
+https://ftphost.nohum.net/video/The Founding Brothers/Evolution of a Revolution.mp4
+
 #EXTINF:-1, Fraud How They Steal Your ID
 #EXTGRP: F
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Fraud.How.They.Steal.Your.ID.2016.HDTV.720P.x264-MVGroup%20%28www.Downloadha.com%29.mkv
@@ -9311,6 +9419,10 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/From.Rocky.To.
 #EXTINF:-1, From Rocky To Creed The Legacy Continues
 #EXTGRP: F
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/From.Rocky.To.Creed.The.Legacy.Continues.2015.HDTV.x264-BATV%20%28www.Downloadha.com%29.mkv
+
+#EXTINF:-1, Frontline S24E05: The Tank Man
+#EXTGRP: F
+https://ftphost.nohum.net/video/PBS - The Tank Man.mp4
 
 #EXTINF:-1, Frozen Planet S01E01
 #EXTGRP: F
@@ -9955,6 +10067,10 @@ http://doc.downloadha.com/h/Documentaries/August2020/High.Score.2020.S01/1080p/H
 #EXTINF:-1, High Score S01E06
 #EXTGRP: H
 http://doc.downloadha.com/h/Documentaries/August2020/High.Score.2020.S01/1080p/High.Score.2020.S01E06.1080p.WEB.H264-AMRAP_www.Downloadha.com_.mkv
+
+#EXTINF:-1, History Undercover: Anatomy Of A Coup: The Cia In Iran
+#EXTGRP: H
+https://ftphost.nohum.net/video/History Channel/Anatomy of a Coup The CIA In Iran.mp4
 
 #EXTINF:-1, Hollywoodism - Jews,Movies And The American Dream (Hollywood,An Empire Of Their Own)
 #EXTGRP: H
@@ -13109,6 +13225,62 @@ http://doc.downloadha.com/Behnam/Documentaries/June2018/Napoleon.The.Russian.Cam
 #EXTGRP: N
 http://doc.downloadha.com/Behnam/Documentaries/April2018/NASA.Tour.of.the.Moon.2160p.x264.AAC-MVGroup_www.Downloadha.com_.mkv
 
+#EXTINF:-1, Native America S01E01: From Caves To Cosmos
+#EXTGRP: 
+https://ftphost.nohum.net/video/Native America/From Caves to Cosmos.mp4
+
+#EXTINF:-1, Native America S01E02: Nature To Nations
+#EXTGRP: 
+https://ftphost.nohum.net/video/Native America/Nature to Nations.mp4
+
+#EXTINF:-1, Native America S01E03: Cities Of The Sky
+#EXTGRP: 
+https://ftphost.nohum.net/video/Native America/Cities of the Sky.mp4
+
+#EXTINF:-1, Native America S01E04: New World Rising
+#EXTGRP: 
+https://ftphost.nohum.net/video/Native America/New World Rising.mp4
+
+#EXTINF:-1, Nature S14E04: The World of Penguins
+#EXTGRP: N
+https://ftphost.nohum.net/video/Nature/The World of Penguins.mp4
+
+#EXTINF:-1, Nature S22E10: Ireland
+#EXTGRP: N
+https://ftphost.nohum.net/video/Nature/Ireland.mp4
+
+#EXTINF:-1, Nature S22E12: Land Of The Falling Lakes
+#EXTGRP: N
+https://ftphost.nohum.net/video/Nature/Land of the Falling Lakes.mp4
+
+#EXTINF:-1, Nature S23E04: Violent Hawaii
+#EXTGRP: N
+https://ftphost.nohum.net/video/Nature/Violent Hawaii.mp4
+
+#EXTINF:-1, Nature S23E06: Cuba - Wild Island Of The Caribbean
+#EXTGRP: N
+https://ftphost.nohum.net/video/Nature/Cuba-Wild Island of the Caribbean.mp4
+
+#EXTINF:-1, Nature S24E05: Life In Death Valley
+#EXTGRP: N
+https://ftphost.nohum.net/video/Nature/Life in Death Valley.mp4
+
+#EXTINF:-1, Nature S25E02: Penguins Of The Antarctic
+#EXTGRP: N
+https://ftphost.nohum.net/video/Nature/Penguins of the Antarctic.mp4
+
+#EXTINF:-1, Nature S25E05: Rhinoceros
+#EXTGRP: N
+https://ftphost.nohum.net/video/Nature/Rhinoceros.mp4
+
+#EXTINF:-1, Nature S25E08: Andes - The Dragon's Back
+#EXTGRP: N
+https://ftphost.nohum.net/video/Nature/Andes-The Dragon's Back.mp4
+
+#EXTINF:-1, Nature S25E09: Unforgettable Elephants
+#EXTGRP: N
+https://ftphost.nohum.net/video/Nature/Unforgettable Elephants.mp4
+
 #EXTINF:-1, Natures Epic Journeys S01E01 (720p)
 #EXTGRP: N
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Natures.Epic.Journeys.2016.S01E01.HDTV.720P.x264-C4tv%20%28www.Downloadha.com%29.mkv
@@ -13385,6 +13557,10 @@ http://doc.downloadha.com/parsa/February2019/N.G.Explorer.Series.11.Yellowstone.
 #EXTGRP: N
 http://doc.downloadha.com/h/Documentaries/February%202017/parsa2/NG.Explorer.Moment.of.Death.720p.WEBRip.x264.AC3%20%28www.Downloadha.com%29.mkv
 
+#EXTINF:-1, NGC Human Footprint
+#EXTGRP: N
+https://ftphost.nohum.net/video/National Geographic/Human Footprint.mp4
+
 #EXTINF:-1, NGC Inside Google
 #EXTGRP: N
 http://s5.bitdl.ir/Clips/Documentary/Megafactories/Megafactories.Inside.Google.bitdownload.ir.mkv
@@ -13392,6 +13568,10 @@ http://s5.bitdl.ir/Clips/Documentary/Megafactories/Megafactories.Inside.Google.b
 #EXTINF:-1, NGC Live From Space
 #EXTGRP: N
 http://s5.bitdl.ir/Clips/Documentary/National.Geographic.Live.from.Space.2014.720p.HD.bitdownload.ir.mp4
+
+#EXTINF:-1, NGC Masters Of The Arctic Ice
+#EXTGRP: N
+https://ftphost.nohum.net/video/National Geographic/Masters of the Arctic Ice.mp4
 
 #EXTINF:-1, NGC The Pack Lions
 #EXTGRP: N
@@ -13477,6 +13657,30 @@ http://doc.downloadha.com/Behnam/Documentaries/April2018/Nomads.of.the.Serengeti
 #EXTGRP: N
 http://doc.downloadha.com/Behnam/Documentaries/April2018/Nomads.of.the.Serengeti.Series.1.5of5.Cradle.of.Mankind.1080p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
 
+#EXTINF:-1, Nova S21E12: The Secret Of The Wild Child
+#EXTGRP: N
+https://ftphost.nohum.net/video/Secret of the Wild Child.mp4
+
+#EXTINF:-1, Nova S28E13: Secrets Of The Mind
+#EXTGRP: N
+https://ftphost.nohum.net/video/Secrets of the Mind.mp4
+
+#EXTINF:-1, Nova S31E14: Origins: Back To The Beginning
+#EXTGRP: N
+https://ftphost.nohum.net/video/Origin/Back To The Beginning.mp4
+
+#EXTINF:-1, Nova S31E11: Origins: Earth Is Born
+#EXTGRP: N
+https://ftphost.nohum.net/video/Origin/Earth Is Born .mp4
+
+#EXTINF:-1, Nova S31E12: Origins: How Life Began
+#EXTGRP: N
+https://ftphost.nohum.net/video/Origin/How Life Began.mp4
+
+#EXTINF:-1, Nova S31E13: Origins: Where Are The Aliens?
+#EXTGRP: N
+https://ftphost.nohum.net/video/Origin/Where Are The Aliens.mp4
+
 #EXTINF:-1, Nova S36E17: What Darwin Never Knew
 #EXTGRP: N
 https://ftphost.nohum.net/video/What Darwin Never Knew.mp4
@@ -13508,6 +13712,10 @@ http://doc.downloadha.com/parsa/February2019/Oceans.Our.Blue.Planet.2018.DOCU.10
 #EXTINF:-1, Oceans Our Blue Planet
 #EXTGRP: O
 http://doc.downloadha.com/parsa/February2019/Oceans.Our.Blue.Planet.2018.DOCU.720p.BluRay.H264.AAC-RARBG_www.Downloadha.com_.mp4
+
+#EXTINF:-1, Ode To Joy And Freedom: The Fall Of The Berlin Wall
+#EXTGRP: O
+https://ftphost.nohum.net/video/Ode to Joy and Freedom - The Fall of the Berlin Wall.mp4
 
 #EXTINF:-1, Of Men And War
 #EXTGRP: O
@@ -14989,6 +15197,10 @@ http://doc.downloadha.com/Behnam/Documentaries/February2018/Secret.of.Water.720p
 #EXTGRP: S
 http://doc.downloadha.com/Behnam/Documentaries/March2018/Secrets.Headless.Gladiators.of.York.720p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
 
+#EXTINF:-1, Secrets Of Body Language
+#EXTGRP: S
+https://ftphost.nohum.net/video/Secrets of Body Language.mp4
+
 #EXTINF:-1, Secrets Of Bones S01E01
 #EXTGRP: S
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Secrets.Of.Bones.2014.S01E01.Webdl.720P.x264-MVGroup%20%28www.Downloadha.com%29.mkv
@@ -15128,6 +15340,10 @@ http://doc.downloadha.com/h/Documentaries/April2020/Secrets.Unlocked.Series.1/Se
 #EXTINF:-1, Secrets Unlocked Series S01E14: Nefertiti
 #EXTGRP: S
 http://doc.downloadha.com/h/Documentaries/April2020/Secrets.Unlocked.Series.1/Secrets.Unlocked.Series.1.Part.14.Nefertiti.1080p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
+
+#EXTINF:-1, Selma: The Bridge To The Ballot
+#EXTGRP: S
+https://ftphost.nohum.net/video/Selma The Bridge to the Ballot.mp4
 
 #EXTINF:-1, Senna
 #EXTGRP: S
@@ -15316,6 +15532,22 @@ http://doc.downloadha.com/h/Documentaries/June2019/Skyscrapers.Engineering.the.F
 #EXTINF:-1, Skyscrapers Engineering The Future S01E06: Worlds Tallest Buildings
 #EXTGRP: S
 http://doc.downloadha.com/h/Documentaries/June2019/Skyscrapers.Engineering.the.Future.Series.1/Skyscrapers.Engineering.the.Future.Series.1.6of6.Worlds.Tallest.Buildings.720p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
+
+#EXTINF:-1, Slavery And The Making Of America S01E01: The Downward Spiral
+#EXTGRP: S
+https://ftphost.nohum.net/video/Slavery and the Making of America/Volume 1 - The Downward Spiral.mp4
+
+#EXTINF:-1, Slavery And The Making Of America S01E02: Liberty In The Air
+#EXTGRP: S
+https://ftphost.nohum.net/video/Slavery and the Making of America/Volume 2 - Liberty is in the Air.mp4
+
+#EXTINF:-1, Slavery And The Making Of America S01E03: Seeds Of Destruction
+#EXTGRP: S
+https://ftphost.nohum.net/video/Slavery and the Making of America/Volume 3 - Seeds of Destruction.mp4
+
+#EXTINF:-1, Slavery And The Making Of America S01E04: The Challenge Of Freedom
+#EXTGRP: S
+https://ftphost.nohum.net/video/Slavery and the Making of America/Volume 4 - The Challange of Freedom.mp4
 
 #EXTINF:-1, Smithsonian Panamas Animal Highway
 #EXTGRP: S
@@ -16104,6 +16336,30 @@ http://doc.downloadha.com/h/Documentaries/January%202017/The.74th.Annual.Golden.
 #EXTINF:-1, The 120 Best Goals Of Diego Maradona
 #EXTGRP: T
 http://s5.bitdl.ir/Clips/Documentary/The.120.Best.Goals.Of.Diego.Maradona.avi
+
+#EXTINF:-1, The African Americans: Many Rivers To Cross With Henry Louis Gates, Jr. S01E01: The Black Atlantic (1500-1800)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The African Americans/The African Americans_3.mp4
+
+#EXTINF:-1, The African Americans: Many Rivers To Cross With Henry Louis Gates, Jr. S01E02: The Age of Slavery (1800-1860)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The African Americans/The African Americans_4.mp4
+
+#EXTINF:-1, The African Americans: Many Rivers To Cross With Henry Louis Gates, Jr. S01E03: Into The Fire (1861-1890)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The African Americans/The African Americans_5.mp4
+
+#EXTINF:-1, The African Americans: Many Rivers To Cross With Henry Louis Gates, Jr. S01E04: Making A Way Out Of No Way (1897-1940)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The African Americans/The African Americans2_3.mp4
+
+#EXTINF:-1, The African Americans: Many Rivers To Cross With Henry Louis Gates, Jr. S01E05: Rise! (1940-1968)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The African Americans/The African Americans2_4.mp4
+
+#EXTINF:-1, The African Americans: Many Rivers To Cross With Henry Louis Gates, Jr. S01E06: A More Perfect Union (1968-2013)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The African Americans/The African Americans2_5.mp4
 
 #EXTINF:-1, The Age Of A.I. S01E01: How Far Is Too Far
 #EXTGRP: T
@@ -17821,6 +18077,10 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/The.Hairy.Bike
 #EXTGRP: T
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/The.Hairy.Bikers.Chicken.And.Egg.2016.S01E02.HDTV.x264-mSD%20%28www.Downloadha.com%29.mkv
 
+#EXTINF:-1, The Haunted History Of Halloween
+#EXTGRP: T
+https://ftphost.nohum.net/video/The Haunted History of Halloween.mp4
+
 #EXTINF:-1, The History Of English
 #EXTGRP: T
 http://doc.downloadha.com/Behnam/Documentaries/May2018/The.History.of.English.1080p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
@@ -18125,6 +18385,62 @@ http://doc.downloadha.com/Behnam/Documentaries/May2018/The.Living.Beach.Series.1
 #EXTGRP: T
 http://doc.downloadha.com/Behnam/Documentaries/May2018/The.Living.Beach.Series.1.6of6.California.1080p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
 
+#EXTINF:-1, The Living Planet S01E01: The Building Of The Earth
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Living Planet/The Building of the Earth.mp4
+
+#EXTINF:-1, The Living Planet S01E02: The Frozen World
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Living Planet/The Frozen World.mp4
+
+#EXTINF:-1, The Living Planet S01E03: The Northern Forests
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Living Planet/The Northern Forests.mp4
+
+#EXTINF:-1, The Living Planet S01E04: Jungle
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Living Planet/Jungle.mp4
+
+#EXTINF:-1, The Living Planet S01E05: Seas Of Grass
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Living Planet/Seas of Grass.mp4
+
+#EXTINF:-1, The Living Planet S01E06: The Baking Deserts
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Living Planet/The Baking Deserts.mp4
+
+#EXTINF:-1, The Living Planet S01E07: The Sky Above
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Living Planet/The Sky Above.mp4
+
+#EXTINF:-1, The Living Planet S01E08: Sweet Fresh Water
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Living Planet/Sweet Fresh Water.mp4
+
+#EXTINF:-1, The Living Planet S01E09: The Margins Of The Land
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Living Planet/The Margins of the Land.mp4
+
+#EXTINF:-1, The Living Planet S01E10: Worlds Apart
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Living Planet/Worlds Apart.mp4
+
+#EXTINF:-1, The Living Planet S01E11: The Open Ocean 
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Living Planet/The Open Ocean.mp4
+
+#EXTINF:-1, The Living Planet S01E12: New Worlds
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Living Planet/New Worlds.mp4
+
+#EXTINF:-1, The Making Of The Fittest: Evolving Switches, Evolving Bodies
+#EXTGRP: T
+https://ftphost.nohum.net/video/The Making of the Fittest - Evolving Switches Evolving Bodies.mp4
+
+#EXTINF:-1, The Making Of The Fittest: Got Lactase? The Co-Evolution Of Genes And Culture
+#EXTGRP: T
+https://ftphost.nohum.net/video/The Making of the Fittest - The Co-Evolution of Genes and Culture.mp4
+
 #EXTINF:-1, The Making Of Young Men
 #EXTGRP: T
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/The.Making.Of.Young.Men.2015.HDTV.x264-TVC%20%28www.Downloadha.com%29.mkv
@@ -18184,6 +18500,18 @@ http://54.39.100.236/EngTvSeri/TOMurder/TOM01x03.mp4
 #EXTINF:-1, The Object Of Murder S01E04
 #EXTGRP: T
 http://54.39.100.236/EngTvSeri/TOMurder/TOM01x04.mp4
+
+#EXTINF:-1, The Origin Of Species: The Making Of A Theory
+#EXTGRP: T
+https://ftphost.nohum.net/video/Origin of Species/Part 1.mp4
+
+#EXTINF:-1, The Origin Of Species: Lizards In An Evolutionary Tree
+#EXTGRP: T
+https://ftphost.nohum.net/video/Origin of Species/Part 2.mp4
+
+#EXTINF:-1, The Origin Of Species: The Beak Of The Finch
+#EXTGRP: T
+https://ftphost.nohum.net/video/Origin of Species/Part 3.mp4
 
 #EXTINF:-1, The Oslo Killing S01E01
 #EXTGRP: T
@@ -18373,6 +18701,70 @@ http://doc.downloadha.com/h/Documentaries/July2018/The.Planets.US.S02E15.Alien.O
 #EXTGRP: T
 https://www.beyondminds.org/archives/files/Documentaries/The%20Plot%20Against%20the%20President.mp4
 
+#EXTINF:-1, The Presidents S01E01: Washington To Monroe (1789-1825)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The Presidents/(1789 - 1825) Washington to Monroe.mp4
+
+#EXTINF:-1, The Presidents S01E01: Washington To Monroe (1789-1825)
+#EXTGRP: T
+https://ftphost.nohum.net/video/Presidents/Volume 1_2.mp4
+
+#EXTINF:-1, The Presidents S01E02: J. Q. Adams To Polk (1825-1849)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The Presidents/(1825 - 1849) John Q Adams to Polk.mp4
+
+#EXTINF:-1, The Presidents S01E02: J. Q. Adams To Polk (1825-1849)
+#EXTGRP: T
+https://ftphost.nohum.net/video/Presidents/Volume 1_3.mp4
+
+#EXTINF:-1, The Presidents S01E03: Taylor To Lincoln (1849-1865)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The Presidents/(1849 - 1865) Taylor to Lincoln.mp4
+
+#EXTINF:-1, The Presidents S01E03: Taylor To Lincoln (1849-1865)
+#EXTGRP: T
+https://ftphost.nohum.net/video/Presidents/Volume 1_4.mp4
+
+#EXTINF:-1, The Presidents S01E04: A. Johnson To Arthur (1865-1885)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The Presidents/(1865 - 1885) Andrew Johnson to Aruther.mp4
+
+#EXTINF:-1, The Presidents S01E05: Cleveland To Taft (1885-1913)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The Presidents/(1885 - 1913) Cleveland to Taft.mp4
+
+#EXTINF:-1, The Presidents S01E06: Wilson To F. Roosevelt (1913-1945)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The Presidents/(1913 - 1945) Wilson to Franklin D Roosevelt.mp4
+
+#EXTINF:-1, The Presidents S01E07: Truman To Ford (1945-1977)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The Presidents/(1945 - 1977) Truman to Ford.mp4
+
+#EXTINF:-1, The Presidents S01E07: Truman To Ford (1945-1977)
+#EXTGRP: T
+https://ftphost.nohum.net/video/Presidents/Volume 3_2.mp4
+
+#EXTINF:-1, The Presidents S01E08: Carter To Bush (1977-2005)
+#EXTGRP: T
+https://ftphost.nohum.net/video/The Presidents/(1977 - 2008) Carter to George W Bush.mp4
+
+#EXTINF:-1, The Presidents S01E08: Carter To Bush (1977-2005)
+#EXTGRP: T
+https://ftphost.nohum.net/video/Presidents/Volume 3_3.mp4
+
+#EXTINF:-1, The Presidents Bonus S01: The First Ladies
+#EXTGRP: T
+https://ftphost.nohum.net/video/The Presidents/Bonus Program - All the Presidents' Wives.mp4
+
+#EXTINF:-1, The Presidents Bonus S01: The First Ladies
+#EXTGRP: T
+https://ftphost.nohum.net/video/Presidents/Volume 3_4.mp4
+
+#EXTINF:-1, The President's Photographer: Fifty Years Inside The Oval Office
+#EXTGRP: T
+https://ftphost.nohum.net/video/Presidents Photographer.mp4
+
 #EXTINF:-1, The Rabbits Of Skomer
 #EXTGRP: T
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/The.Rabbits.Of.Skomer.2006.HDTV.720P.x264-MVGroup%20%28www.Downloadha.com%29.mkv
@@ -18396,6 +18788,62 @@ http://doc.downloadha.com/Behnam/Documentaries/March2018/The.Real.War.Of.Thrones
 #EXTINF:-1, The Real War Of Thrones The True History Of Europe 4/4: The King And The Emperor 1515-1558
 #EXTGRP: T
 http://doc.downloadha.com/Behnam/Documentaries/March2018/The.Real.War.Of.Thrones.The.True.History.of.Europe.4of4.The.King.And.The.Emperor.1515.1558.720p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
+
+#EXTINF:-1, The Revolution S01E01: Boston, Bloody Boston
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 1_2.mp4
+
+#EXTINF:-1, The Revolution S01E02: Rebellion To Revolution
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 1_3.mp4
+
+#EXTINF:-1, The Revolution S01E03: Declaring Independence
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 1_4.mp4
+
+#EXTINF:-1, The Revolution S01E04: American Crisis
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 1_5.mp4
+
+#EXTINF:-1, The Revolution S01E05: Path To World War
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 2_2.mp4
+
+#EXTINF:-1, The Revolution S01E06: Forging An Army
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 2_3.mp4
+
+#EXTINF:-1, The Revolution S01E07: Treason & Betrayal
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 2_4.mp4
+
+#EXTINF:-1, The Revolution S01E08: The War Heads South
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 3_2.mp4
+
+#EXTINF:-1, The Revolution S01E09: A Hornet's Nest
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 3_3.mp4
+
+#EXTINF:-1, The Revolution S01E10: The End Game
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 3_4.mp4
+
+#EXTINF:-1, The Revolution S01E11: Becoming a Nation
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 4_2.mp4
+
+#EXTINF:-1, The Revolution S01E12: Road To The Presidency
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 4_3.mp4
+
+#EXTINF:-1, The Revolution S01E13: A President and His Revolution
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 4_4.mp4
+
+#EXTINF:-1, The Revolution Behind The Camera 
+#EXTGRP: T
+https://ftphost.nohum.net/video/Revolution/Volume 4_5.mp4
 
 #EXTINF:-1, The Road Less Travelled S01E01
 #EXTGRP: T
@@ -18497,6 +18945,30 @@ http://doc.downloadha.com/h/Documentaries/September2019/The.Secret.Lives.Of.Big.
 #EXTGRP: T
 http://doc.downloadha.com/h/Documentaries/September2019/The.Secret.Lives.Of.Big.Cats.Series.1/The.Secret.Lives.Of.Big.Cats.Series.1.7of7.The.Secret.Lives.of.Cheetahs.1080p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mp4
 
+#EXTINF:-1, The Shape Of Life S01E01: Origins
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Shape of Life/Origins.mp4
+
+#EXTINF:-1, The Shape Of Life S01E02: Life On The Move
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Shape of Life/Life on the Move.mp4
+
+#EXTINF:-1, The Shape Of Life S01E03: The First Hunter
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Shape of Life/The First Hunter.mp4
+
+#EXTINF:-1, The Shape Of Life S01E04: The Conquerors
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Shape of Life/The Conquerors.mp4
+
+#EXTINF:-1, The Shape Of Life S01E05: Survival Game
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Shape of Life/Survival Game.mp4
+
+#EXTINF:-1, The Shape Of Life S01E07: Explosion Of Life
+#EXTGRP: 
+https://ftphost.nohum.net/video/The Shape of Life/Explosion of Life.mp4
+
 #EXTINF:-1, The Smash Brothers E01
 #EXTGRP: T
 http://doc.downloadha.com/parsa/February%202016/Files/The%20Smash%20Brothers%202013/The.Smash.Brothers.2013.E01.Webrip.720P.x264-BTN%20%28www.Downloadha.com%29.mkv
@@ -18564,6 +19036,22 @@ https://ftphost.nohum.net/video/The Story Of Math/Frontiers of Space.mp4
 #EXTINF:-1, The Story Of Math S01E04: To Infinity and Beyond
 #EXTGRP: 
 https://ftphost.nohum.net/video/The Story Of Math/To Infinity and Beyond.mp4
+
+#EXTINF:-1, The Supreme Court S01E01: One Nation Under Law
+#EXTGRP: T
+https://ftphost.nohum.net/video/Supreme Court - V1 One Nation Under Law.mp4
+
+#EXTINF:-1, The Supreme Court S01E02: A New Kind Of Justice
+#EXTGRP: T
+https://ftphost.nohum.net/video/Supreme Court - V2 A New Kind of Justice.mp4
+
+#EXTINF:-1, The Supreme Court S01E03: A Nation Of Liberties
+#EXTGRP: T
+https://ftphost.nohum.net/video/Supreme Court - V3 A Nation of Liberties.mp4
+
+#EXTINF:-1, The Supreme Court S01E04: The Rehnquist Revolution
+#EXTGRP: T
+https://ftphost.nohum.net/video/Supreme Court - V4 The Rehnquist Revolution.mp4
 
 #EXTINF:-1, The Universe S01E01: Secrets Of The Sun
 #EXTGRP: T
