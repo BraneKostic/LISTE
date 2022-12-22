@@ -680,6 +680,10 @@ https://ftphost.nohum.net/video/America Revealed - Made in the USA.mp4
 #EXTGRP: A
 https://ftphost.nohum.net/video/Influenza 1918.mp4
 
+#EXTINF:-1, American Experience S20E12: Roberto Clemente
+#EXTGRP: A
+https://ftphost.nohum.net/video/Roberto Clemente.mp4
+
 #EXTINF:-1, American Experience S24E05: Amish
 #EXTGRP: A 
 https://ftphost.nohum.net/video/Amish.mp4
@@ -5536,6 +5540,10 @@ http://doc.downloadha.com/Behnam/Documentaries/June2018/BBC.The.Wonder.of.Weeds.
 #EXTGRP: B
 http://doc.downloadha.com/Behnam/Documentaries/July2018/BBC.Working.for.the.American.Dream.720p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mkv
 
+#EXTINF:-1, Bear Island (2007)
+#EXTGRP: B
+https://ftphost.nohum.net/video/National Geographic/Bear Island.mp4
+
 #EXTINF:-1, Bears (2014)
 #EXTGRP: B
 http://54.39.100.236/EngKids/Bears.mp4
@@ -5753,16 +5761,24 @@ http://doc.downloadha.com/Behnam/Documentaries/October%202017/Billion.Dollar.Dea
 http://doc.downloadha.com/Behnam/Documentaries/October%202017/Billion.Dollar.Deals.And.How.They.Changed.Your.World.S01E03.Work.720p.HDTV-MVGroup_www.Downloadha.com_.mkv
 
 #EXTINF:-1, Biography - Charles Darwin: Evolution's Voice
-#EXTGRP: 
+#EXTGRP: B
 https://ftphost.nohum.net/video/Charles Darwin Biography- Evolution's Voice.mp4
 
 #EXTINF:-1, Biography - Joan of Arc: Virgin Warrior
 #EXTGRP: B
 https://ftphost.nohum.net/video/Biography - Joan of Arc Virgin Warrior.mp4
 
+#EXTINF:-1, Biography - Martin Luther King, Jr.: The Man And The Dream
+#EXTGRP: B
+https://ftphost.nohum.net/video/Marthin Luther King Jr - The Man and The Dream.mp4
+
 #EXTINF:-1, Biography - Pancho Villa: Outlaw Hero
 #EXTGRP: B
 https://ftphost.nohum.net/video/Biography - Pancho Villa.mp4
+
+#EXTINF:-1, Biography - Peter The Great
+#EXTGRP: B
+https://ftphost.nohum.net/video/Peter The Great.mp4
 
 #EXTINF:-1, Biography - Vladimir Lenin: Voice Of Revolution
 #EXTGRP: B
@@ -6796,6 +6812,10 @@ http://doc.downloadha.com/h/Documentaries/October2019/Ch5.World.War.II.in.Number
 #EXTGRP: C
 http://doc.downloadha.com/h/Documentaries/October2019/Ch5.World.War.II.in.Number/Ch5.World.War.II.in.Numbers.4of4.720p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mkv
 
+#EXTINF:-1, Cheetah Story (1999)
+#EXTGRP: C
+https://ftphost.nohum.net/video/National Geographic/A Cheetah Story.mp4
+
 #EXTINF:-1, Chefs Table S01E01
 #EXTGRP: C
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Chefs.Table.2015.S01E01.Webrip.720P.x264-Poke%20%28www.Downloadha.com%29.mkv
@@ -7667,6 +7687,10 @@ http://54.39.100.236/EngTvSeri/D.W.E/1X4.mp4
 #EXTINF:-1, Dark Web Exposed S01E01
 #EXTGRP: D
 http://54.39.100.236/EngTvSeri/D.W.E/1X5.mp4
+
+#EXTINF:-1, Darwin's Secret Notebooks (2009)
+#EXTGRP: D
+https://ftphost.nohum.net/video/National Geographic/Darwin's Secret Notebooks.mp4
 
 #EXTINF:-1, David Attenboroughs Ant Mountain
 #EXTGRP: D
@@ -8580,6 +8604,10 @@ http://doc.downloadha.com/parsa/March2019/Egypt.With.The.Worlds.Greatest.Explore
 #EXTGRP: E
 http://doc.downloadha.com/parsa/March2019/Egypt.With.The.Worlds.Greatest.Explorer.Series.1/Egypt.With.The.Worlds.Greatest.Explorer.Series.1.Part.3.No.Mans.Land.720p.HDTV.x264.AAC.MVGroup.org.mp4
 
+#EXTINF:-1, Egyptian Secrets Of The Afterlife (2009)
+#EXTGRP: E
+https://ftphost.nohum.net/video/National Geographic/Egyptian Secrets of the Afterlife.mp4
+
 #EXTINF:-1, Einstein Revealed (Part 1)
 #EXTGRP: E
 https://ftphost.nohum.net/video/Einstein Revealed Part 1.mp4
@@ -9464,6 +9492,10 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/From.Rocky.To.
 #EXTGRP: F
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/From.Rocky.To.Creed.The.Legacy.Continues.2015.HDTV.x264-BATV%20%28www.Downloadha.com%29.mkv
 
+#EXTINF:-1, Frontline S03E18: Memory Of The Camps
+#EXTGRP: F
+https://ftphost.nohum.net/video/Memory of the Camps.mp4
+
 #EXTINF:-1, Frontline S24E05: The Tank Man
 #EXTGRP: F
 https://ftphost.nohum.net/video/PBS - The Tank Man.mp4
@@ -10124,6 +10156,10 @@ http://doc.downloadha.com/h/Documentaries/August2020/High.Score.2020.S01/1080p/H
 #EXTGRP: H
 http://doc.downloadha.com/h/Documentaries/August2020/High.Score.2020.S01/1080p/High.Score.2020.S01E06.1080p.WEB.H264-AMRAP_www.Downloadha.com_.mkv
 
+#EXTINF:-1, History Of The Federal Republic Of Germany 1945-1955 (Teil 1)
+#EXTGRP: H
+https://ftphost.nohum.net/video/History of the Federal Republic of Germany 1945-1955.mp4
+
 #EXTINF:-1, History's Mysteries S08E05: Dr. Guillotin And His Execution Machine
 #EXTGRP: H
 https://ftphost.nohum.net/video/History Channel/Historys Mysteries.mp4
@@ -10143,6 +10179,10 @@ http://s5.bitdl.ir/Clips/Documentary/Hollywoodism%20-%20Jews,%20Movies,%20and%20
 #EXTINF:-1, Home (2009)
 #EXTGRP: H
 http://s5.bitdl.ir/Clips/Documentary/Home_2009_BRRip_720p.mkv
+
+#EXTINF:-1, Horatio's Drive: America's First Road Trip (2003)
+#EXTGRP: H
+https://ftphost.nohum.net/video/Horatio's Drive - America's First Road Trip.mp4
 
 #EXTINF:-1, How Internet Works
 #EXTGRP: H
@@ -10732,7 +10772,11 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/In.My.Fathers.
 #EXTGRP: I
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/In.My.Fathers.House.2015.HDTV.x264%20%28www.Downloadha.com%29.mkv
 
-#EXTINF:-1, In Search Of History - Scourge Of The Black Death
+#EXTINF:-1, In Search Of History: Salem Witches
+#EXTGRP: I
+https://ftphost.nohum.net/video/Salem Witches.mp4
+
+#EXTINF:-1, In Search Of History: Scourge Of The Black Death
 #EXTGRP: I
 https://ftphost.nohum.net/video/Black Death.mp4
 
@@ -11455,6 +11499,10 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Kevin.Hart.Wha
 #EXTINF:-1, Kevin Hart What Now
 #EXTGRP: K
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Kevin.Hart.What.Now.2016.BRrip.720P.x265-PSA%20%28www.Downloadha.com%29.mkv
+
+#EXTINF:-1, Keystone Species And Trophic Cascades
+#EXTGRP: K
+https://ftphost.nohum.net/video/Keystone Species and Trophic Cascades.mp4
 
 #EXTINF:-1, Killer Bods S01E01
 #EXTGRP: K
@@ -12912,6 +12960,14 @@ http://doc.downloadha.com/parsa/March2019/Mighty.Planes/S04/Mighty.Planes.Series
 #EXTGRP: M
 http://s5.bitdl.ir/Clips/Documentary/Mirase_Alberta_ver1.mp4
 
+#EXTINF:-1, Miss Representation (2011)
+#EXTGRP: M
+https://ftphost.nohum.net/video/Miss Representation.mp4
+
+#EXTINF:-1, Mysteries Of The Unseen World (2013)
+#EXTGRP: M
+https://ftphost.nohum.net/video/Mysteries of the Unseen World.mp4
+
 #EXTINF:-1, Modern Marvels: Space Stations
 #EXTGRP: M
 https://ftphost.nohum.net/video/History Channel/Modern Marvels - Space Stations.mp4
@@ -13729,6 +13785,14 @@ http://doc.downloadha.com/Behnam/Documentaries/April2018/Nomads.of.the.Serengeti
 #EXTGRP: N
 http://doc.downloadha.com/Behnam/Documentaries/April2018/Nomads.of.the.Serengeti.Series.1.5of5.Cradle.of.Mankind.1080p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
 
+#EXTINF:-1, Nova S10E04: Miracle Of Life
+#EXTGRP: N
+https://ftphost.nohum.net/video/Miracle of Life - NOVA.mp4
+
+#EXTINF:-1, Nova S19E12: Mind Of A Serial Killer
+#EXTGRP: N
+https://ftphost.nohum.net/video/Mind of a Serial Killer.mp4
+
 #EXTINF:-1, Nova S21E12: The Secret Of The Wild Child
 #EXTGRP: N
 https://ftphost.nohum.net/video/Secret of the Wild Child.mp4
@@ -13773,13 +13837,21 @@ https://ftphost.nohum.net/video/Ghost In Your Genes.mp4
 #EXTGRP: N
 https://ftphost.nohum.net/video/What Darwin Never Knew.mp4
 
+#EXTINF:-1, Nova S39E08: Hunting The Elements
+#EXTGRP: N
+https://ftphost.nohum.net/video/Hunting the Elements.mp4
+
 #EXTINF:-1, Nova S41E14: Vaccines - Calling The Shots
 #EXTGRP: N
 https://ftphost.nohum.net/video/Vaccines.mp4
 
-#EXTINF:-1, Nuremberg: Tyranny On Trial
+#EXTINF:-1, Nuremberg: Tyranny On Trial (1995)
 #EXTGRP: N
 https://ftphost.nohum.net/video/History Channel/Nuremberg - Tyranny on Trial.mp4
+
+#EXTINF:-1, Nuremberg: Tyranny On Trial (1995)
+#EXTGRP: N
+https://ftphost.nohum.net/video/Nuremberg.mp4
 
 #EXTINF:-1, Ocean Parks S01E01: Bonaire National Marine Park
 #EXTGRP: O
@@ -14441,6 +14513,10 @@ http://doc.downloadha.com/h/Documentaries/September2019/Penguins.2019.1080p.WEBR
 #EXTGRP: P
 http://doc.downloadha.com/h/Documentaries/September2019/Penguins.2019.WEBRip.x264-ION10_www.Downloadha.com_.mp4
 
+#EXTINF:-1, People Like Us: Social Class In America (2001)
+#EXTGRP: P
+https://ftphost.nohum.net/video/People Like Us.mp4
+
 #EXTINF:-1, Phenomenon - The Lost Archives: Monopoly Men
 #EXTGRP: P
 http://s5.bitdl.ir/Clips/Documentary/Phenomenon%20-%20The%20Lost%20Archives%20-%20Monopoly%20Men.avi
@@ -14469,6 +14545,10 @@ https://ftphost.nohum.net/video/National Geographic/Planet Carnivore-Sharks.mp4
 #EXTGRP: P
 https://ftphost.nohum.net/video/National Geographic/Planet Carnivore-Lions.mp4
 
+#EXTINF:-1, Please Vote For Me (2007)
+#EXTGRP: P
+https://ftphost.nohum.net/video/Please Vote For Me.mp4
+
 #EXTINF:-1, Point And Shoot
 #EXTGRP: P
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Point.And.Shoot.2014.Webrip.720P.x264-MkvCage%20%28www.Downloadha.com%29.mkv
@@ -14476,6 +14556,10 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Point.And.Shoo
 #EXTINF:-1, Polar Bears A Summer Odyssey
 #EXTGRP: P
 http://s5.bitdl.ir/Clips/Documentary/Polar.Bears.A.Summer.Odyssey.2012.BDRip.mkv
+
+#EXTINF:-1, Precipice Of Survival: The Southern Sea Otter (2004)
+#EXTGRP: P
+https://ftphost.nohum.net/video/Precipice of Survival - The Southern Sea Otter.mp4
 
 #EXTINF:-1, Prescription Thugs
 #EXTGRP: P
@@ -14492,6 +14576,10 @@ http://s5.bitdl.ir/Clips/Documentary/President.Actor.Cinema/President-Actor-Cine
 #EXTINF:-1, President Actor Cinema
 #EXTGRP: P
 http://s5.bitdl.ir/Clips/Documentary/President.Actor.Cinema/President-Actor-Cinema-HD-720p.bitdownload.ir.mp4
+
+#EXTINF:-1, Prisoners Among Us - Italian-American Identity And World War Ii
+#EXTGRP: P
+https://ftphost.nohum.net/video/Prisoners Among Us - Italian-American Identity and World War II.mp4
 
 #EXTINF:-1, PSI Factor S01E09: UFO Duplication & Clara's Friend
 #EXTGRP: P
@@ -14700,6 +14788,10 @@ http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Rats.2016.HDTV
 #EXTINF:-1, Rats
 #EXTGRP: R
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/Rats.2016.HDTV.720P.x265-MeGusta%20%28www.Downloadha.com%29.mkv
+
+#EXTINF:-1, RBG (Ruth Bader Ginsburg)
+#EXTGRP: R
+https://ftphost.nohum.net/video/RBG.mp4
 
 #EXTINF:-1, Redrum S02E05
 #EXTGRP: R
@@ -18929,9 +19021,21 @@ https://ftphost.nohum.net/video/Presidents Photographer.mp4
 #EXTGRP: T
 http://doc.downloadha.com/parsa/February%202016/Documentaries/DOC/The.Rabbits.Of.Skomer.2006.HDTV.720P.x264-MVGroup%20%28www.Downloadha.com%29.mkv
 
+#EXTINF:-1, The Real George Washington
+#EXTGRP: T
+https://ftphost.nohum.net/video/Pre 1790/The Real George Washington.mp4
+
+#EXTINF:-1, The Real George Washington
+#EXTGRP: T
+https://ftphost.nohum.net/video/Real George Washington.mp4
+
 #EXTINF:-1, The Real Secrets Hidden In Antarctica... Revealed (2017)
 #EXTGRP: T
 https://www.beyondminds.org/archives/files/Documentaries/The%20Real%20Secrets%20Hidden%20in%20Antarctica...%20Revealed.mp4
+
+#EXTINF:-1, The Real Story Of Thanksgiving
+#EXTGRP: T
+https://ftphost.nohum.net/video/Real History of Thanksgiving.mp4
 
 #EXTINF:-1, The Real War Of Thrones The True History Of Europe 1/4: War Is Declared 1328-1364
 #EXTGRP: T
@@ -22568,6 +22672,10 @@ http://doc.downloadha.com/h/Documentaries/August2020/World.War.II.Race.To.Victor
 #EXTINF:-1, World War II Race To Victory S01E06
 #EXTGRP: W
 http://doc.downloadha.com/h/Documentaries/August2020/World.War.II.Race.To.Victory/1080p/World.War.II.Race.To.Victory.S01E06.1080p.WEB.h264-ROBOTS_www.Downloadha.com_.mkv
+
+#EXTINF:-1, World War II: The War Chronicles [E05-08] Pursuit To The Rhine,The Bomber Offensive: Air War In Europe,The Battle Of The Bulge,The Battle Of Germany
+#EXTGRP: W
+https://ftphost.nohum.net/video/History Channel/The War in Europe - Part 2.mp4
 
 #EXTINF:-1, WWII's Most Daring Raids S01E01
 #EXTGRP: W
