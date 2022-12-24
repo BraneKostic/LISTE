@@ -2,11 +2,11 @@
 
 
 
-#EXTINF:-1 group_id="1" group-title="Group1-1" tvg-name="Channel 1" tvg-logo="https://img.freepik.com/premium-vector/clapper-film-movie-icon-design_24877-23150.jpg", Channel 1
-https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 1_5.mp4
-
-#EXTINF:-1 group_id="2" group-title="Group2-1" tvg-name="Channel 1" tvg-logo="https://img.freepik.com/premium-vector/clapper-film-movie-icon-design_24877-23150.jpg", Channel 1
-https://ftphost.nohum.net/video/10 Days That Changed America/10 Days That Changed America Vol 1_5.mp4
+#EXTINF:-1, BBC Blue Planet Live S01E01
+#EXTGRP: B/BLUE PLANET
+#EXTBG: https://wallpaperaccess.com/full/7516696.jpg
+#EXTSIZE: big
+http://doc.downloadha.com/parsa/March2019/BBC.Blue.Planet.Live.2019.1of4.720p.HDTV.x264.AAC.MVGroup_www.Downloadha.com_.mkv
 
 
 
